@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"ନେଟୱର୍କ-ପ୍ରୋଭାଇଡେଡ୍ ସମୟ ବ୍ୟବହାର କରନ୍ତୁ"</item>
+<item>"GPS--ପ୍ରୋଭାଇଡେଡ୍ ସମୟ ବ୍ୟବହାର କରନ୍ତୁ"</item>
+<item>"ନିଷ୍କ୍ରିୟ"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"ନେଟୱର୍କ-ପ୍ରୋଭାଇଡେଡ୍ ସମୟ ବ୍ୟବହାର କରନ୍ତୁ"</item>
+<item>"ନିଷ୍କ୍ରିୟ"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 ସେକେଣ୍ଡ"</item>
+<item>"6 ସେକେଣ୍ଡ"</item>
+<item>"ସର୍ବାଦ ଅନ୍‌"</item>
+<item>"ସବୁବେଳେ ବନ୍ଦ"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"ଏହା ବର୍ତ୍ତମାନଠାରୁ 1 ମିନିଟ୍ ଠାରୁ କମ୍ ପାଇଁ ସେଟ୍ କରାଯାଇଛି ।"</item>
+<item>"ଏହା ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ପାଇଁ ସେଟ୍ କରାଯାଇଛି."</item>
+<item>"ଏହା ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ପାଇଁ ସେଟ୍ କରାଯାଇଛି."</item>
+<item>"ଏହା ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ଏବଂ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ପାଇଁ ସେଟ୍ କରାଯାଇଛି."</item>
+<item>"ଏହା ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ପାଇଁ ସେଟ୍ କରାଯାଇଛି."</item>
+<item>"ଏହା ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ଏବଂ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ପାଇଁ ସେଟ୍ କରାଯାଇଛି."</item>
+<item>"ଏହା ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ଏବଂ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ପାଇଁ ସେଟ୍ କରାଯାଇଛି."</item>
+<item>"ଏହା ବର୍ତ୍ତମାନଠାରୁ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, ଏବଂ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ପାଇଁ ସେଟ୍ କରାଯାଇଛି."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"ଆପେ"</item>
+<item>"ଅପ୍ଟିମାଇଜ୍ କରନ୍ତୁ"</item>
+<item>"ଅପ୍ଟିମାଇଜ ନାହିଁ"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"ଆପେ"</item>
+<item>"ଏନାବଲ୍"</item>
+<item>"ଡିଜେବଲ୍"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"ଆପେ"</item>
+<item>"ବନ୍ଦ"</item>
+<item>"ବନ୍ଦ କରନ୍ତୁ ନାହିଁ"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"ଅଲ୍ଟ୍ରା ସେଭିଂଗ ମୋଡ"</item>
+<item>"ପାୱାର ସେଭର ମୋଡ"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"ପାୱାର ସେଭର ମୋଡ"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"ଅଲ୍ଟ୍ରା ସେଭିଂଗ ମୋଡ"</item>
+<item>"ପାୱାର ସେଭର ମୋଡ"</item>
+<item>"ସ୍ମାର୍ଟ ସେଭିଂ ମୋଡ"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"ପାୱାର ସେଭର ମୋଡ"</item>
+<item>"ସ୍ମାର୍ଟ ସେଭିଂ ମୋଡ"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"ଆବଭ୍ୟନ୍ତରୀଣ ଅପ୍‌ଡେଟ"</item>
+<item>"SD ଅପ୍‌ଡେଟ"</item>
+</string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"متبقٍ %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"عند استخدام التعرف على الوجه، يُرجى تذكر الملاحظات الآتية:\n1. قد يتم إلغاء تأمين هاتفك الجوال بواسطة الشخص أو العنصر الذي يشبهك.\n2. التعرف على الوجه أقل من بصمة الإصبع وكلمة المرور والنقش والتشفير الرقمي والرمز الأبجدي الرقمي المحدد ذاتيًا.\n3. في حالات الظلام والضوء والإضاءة الخلفية، ستقل معدلات نجاح إلغاء التأمين بالتعرف على الوجه.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"من أجل استخدام ميزة التعرف على الوجه بشكل أفضل، يُرجى ملاحظة ما يأتي:\n1. مرحلة التسجيل وتجنب الإضاءة الخافتة والإضاءة القوية وبيئة الإضاءة الخلفية، لضمان إدخال صورة الوجه بوضوح. \n2. بعد نجاح عملية التسجيل، يمكن إلغاء قفل الهاتف من خلال التعرف على الوجه عندما تكون الشاشة قيد التشغيل."</string>
+<string name="security_settings_face_settings_require_livenessmode">"وضع الحيوية"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"عند فتحه، عليك أن ترمش بعينيك عند إلغاء التأمين باستخدام معرف الوجه، لتأكيد أنك أنت وليس صورًا أو أشياء أخرى."</string>
+<string name="not_support_in_split_mode">"لا يتم دعم التسجيل في وضع تقسيم الشاشة"</string>
+</resources>

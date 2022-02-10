@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"باقی %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">" چہرہ کی شناخت کا استعمال کرتے وقت درج ذیل نوٹ کو ذہن میں رکھیں: \n1آپ کا موبائل فون یا آئٹم ایسا فرد کھول سکتا ہے جو آپ سے مماثلت رکھتا ہے۔ \n2 چہرہ کی شناخت فنگرپرنٹ، پیٹرن پاس ورڈ، ڈیجیٹل سائفر اور خود سے وضاحت کردہ حرفی ہندسی کوڈ سے کم ہوسکتی ہے.\n3. اندھیرے، روشنی اور پیچھے کی روشنی کی کیفیات میں چہرہ کی شناخت شرح میں کمی آجائے گی.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"چہرہ کی پہچان کے بہتر  استعمال کے لیے براہ کرم حسب ذیل پر دھیان دیں:\n1. اندراج کا اسٹیج، گہری روشنی سے بچيں، تیز روشنی سے اور پس منظر کے ماحول سے بچيں، تاکہ انپٹ فیس امیج کی کلیرٹی کو یقینی بنایا جاسکے۔\n2. اندراج کے کامیاب ہونے  کے بعد، اسکرین کے آن ہونے پر فون کو چہرہ  کی پہچان کرنے والے فیچرس کے ذریعہ انلاک کیا  جاسکتا ہے۔"</string>
+<string name="security_settings_face_settings_require_livenessmode">" لائیونس موڈ"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"جب کھل جائے تو فیس آئی ڈی سے انلاک کرتے وقت آپ کو اپنی آنکھیں جھپکانے کی ضرورت ہوگی، یہ یقینی بنانےکےلئے کہ آپ بذات خود ہیں نہ کہ تصاویر یا دیگر شئے ہے۔"</string>
+<string name="not_support_in_split_mode">"اسپلٹ اسکرین موڈ میں اندراج سپورٹ نہی کیا جاتا"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"অবশিষ্ট %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ফেসিয়াল রেকগনিশন ব্যবহার করার সময় অনুগ্রহ করে নিম্নলিখিত বক্তব্যগুলি মনে রাখুন:\n1. আপনার মত দেখতে কোনও ব্যক্তি বা বস্তু দ্বারা আপনার মোবাইল আনলক করা যায়.\n2. ফেসিয়াল রেকগনিশন পদ্ধতিটি আঙ্গুলের ছাপ, প্যাটার্ন পাসওয়ার্ড, ডিজিটাল শাইফার এবং স্ব-নির্ধারিত আলফানিউমেরিক কোডের তুলনায় দুর্বল হয়.\n3. ডার্কলাইট এবং ব্যাকলাইট পরিস্থিতিতে ফেসিয়াল রেকগনিশন দ্বারা স্ক্রিন আনলক করার পদ্ধতির কার্যকারিতা হ্রাস পাবে.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"মুখ স্বিকৃতকরণ আরও ভালো ব্যবহারের জন্য, অনুগ্রহ করে নিম্নলিখিতগুলি নজর দিন:\n1 তালিকাভুক্ত করার স্তরে, মুখের ছবি ইন্‌পুট স্পষ্ট হওয়া নিশ্চিত করতে অন্ধকার আলো, জোরালো আলো এবং পশ্চাতপটে আলোকিত পরিবেশ থেকে এড়িয়ে চলুন | \n2 স্বিকৃতকরণ সফল হওয়ার পর, যখন ফোনের স্ক্রিন অন্‍ করা হয় ফোনটি মুখ স্বিকৃতিকরণের মধ্যমে আনলক্‌ করা যেতে পারে |"</string>
+<string name="security_settings_face_settings_require_livenessmode">"লাইভনেস মোড"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"খোলা হয়ে গেলে, ফেস আইডি দ্বারা আনলক করার সময়ে আপনাকে চোখের পলক ফেলতে হবে, যাতে আপনি এটি নিশ্চিত করেন যে এটি আপনিই, আপনার কোনও ফটো বা অন্য বস্তু নয়"</string>
+<string name="not_support_in_split_mode">"স্প্লিট-স্ক্রিন মোডে তালিকাভুক্তি সমর্থন করে না"</string>
+</resources>

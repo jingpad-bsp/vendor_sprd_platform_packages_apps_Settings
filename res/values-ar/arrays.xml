@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"استخدام الوقت المقدم للشبكة"</item>
+<item>"استخدام وقت GPS المتوفر"</item>
+<item>"إطفاء"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"استخدام الوقت المقدم للشبكة"</item>
+<item>"إطفاء"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 ثانية</item>
+<item>"6 ثوانٍ"</item>
+<item>"التشغيل دائمًا"</item>
+<item>"الإغلاق دائما"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"تم تعيين ذلك لأقل من دقيقة من الآن."</item>
+<item>"تم تعيين ذلك لـ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> من الآن."</item>
+<item>"تم تعيين ذلك لـ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> من الآن."</item>
+<item>"تم تعيين ذلك لـ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> و<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> من الآن."</item>
+<item>"تم تعيين ذلك لـ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> من الآن."</item>
+<item>"تم تعيين ذلك لـ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> و<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> من الآن."</item>
+<item>"تم تعيين ذلك لـ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> و<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> من الآن."</item>
+<item>"تم تعيين ذلك لـ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>، <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>، و<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> من الآن."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"تلقائي"</item>
+<item>"تحسين"</item>
+<item>"بلا تحسين"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"تلقائي"</item>
+<item>"تفعيل"</item>
+<item>"تعطيل"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"تلقائي"</item>
+<item>"اغلاق"</item>
+<item>"عدم الإغلاق"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"وضع توفير الطاقة الفائق"</item>
+<item>"وضع توفير الطاقة"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"وضع توفير الطاقة"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"وضع توفير الطاقة الفائق"</item>
+<item>"وضع توفير الطاقة"</item>
+<item>"وضع التوفير الذكي"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"وضع توفير الطاقة"</item>
+<item>"وضع التوفير الذكي"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"تحديث داخلي"</item>
+<item>"تحديث بطاقة SD"</item>
+</string-array>
+</resources>

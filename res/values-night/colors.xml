@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- UNISOC: Add for Color Temperature Adjusting @{ -->
+<color name="color_temperature_color">#FFFFFFFF</color>
+</resources>

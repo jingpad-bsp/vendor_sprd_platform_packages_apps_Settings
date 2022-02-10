@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Baki: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Pengoptimum penjimatan kuasa"</string>
+<string name="calling_enable_data_title">"Benarkan untuk mengakses rangkaian mudah alih semasa memanggil"</string>
+<string name="cannot_disable_two_sim_card">"Anda tidak boleh menyahdayakan dua kad SIM pada masa yang sama"</string>
+<string name="cfu_is_on">"Sentiasa majukan panggilan hidup"</string>
+<string name="confirm_data_dialog_message">"Menukar akses data akan menghentikan semua perkhidmatan LTE.Adakah anda ingin meneruskan?"</string>
+<string name="confirm_data_dialog_title">"Pilih Data Dalam SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Apabila didayakan, SIM tanpa data boleh mengakses Internet menggunakan sambungan data mudah alihnya sendiri semasa panggilan VoLTE. Ini boleh menyebabkan caj data tambahan."</string>
+<string name="dialog_network_selection_message">"Telefon mudah alih tidak akan memilih operator lain untuk anda dalam mod pemilihan manual. Kadangkala anda perlu melakukan pemilihan manual sekali lagi atau ubah kembali ke mod pemilihan automatik apabila anda kehilangan perkhidmatan operator yang dipilih. Adakah anda mahu memilih rangkaian secara manual?"</string>
+<string name="do_not_switch_default_data_subscription">"Jangan menukar langganan lalai semasa panggilan"</string>
+<string name="edit_sim_name_disabled">"Matikan mod pesawat dahulu."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Mod rangkaian semasa tidak menyokong 4G, selepas pengaktifan anda tidak akan dapat membuat dan menerima panggilan, sila tukar jenis rangkaian pilihan kepada 4G dan cuba lagi"</string>
+<string name="exception_error">"Ralat Rangkaian atau kad SIM."</string>
+<string name="fdn_check_failure">"Tetapan Nombor Pendailan Tetap aplikasi Telefon anda dihidupkan. Akibatnya, sesetengah ciri berkaitan panggilan tidak berfungsi."</string>
+<string name="fingerprint_settings_applock">"Kunci aplikasi"</string>
+<string name="icc_pin_disabled">"PIN SIM <xliff:g id="card_number">%1$d</xliff:g> Dinyahdayakan!"</string>
+<string name="icc_pin_enabled">"PIN SIM <xliff:g id="card_number">%1$d</xliff:g> Didayakan!"</string>
+<string name="invalid_subscription_preference_setting">"Tetapan yang tidak sah."</string>
+<string name="low_resolution_power_saving">"Penjimatan kuasa resolusi rendah"</string>
+<string name="low_resolution_power_saving_description">"Kurangkan resolusi skrin seperti yang diperlukan untuk membantu menjimatkan kuasa"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Menyahdayakan sentiasa menggunakan data mudah alih dalam talian akan menyebabkan masalah ketersambungan dalam beberapa aplikasi. Sila gunakan ciri segarkan semula secara manual dalam aplikasi untuk mengemas kini data dalam talian."</string>
+<string name="mobile_data_always_online_summary">"Menggunakan lebih banyak kuasa bateri pada beberapa rangkaian mudah alih"</string>
+<string name="mobile_data_always_online_title">"Data mudah alih sentiasa dalam talian"</string>
+<string name="mobile_data_not_allowed">"Data mudah alih tidak tersedia semasa carian rangkaian."</string>
+<string name="mobile_select_default_voice_sim">"Sila pilih SIM suara lalai dahulu."</string>
+<string name="network_2G_only">"2G sahaja"</string>
+<string name="network_3G_auto">"3G/2G auto"</string>
+<string name="network_3G_only">"3G sahaja"</string>
+<string name="network_4G_2G">"4G/2G auto"</string>
+<string name="network_4G_3G">"4G/3G auto"</string>
+<string name="network_4G_only">"4G sahaja"</string>
+<string name="network_4g_auto">"4G/3G/2G auto"</string>
+<string name="network_5G">"5G/4G/3G/2G auto"</string>
+<string name="network_5G_only">"5G sahaja"</string>
+<string name="network_gsm_only">GSM shj</string>
+<string name="network_mode_setting_prompt">"Anda dibenarkan untuk togol selepas mematikan mod penukaran rangkaian daripada bar pemberitahuan."</string>
+<string name="network_registration_fail">"Gagal mendaftarkan rangkaian, sama ada untuk membuka fungsi pemilihan automatik?"</string>
+<string name="network_registration_fail_title">"Gagal mendaftarkan rangkaian"</string>
+<string name="network_wcdma_only">WCDMA sahaja</string>
+<string name="network_wcdma_pref">"WCDMA/GSM auto"</string>
+<string name="number_sim">"Nombor SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g>:"</string>
+<string name="preferred_data_roaming_all_networks">Semua rangkaian</string>
+<string name="preferred_data_roaming_dialogtitle">"Perayauan data"</string>
+<string name="preferred_data_roaming_disable">"Nyahdayakan"</string>
+<string name="preferred_data_roaming_national">"Perayauan Kebangsaan sahaja"</string>
+<string name="preferred_data_roaming_summary">"Perayauan Kebangsaan sahaja"</string>
+<string name="preferred_data_roaming_title">"Perayauan data"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"Hidupkan radio sebelum melihat tetapan ini."</string>
+<string name="reading_settings">"Membaca tetapan..."</string>
+<string name="reset_networks_progress">"menetapkan semula\u2026"</string>
+<string name="response_error">"Respons tidak dijangka daripada rangkaian."</string>
+<string name="screen_split_not_support">"Rangkaian mudah alih mungkin tidak berfungsi dengan pemisahan skrin."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"Operasi ini tidak dibenarkan semasa dalam panggilan."</string>
+<string name="select_lte_prohibited">"Pemilihan semasa adalah dilarang, sila hidupkan 4G."</string>
+<string name="select_under_airplane_prohibited">"Matikan mod pesawat dahulu."</string>
+<string name="sim_calls_not_set_up">"Tidak disediakan"</string>
+<string name="sim_disable_prompt">"Pengaktifan Sim negeri akan berubah, sila sahkan sama ada mahu meneruskan?"</string>
+<string name="sim_disabled">Dilumpuhkan</string>
+<string name="simsettings_forced_resizable">"Tetapan SIM mungkin tidak berfungsi dengan pemisahan skrin."</string>
+<string name="smart_dual_sim_hint">"Sila masukkan nombor SIM."</string>
+<string name="smart_dual_sim_number_null">"Nombor SIM kosong."</string>
+<string name="smart_dual_sim_summary">"Uruskan status Dwi SIM Pintar"</string>
+<string name="smart_dual_sim_title">"Dwi SIM Pintar"</string>
+<string name="smart_dual_sim_warning_message">"Dayakan Smart Dual SIM?\nDengan beberapa pembekal perkhidmatan, fungsi ini mungkin tidak berfungsi dengan baik atau anda mungkin dikenakan bayaran."</string>
+<string name="smart_forwarding_show_dialog">"Jangan tunjukkan ini lagi"</string>
+<string name="turn_off_ims_error">"Tidak dapat mematikan %s apabila panggilan Wi-Fi didayakan, sila matikan panggilan Wi-Fi dahulu."</string>
+<string name="updating_settings">"Mengemas kini tetapan..."</string>
+<string name="uplmn_preference_title">"Keutamaan UPLMN"</string>
+<string name="vt_resolution_setting">"Pilih resolusi video VoLTE"</string>
+</resources>

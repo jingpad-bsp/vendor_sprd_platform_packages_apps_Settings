@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d %% باقیمانده"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"از تشخیص چهره استفاده می‌کند، لطفاً نکات زیر به خاطر داشته باشید:\n1. قفل تلفن همراه شما ممکن است بوسیله شخص یا اقلامی که شبیه به شما هستند، بازگشایی شود..\n2. امنیت تشخیص چهره از اثر انگشت، الگوی بازگشایی قفل، رمز ورود، رمز دیجیتال و کد عددی-الفبایی تعیین‌شده توسط خود شما پایین‌تر است.\n3. در شرایط تاریک، روشن و نور پس‌زمینه، میزان موفقیت تشخیص چهره برای بازگشایی قفل کاهش خواهد می‌یابد.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"به منظور استفاده بهتر از تشخیص چهره، لطفاً مورد زیر را یادداشت کنید:\n1. برای اینکه تصویر چهره ورودی واضح باشد، در هنگام ثبت چهره، از نور ضعیف، شدید و نور پس‌زمینه پرهیز کنید. \n2. پس از اینکه ثبت موفق بود، در هنگام روشن‌شدن صفحه، می‌توان از طریق تشخیص چهره تلفن را بازگشایی نمود."</string>
+<string name="security_settings_face_settings_require_livenessmode">"حالت سرزنده"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"هنگامیکه باز می‌شود، در زمان بازگشایی قفل با شناسه چهره، باید چشمک بزنید، تا سیستم مطمئن شوید خود شما هستید نه عکس یا اشیاء دیگر"</string>
+<string name="not_support_in_split_mode">"در حالت تقسیم صفحه، ثبت‌نام پشتیبانی وجود ندارد"</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"Utilitza l\'hora proporcionada per la xarxa"</item>
+<item>"Fer servir l\'hora que proporciona el GPS"</item>
+<item>"Desactivat"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Utilitza l\'hora proporcionada per la xarxa"</item>
+<item>"Desactivat"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1,5 segons</item>
+<item>"6 segons"</item>
+<item>"Sempre activat"</item>
+<item>"Tancar sempre"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"S\'ha fixat a menys d\'1 minut a partir d\'ara."</item>
+<item>"S\'ha fixat a <xliff:g id="DAYS" exemple="2 dies">%1$s</xliff:g> a partir d\'ara."</item>
+<item>"S\'ha fixat a<xliff:g id="HOURS" exemple="2 hores">%2$s</xliff:g>  a partir d\'ara."</item>
+<item>"S\'ha fixat a  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> i <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>  a partir d\'ara."</item>
+<item>"S\'ha fixat a <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir d\'ara."</item>
+<item>"S\'ha fixat a <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> i <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>  a partir d\'ara."</item>
+<item>"S\'ha fixat a <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> i <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>  a partir d\'ara."</item>
+<item>"S\'ha fixat a <xliff:g id="DAYS" exemple="2 dies">%1$s</xliff:g>, <xliff:g id="HOURS" exemple="2 hores">%2$s</xliff:g>, i <xliff:g id="MINUTES" exemple="2 minuts">%3$s</xliff:g>  a partir d\'ara."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"automàtica"</item>
+<item>"Optimitza la bateria"</item>
+<item>"No optimitzar"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"automàtica"</item>
+<item>"Activa"</item>
+<item>"Desactivar"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"automàtica"</item>
+<item>"Tancar"</item>
+<item>No les tanquis</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>Mode de gran estalvi</item>
+<item>"Mode d\'estalvi d\'energia"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>Mode d\'estalvi d\'energia</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>Mode de gran estalvi</item>
+<item>"Mode d\'estalvi d\'energia"</item>
+<item>Mode d\'estalvi intel·ligent</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Mode d\'estalvi d\'energia"</item>
+<item>Mode d\'estalvi intel·ligent</item>
+</string-array>
+<string-array name="update_choice">
+<item>"actualització interna"</item>
+<item>"actualització d’SD"</item>
+</string-array>
+</resources>

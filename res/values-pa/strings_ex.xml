@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(ਬਾਕੀ ਸਮੇਂ: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"ਪਾਵਰ ਸੇਵਿੰਗ ਓਪਟੀਮਾਈਜੇਸ਼ਨ"</string>
+<string name="calling_enable_data_title">"ਕਾਲ ਦੇ ਦੌਰਾਨ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਐਕਸੈਸ ਦੀ ਪ੍ਰਵਾਨਗੀ ਦਿਓ"</string>
+<string name="cannot_disable_two_sim_card">"ਤੁਸੀਂ ਸਮਾਨ ਸਮੇਂ \'ਤੇ ਦੋ SIM ਕਾਰਡਾਂ ਨੂੰ ਅਯੋਗ ਨਹੀਂ ਕਰ ਸਕਦੇ"</string>
+<string name="cfu_is_on">"ਹਮੇਸ਼ਾ ਕਾਲ ਫਾਰਵਰਡ ਕਰੋ ਚਾਲੂ ਹੈ"</string>
+<string name="confirm_data_dialog_message">"ਡੇਟਾ ਪਹੁੰਚ ਬਦਲਣ ਨਾਲ ਸਾਰੀਆਂ LTE ਸੇਵਾਵਾਂ ਰੁਕ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+<string name="confirm_data_dialog_title">"SIM <xliff:g id="d">%1$d</xliff:g> ਵਿੱਚ ਡੇਟਾ ਚੁਣੋ"</string>
+<string name="data_enabled_during_calls_dialog_msg">"ਜਦੋਂ ਐਨਏਬਲ ਹੋਵੇ, ਤਾਂ ਗੈਰ-ਡਾਟਾ SIM VoLTE ਕਾਲਾਂ ਦੌਰਾਨ ਆਪਣੇ ਮੋਬਾਈਲ ਡਾਟਾ ਕਨੈਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਇੰਟਰਨੈਟ ਨੂੰ ਐਕਸੈਸ ਕਰ ਸਕਦਾ ਹੈ. ਇਸ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਵਧੀਕ ਡਾਟਾ ਚਾਰਜ ਲੱਗ ਸਕਦੇ ਹਨ."</string>
+<string name="dialog_network_selection_message">"ਮੋਬਾਈਲ ਫ਼ੋਨ ਮੈਨੂਅਲ ਸਿਲੈਕਸ਼ਨ ਮੋਡ ਵਿੱਚ ਤੁਹਾਡੇ ਲਈ ਹੋਰ ਆਪਰੇਟਰ ਨਹੀਂ ਚੁਣੇਗਾ। ਜਦੋਂ ਤੁਸੀਂ ਚੁਣੇ ਹੋਏ ਆਪਰੇਟਰ ਦੀ ਸੇਵਾ ਗਵਾ ਦਿੰਦੇ ਹੋ ਤਾਂ ਕਦੇ-ਕਦੇ ਤੁਹਾਨੂੰ ਮੈਨੂਅਲ ਚੋਣ ਦੁਬਾਰਾ ਕਰਨੀ ਪੈਂਦੀ ਹੈ ਜਾਂ ਵਾਪਸ ਆਟੋਮੈਟਿਕ ਸਿਲੈਕਸ਼ਨ ਮੋਡ ਵਿੱਚ ਬਦਲਣਾ ਪੈਂਦਾ ਹੈ। ਕੀ ਤੁਸੀਂ ਨੈਟਵਰਕ ਨੂੰ ਮੈਨੂਅਲੀ ਚੁਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+<string name="do_not_switch_default_data_subscription">"ਕਾਲ ਦੇ ਦੌਰਾਨ ਡਿਫਾਲਟ ਗਾਹਕੀ ਨਾ ਬਦਲੋ"</string>
+<string name="edit_sim_name_disabled">"ਪਹਿਲਾਂ ਏਅਰਪਲੇਨ ਮੋਡ ਬੰਦ ਕਰੋ।"</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"ਮੌਜੂਦਾ ਨੈੱਟਵਰਕ ਮੋਡ 4G ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ, ਐਕਟੀਵੇਟ ਹੋਣ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਕਾਲ ਕਰਨ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਵੋਗੇ, ਕਿਰਪਾ ਕਰਕੇ ਪਸੰਦੀਦਾ ਨੈੱਟਵਰਕ ਕਿਸਮ ਨੂੰ 4G ਤੇ ਤਬਦੀਲ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+<string name="exception_error">ਨੈਟਵਰਕ ਜਾਂ SIM ਕਾਰਡ ਤੁਰੱਟੀ।</string>
+<string name="fdn_check_failure">ਤੁਹਾਡੇ ਫੋਨ ਅਨੁਪ੍ਰਯੋਗ ਦੀ ਨਿਯਤ ਡਾਇਲਿੰਗ ਨੰਬਰ ਸੈਟਿੰਗ ਚਾਲੂ ਹੈ। ਸਿੱਟੇ ਵਜੋਂ, ਕੁਝ ਕਾਲ-ਸੰਬੰਧਿਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੀਆਂ ਹਨ।</string>
+<string name="fingerprint_settings_applock">"ਐਪ ਲੌਕ"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN ਬੰਦ ਹੈ!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN ਚਾਲੂ ਹੈ!"</string>
+<string name="invalid_subscription_preference_setting">"ਅਵੈਧ ਸੈਟਿੰਗ।"</string>
+<string name="low_resolution_power_saving">"ਘੱਟ ਰੈਜ਼ੋਲਿਊਸ਼ਨ ਪਾਵਰ ਸੈਵਿੰਗ"</string>
+<string name="low_resolution_power_saving_description">"ਪਾਵਰ ਨੂੰ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਲਈ ਲੋੜੀਂਦਾ ਘੱਟ ਸਕ੍ਰੀਨ ਰੈਜ਼ੋਲਿਊਸ਼ਨ"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"ਔਨਲਾਈਨ ਮੋਬਾਈਲ ਡੇਟੇ ਨੂੰ ਹਮੇਸ਼ਾ ਅਸਮਰੱਥ ਕਰਨ ਨਾਲ ਕੁਝ ਐਪਲੀਕੇਸ਼ਨਾਂ ਵਿੱਚ ਕਨੈਕਟੀਵਿਟੀ ਸਮੱਸਿਆਵਾਂ ਹੋਣਗੀਆਂ। ਕਿਰਪਾ ਕਰਕੇ ਔਨਲਾਈਨ ਡੇਟਾ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਐਪਲੀਕੇਸ਼ਨਾਂ ਵਿੱਚ ਮੈਨੁਅਲ ਰਿਫਰੈਸ਼ ਵਿਸ਼ੇਸ਼ਤਾ ਵਰਤੋ।"</string>
+<string name="mobile_data_always_online_summary">"ਕੁਝ ਮੋਬਾਈਲ ਨੈਟਵਰਕਾਂ ਤੇ ਵੱਧ ਬੈਟਰੀ ਪਾਵਰ ਵਰਤਦਾ ਹੈ"</string>
+<string name="mobile_data_always_online_title">"ਮੋਬਾਈਲ ਡੇਟਾ ਹਮੇਸ਼ਾ ਔਨਲਾਈਨ ਹੈ"</string>
+<string name="mobile_data_not_allowed">"ਨੈਟਵਰਕ ਸਰਚ ਦੌਰਾਨ ਮੋਬਾਈਲ ਡੇਟਾ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।"</string>
+<string name="mobile_select_default_voice_sim">"ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਡਿਫਾਲਟ ਵਾਇਸ ਕਾਰਡ ਚੁਣੋ।"</string>
+<string name="network_2G_only">"ਸਿਰਫ 2G"</string>
+<string name="network_3G_auto">"3G/2G ਆਟੋ"</string>
+<string name="network_3G_only">"ਕੇਵਲ 3G"</string>
+<string name="network_4G_2G">"4G/2G ਆਟੋ"</string>
+<string name="network_4G_3G">"4G/3G ਆਟੋ"</string>
+<string name="network_4G_only">"ਸਿਰਫ 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G ਆਟੋ"</string>
+<string name="network_5G">"5G/4G/3G/2G ਆਟੋ"</string>
+<string name="network_5G_only">"ਸਿਰਫ਼ 5G"</string>
+<string name="network_gsm_only">ਕੇਵਲ GSM</string>
+<string name="network_mode_setting_prompt">"ਨੋਟੀਫਿਕੇਸ਼ਨ ਬਾਰ ਤੋਂ ਸਵਿਚਿੰਗ ਨੈੱਟਵਰਕ ਮੋਡ ਬੰਦ ਕਰਨ ਤੋਂ ਬਾਅਦ ਇਸ ਨੂੰ ਬਦਲਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ."</string>
+<string name="network_registration_fail">"ਨੈਟਵਰਕ ਰਜਿਸਟਰੇਸ਼ਨ ਅਸਫਲ, ਆਟੋਮੈਟਿਕ ਚੋਣ ਫੰਕਸ਼ਨ ਖੋਲ੍ਹਣਾ ਹੈ ਜਾਂ ਨਹੀਂ?"</string>
+<string name="network_registration_fail_title">"ਨੈਟਵਰਕ ਰਜਿਸਟਰੇਸ਼ਨ ਅਸਫਲ"</string>
+<string name="network_wcdma_only">WCDMA ਕੇਵਲ</string>
+<string name="network_wcdma_pref">"WCDMA/GSM ਆਟੋ"</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> ਨੰਬਰ:"</string>
+<string name="preferred_data_roaming_all_networks">ਸਾਰੇ ਨੈਟਵਰਕ</string>
+<string name="preferred_data_roaming_dialogtitle">ਡਾਟਾ ਰੋਮਿੰਗ</string>
+<string name="preferred_data_roaming_disable">ਅਸਕ੍ਰਿਅ ਕਰੋ</string>
+<string name="preferred_data_roaming_national">"ਕੇਵਲ ਰਾਸ਼ਟਰੀ ਰੋਮਿੰਗ"</string>
+<string name="preferred_data_roaming_summary">"ਕੇਵਲ ਰਾਸ਼ਟਰੀ ਰੋਮਿੰਗ"</string>
+<string name="preferred_data_roaming_title">ਡਾਟਾ ਰੋਮਿੰਗ</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">ਇਹਨਾਂ ਸੈਟਿੰਗਸ ਨੂੰ ਦੇਖਣ ਤੋਂ ਪਹਿਲਾਂ ਰੇਡੀਓ ਚਾਲੂ ਕਰੋ।</string>
+<string name="reading_settings">"ਰੀਡਿੰਗ ਸੈਟਿੰਗਾਂ..."</string>
+<string name="reset_networks_progress">"ਰੀਸੈੱਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ..."</string>
+<string name="response_error">ਨੈਟਵਰਕ ਤੋਂ ਅਸੰਭਾਵੀ ਪ੍ਰਤੀਕ੍ਰਿਆ।</string>
+<string name="screen_split_not_support">"ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਸਪਲਿਟ-ਸਕ੍ਰੀਨ ਦੇ ਨਾਲ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦਾ."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"ਕਾਲ ਦੇ ਦੌਰਾਨ ਇਸ ਕਾਰਵਾਈ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ."</string>
+<string name="select_lte_prohibited">"ਮੌਜੂਦਾ ਚੋਣ ਵਰਜਿਤ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ 4G ਚਾਲੂ ਕਰੋ।"</string>
+<string name="select_under_airplane_prohibited">"ਪਹਿਲਾਂ ਏਅਰਪਲੇਨ ਮੋਡ ਬੰਦ ਕਰੋ।"</string>
+<string name="sim_calls_not_set_up">"ਸੈਟ ਅਪ ਨਹੀਂ"</string>
+<string name="sim_disable_prompt">"Sim ਸਕ੍ਰਿਏ ਕਰਨ ਦੀ ਸਥਿਤੀ ਬਦਲੀ ਜਾਏਗੀ, ਕਿਰਪਾ ਕਰਕੇ ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਜਾਰੀ ਰੱਖਣਾ ਹੈ ਜਾਂ ਨਹੀਂ?"</string>
+<string name="sim_disabled">ਅਸਕ੍ਰਿਅ ਹੋਇਆ</string>
+<string name="simsettings_forced_resizable">"ਸਪਲਿਟ ਸਕ੍ਰੀਨ ਤੇ ਸ਼ਾਇਦ SIM ਸੈਟਿੰਗ ਕੰਮ ਨਾ ਕਰੇ."</string>
+<string name="smart_dual_sim_hint">"ਕਿਰਪਾ ਕਰਕੇ SIM ਨੰਬਰ ਦਰਜ ਕਰੋ."</string>
+<string name="smart_dual_sim_number_null">"SIM ਨੰਬਰ ਖਾਲੀ ਹੈ."</string>
+<string name="smart_dual_sim_summary">"ਸਮਾਰਟ ਡੁਅਲ SIM ਸਥਿਤੀ ਪ੍ਰਬੰਧਿਤ ਕਰੋ"</string>
+<string name="smart_dual_sim_title">"ਸਮਾਰਟ ਡੁਅਲ SIM"</string>
+<string name="smart_dual_sim_warning_message">"ਕੀ ਸਮਾਰਟ ਡਿਊਲ SIM ਨੂੰ  Enable ਕਰਨਾ ਹੈ?\n ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਸੇਵਾ ਪ੍ਰਦਾਤਿਆਂ ਦੇ ਨਾਲ, ਇਹ ਫੰਕਸ਼ਨ ਠੀਕ ਢੰਗ ਨਾਲ ਕੰਮ ਨਾ ਕਰ ਸਕੇ ਜਾਂ ਸ਼ਾਇਦ ਤੁਹਾਡੇ ਤੋਂ ਚਾਰਜ ਵਸੂਲਿਆ ਜਾਵੇ."</string>
+<string name="smart_forwarding_show_dialog">"ਇਹ ਦੁਬਾਰਾ ਨਾ ਦਿਖਾਓ"</string>
+<string name="turn_off_ims_error">"ਵਾਈ-ਫਾਈ ਕਾਲਿੰਗ ਐਨਏਬਲ ਹੋਣ ਸਮੇਂ %s ਨੂੰ ਬੰਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ Wi-Fi ਕਾਲਿੰਗ ਬੰਦ ਕਰੋ।"</string>
+<string name="updating_settings">"ਸੈਟਿੰਗਾਂ ਅੱਪਡੇਟ ਹੋ ਰਹੀਆਂ ਹਨ..."</string>
+<string name="uplmn_preference_title">"UPLMN ਪ੍ਰੈਫਰੈਂਸ"</string>
+<string name="vt_resolution_setting">"VoLTE ਵੀਡੀਓ ਰੈਜ਼ੋਲੂਸ਼ਨ ਚੁਣੋ"</string>
+</resources>

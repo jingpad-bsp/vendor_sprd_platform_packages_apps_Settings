@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Berbaki %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Penggunaan pengecaman wajah, sila ambil perhatian perkara berikut:\n1. Telefon mudah alih anda boleh dibuka oleh orang atau item yang serupa dengan anda.\n2. Pengecaman wajah lebih rendah daripada cap jari, kata laluan corak, sifer digital dan kod abjad angka yang ditetapkan sendiri.\n3. Dalam keadaan gelap, bercahaya dan cahaya latar belakang, kadar kejayaan membuka kunci menggunakan pengecaman wajah akan berkurangan.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Untuk menggunakan pengecaman wajah dengan lebih baik, sila ambil perhatian tentang perkara berikut:\n1. Peringkat pendaftaran, elakkan cahaya malap, cahaya yang kuat dan persekitaran bercahaya latar untuk memastikan kejelasan imej wajah yang dimasukkan. \n2. Selepas pendaftaran berjaya, telefon boleh dibuka kunci melalui pengecaman wajah apabila skrin sedang dihidupkan."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Mod Hidup"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Apabila dibuka, anda perlu mengelipkan mata semasa membuka kunci dengan ID Wajah untuk memastikan wajah sebenar anda, bukan foto atau objek lain"</string>
+<string name="not_support_in_split_mode">"Tidak menyokong pendaftaran dalam mod skrin pisah"</string>
+</resources>

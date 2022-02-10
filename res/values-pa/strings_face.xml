@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"ਬਾਕੀ %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ਫੇਸੀਅਲ ਰਿਕੋਗਨਿਸ਼ਨ ਦਾ ਉਪਯੋਗ ਕਰਨ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਦਿੱਤੇ ਨੋਟਾਂ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਰੱਖੋ:\n1. ਤੁਹਾਡਾ ਮੋਬਾਈਲ ਫੋਨ ਉਸ ਵਿਅਕਤੀ ਜਾਂ ਚੀਜ਼ ਦੁਆਰਾ ਅਨਲੌਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਜੋ ਬਿਲਕੁਲ ਤੁਹਾਡੇ ਵਰਗਾ ਹੈ. \n2. ਫੇਸੀਅਲ ਰਿਕੋਗਨਿਸ਼ਨ ਫਿੰਗਰਪ੍ਰਿੰਟ, ਪੈਟਰਨ ਪਾਸਵਰਡ, ਡਿਜੀਟਲ ਸਿਫੇਅਰ ਅਤੇ ਸਵੈ-ਪਰਿਭਾਸ਼ਤ ਅਲਫਾ-ਨਿਊਮੈਰਿਕ ਕੋਡ ਦੇ ਮੁਕਾਬਲੇ ਕਾਫੀ ਕਮਜ਼ੋਰ ਹੈ. \n3. ਹਨ੍ਹੇਰੇ ਵੇਲੇ, ਹਲਕੀ ਅਤੇ ਬੈਕਲਾਈਟ ਦੀਆਂ ਸਥਿਤੀਆਂ ਵਿੱਚ ਫੇਸੀਅਲ ਰਿਕੋਗਨਿਸ਼ਨ ਦੁਆਰਾ ਅਨਲੌਕ ਕਰਨ ਦੀ ਸਫ਼ਲਤਾ ਦਰ ਵੀ ਘੱਟ ਜਾਵੇਗੀ. \n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"ਚਿਹਰਾ ਪਛਾਣ ਦੇ ਬਿਹਤਰ ਉਪਯੋਗ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਹੇਠ ਲਿਖਿਆਂ ਤੇ ਧਿਆਨ ਦੇਵੋ: \n1. ਪਛਾਣ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਚਿਹਰੇ ਦੀ ਦਿੱਖ ਸਾਫ ਹੋਵੇ, ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਤਿੱਖੀ ਰੌਸ਼ਨੀ, ਤੇਜ਼​ਰੌਸ਼ਨੀ ਅਤੇ ਬੈਕਲਾਈਟਿੰਗ ਵਾਤਾਵਰਣ ਤੋਂ ਪਰਹੇਜ਼ ਕਰੋ। \n2. ਐਨਰੋਲਿੰਗ ਸਫ਼ਲ ਹੋਣ ਤੋਂ ਬਾਅਦ, ਜਦੋਂ ਸਕ੍ਰੀਨ ਚਾਲੂ ਹੁੰਦੀ ਹੈ ਤਾਂ ਚਿਹਰੇ ਦੀ ਪਛਾਣ ਦੁਆਰਾ ਫੋਨ ਨੂੰ ਅਨ-ਲਾਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"</string>
+<string name="security_settings_face_settings_require_livenessmode">"ਲਾਈਵਨੈਸ ਮੋਡ"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"ਖੋਲ੍ਹਣ ਸਮੇਂ, ਫੇਸਆਈਡੀ ਨਾਲ ਅਨਲੌਕ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀਆਂ ਅੱਖਾਂ ਨੂੰ ਝਪਕਾਉਣਾ ਪਵੇਗਾ, ਤਾਂਕਿ ਇਹ ਯਕੀਨੀ ਬਣਾਇਆ ਜਾ ਸਕੇ ਕਿ ਇਹ ਤੁਸੀਂ ਹੀ ਹੋ ਨਾ ਕਿ ਕੋਈ ਫੋਟੋ ਜਾਂ ਹੋਰ ਵਸਤੂ ਹੈ"</string>
+<string name="not_support_in_split_mode">"ਸਪਲਿਟ ਸਕਰੀਨ ਮੋਡ ਵਿੱਚ ਨਾਮਾਂਕਨ ਸੁਪੋਰਟ ਨਹੀਂ ਰਿਹਾ"</string>
+</resources>

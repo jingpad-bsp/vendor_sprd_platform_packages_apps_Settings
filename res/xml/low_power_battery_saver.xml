@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/auto_low_power"
+    android:key="low_power_saver">
+
+    <com.android.settingslib.RestrictedSwitchPreference
+        android:key="low_power_battery_saver"
+        android:title="@string/low_power_battery_saver" />
+
+    <ListPreference
+        android:key="low_power_value"
+        android:title="@string/set_low_power_value"
+        android:entries="@array/low_power_set_value_entries"
+        android:entryValues="@array/low_power_set_value_entries_values" />
+
+    <ListPreference
+        android:key="low_power_mode_switch"
+        android:title="@string/low_power_mode_switch" />
+</PreferenceScreen>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Sisa %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Menggunakan pengenalan wajah, harap perhatikan catatan berikut:\n1. Telepon seluler Anda dapat dibuka kunci oleh orang atau item yang mirip dengan Anda.\n2. Tingkat keamanan pengenalan wajah lebih rendah daripada sidik jari, sandi pola, digital cipher dan kode alfanumerik terdefinisi otomatis.\n3 Saat dalam kondisi gelap, sangat terang, dan tersorot dari belakang, tingkat keberhasilan pengenalan wajah untuk membuka kunci akan menurun.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Guna memanfaatkan pengenalan wajah dengan lebih baik, perhatikan hal-hal berikut:\n1. Tahap pendaftaran, hindari cahaya suram, cahaya silau, dan lingkungan pencahayaan belakang, guna memastikan kejelasan gambar wajah masukan. \n2. Setelah pendaftaran berhasil, ponsel dapat dibuka kuncinya melalui pengenalan wajah ketika layar dinyalakan."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Mode Keaktifan Pengguna"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Jika dibuka, Anda harus mengedipkan mata saat membuka kunci dengan ID Wajah, untuk memastikan bahwa yang membuka kunci bukanlah foto atau benda lain"</string>
+<string name="not_support_in_split_mode">"Tidak mendukung pendaftaran dalam mode split-screen"</string>
+</resources>

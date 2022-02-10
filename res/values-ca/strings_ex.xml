@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Intents restants: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Optimització d’estalvi d’energia"</string>
+<string name="calling_enable_data_title">"Permetre l’accés a la xarxa mòbil durant una trucada"</string>
+<string name="cannot_disable_two_sim_card">No podeu deshabilitar dues targetes SIM al mateix temps</string>
+<string name="cfu_is_on">"El desviament de trucades sempre està activat"</string>
+<string name="confirm_data_dialog_message">"El canvi d\'accés a les dades aturarà tots els serveis LTE. Voleu continuar?"</string>
+<string name="confirm_data_dialog_title">"Seleccionar dades de la targeta SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Quan aquesta opció està activada, una SIM sense dades pot accedir a Internet utilitzant la seva pròpia connexió de dades mòbils durant trucades VoLTE. Pot tenir costos addicionals associats."</string>
+<string name="dialog_network_selection_message">El telèfon mòbil no triarà altres operadors en el mode de selecció manual. De vegades, heu de tornar a fer la selecció manual o tornar al mode de selecció automàtica quan perdeu el servei de l\'operador seleccionat. Voleu seleccionar la xarxa manualment?</string>
+<string name="do_not_switch_default_data_subscription">"No canviar la subscripció predeterminada durant la trucada"</string>
+<string name="edit_sim_name_disabled">"Desactiva primer el mode avió."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"El mode de xarxa actual no és compatible amb el 4G. Després d’activar-lo no podràs fer ni rebre trucades. Selecciona 4G com a tipus de xarxa preferit i torna-ho a provar."</string>
+<string name="exception_error">"Error de xarxa o de targeta SIM."</string>
+<string name="fdn_check_failure">"La configuració dels números de marcatge fix de l\'aplicació Telèfon està activada. En conseqüència, algunes funcions relacionades amb les trucades no funcionen."</string>
+<string name="fingerprint_settings_applock">Blocatge d\'aplicacions</string>
+<string name="icc_pin_disabled">Codi PIN de la SIM <xliff:g id="card_number">%1$d</xliff:g> desactivat</string>
+<string name="icc_pin_enabled">Codi PIN de la SIM <xliff:g id="card_number">%1$d</xliff:g> activat</string>
+<string name="invalid_subscription_preference_setting">"Configuració invàlida."</string>
+<string name="low_resolution_power_saving">"Estalvi d’energia amb baixa resolució"</string>
+<string name="low_resolution_power_saving_description">"Abaixa la resolució de la pantalla per estalviar energia"</string>
+<string name="main_card_slot">"PRI."</string>
+<string name="mobile_data_always_online_dialog">"Si desactiveu de forma contínua les dades mòbils en línia algunes aplicacions poden tenir problemes de connexió. Feu servir la funció d\'actualització manual a les aplicacions per a actualitzar les dades en línia."</string>
+<string name="mobile_data_always_online_summary">"Fa servir més bateria en algunes xarxes mòbils"</string>
+<string name="mobile_data_always_online_title">"Dades mòbils sempre en línia"</string>
+<string name="mobile_data_not_allowed">"Les dades mòbils no estan disponibles durant la cerca de xarxa."</string>
+<string name="mobile_select_default_voice_sim">"Selecciona primer la targeta de veu predeterminada."</string>
+<string name="network_2G_only">Només 2G</string>
+<string name="network_3G_auto">3G/2G automàtic</string>
+<string name="network_3G_only">Només 3G</string>
+<string name="network_4G_2G">4G/2G automàtic</string>
+<string name="network_4G_3G">4G/3G automàtic</string>
+<string name="network_4G_only">Només 4G</string>
+<string name="network_4g_auto">"4G/3G/2G autom."</string>
+<string name="network_5G">"5G/4G/3G/2G autom."</string>
+<string name="network_5G_only">"Només 5G"</string>
+<string name="network_gsm_only">"Només GSM"</string>
+<string name="network_mode_setting_prompt">"Està permès alternar després de desactivar el canvi de mode de xarxa des de la barra de notificacions."</string>
+<string name="network_registration_fail">"No s\'ha pogut registrar la xarxa, voleu obrir la funció de selecció automàtica?"</string>
+<string name="network_registration_fail_title">"No s\'ha pogut registrar la xarxa"</string>
+<string name="network_wcdma_only">"Només WCDMA"</string>
+<string name="network_wcdma_pref">WCDMA/GSM automàtic</string>
+<string name="number_sim">"Número <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> de SIM:"</string>
+<string name="preferred_data_roaming_all_networks">"Totes les xarxes"</string>
+<string name="preferred_data_roaming_dialogtitle">"Itinerància de dades"</string>
+<string name="preferred_data_roaming_disable">"Desactivar"</string>
+<string name="preferred_data_roaming_national">"Només itinerància nacional"</string>
+<string name="preferred_data_roaming_summary">"Només itinerància nacional"</string>
+<string name="preferred_data_roaming_title">"Itinerància de dades"</string>
+<string name="primary_sub_summary">"PRI."</string>
+<string name="radio_off_error">"Per veure aquesta configuració, has d\'activar el senyal mòbil."</string>
+<string name="reading_settings">"S\'està llegint la configuració…"</string>
+<string name="reset_networks_progress">restabliment\u2026</string>
+<string name="response_error">"Resposta inesperada de la xarxa."</string>
+<string name="screen_split_not_support">"Pot ser que la xarxa mòbil no funcioni amb la pantalla dividida."</string>
+<string name="secondary_card_slot">"SEC."</string>
+<string name="secondary_sub_summary">"SEC."</string>
+<string name="select_during_call_prohibited">"Aquesta operació no està permesa durant una trucada."</string>
+<string name="select_lte_prohibited">"La selecció actual no està permesa. Activa el 4G."</string>
+<string name="select_under_airplane_prohibited">"Desactiva primer el mode avió."</string>
+<string name="sim_calls_not_set_up">"No configurat"</string>
+<string name="sim_disable_prompt">"L\'estat d\'activació de la SIM canviarà, confirmeu si desitgeu continuar"</string>
+<string name="sim_disabled">"Desactivat"</string>
+<string name="simsettings_forced_resizable">"Pot ser que la configuració de la SIM no funcioni amb la pantalla dividida."</string>
+<string name="smart_dual_sim_hint">"Introdueix el número de SIM."</string>
+<string name="smart_dual_sim_number_null">"El número de SIM és buit."</string>
+<string name="smart_dual_sim_summary">"Gestió de l\'estat de la targeta SIM intel·ligent dual"</string>
+<string name="smart_dual_sim_title">"Targeta intel·ligent dual"</string>
+<string name="smart_dual_sim_warning_message">"Activar la SIM dual intel·ligent?\nAmb alguns proveïdors de servei, pot ser que aquesta funció no ofereixi el resultat esperat o que sigui de pagament."</string>
+<string name="smart_forwarding_show_dialog">"No torneu a mostrar-ho"</string>
+<string name="turn_off_ims_error">"No es pot desactivar %s si les trucades per Wi-Fi estan activades. Desactiva primer les trucades per Wi-Fi."</string>
+<string name="updating_settings">"S\'està actualitzant la configuració…"</string>
+<string name="uplmn_preference_title">"Preferència UPLMN"</string>
+<string name="vt_resolution_setting">"Seleccionar la resolució del vídeo VoLTE"</string>
+</resources>

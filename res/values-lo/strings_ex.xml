@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(ຈໍານວນຄັ້ງທີ່ຍັງເຫຼືອ: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"ການເພີ່ມປະສິດທິພາບໃນການປະຢັດພະລັງງານ"</string>
+<string name="calling_enable_data_title">"ອະນຸຍາດໃຫ້ເຂົ້າເຖິງເຄືອຂ່າຍມືຖືໃນລະຫວ່າງການໂທ"</string>
+<string name="cannot_disable_two_sim_card">"ທ່ານສາມາດ\'ປິດໃຊ້ງານສອງ SIM ກາດໄດ້ໃນເວລາດຽວກັນ"</string>
+<string name="cfu_is_on">"ການສົ່ງຕໍ່ສາຍລ່າສຸດເປີດແລ້ວ"</string>
+<string name="confirm_data_dialog_message">"ສັບ​ປ່ຽນ​ກາ​ຣ໌ດຂໍ້​ມູນ​ໄປ​ທີ່​ກາ​ຣ໌ດ​ສຳ​ຮອງ​ຈະ​ຫ​ຍຸດ​ການ​ບໍ​ລິ​ການLTEທັ່ງ​ໝົດ ກະ​ລຸ​ນາ​ຢືນ​ຢັນ​ວ່າ​ສືບ​ຕໍ່​ຫລືບໍ່?"</string>
+<string name="confirm_data_dialog_title">"ເລືອກ​ຂໍ້​ມູນ​ໃນ SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"ເມື່ອເປີດໃຊ້,ຊິມທີ່ບໍ່ມີຂໍ້ມູນຈະສາມາດເຂົ້າເຖິງອິນເຕີເນັດໄດ້ໂດຍໃຊ້ການເຊື່ອມຕໍ່ຂໍ້ມູນມືຖືຂອງມັນເອງໃນລະຫວ່າງການໂທຜ່ານ VoLTE.ເຊິ່ງນີ້ອາດສົ່ງຜົນໃຫ້ເກີດຄ່າບໍລິການຂໍ້ມູນເພີ່ມເຕີມ."</string>
+<string name="dialog_network_selection_message">"ໂທລະສັບມືຖືຈະບໍ່ເລືອກຜູ້ປະຕິບັດງານອື່ນສໍາລັບທ່ານໃນໂໝດເລືອກດ້ວຍຕົນເອງ.   ບາງຄັ້ງທ່ານຕ້ອງທໍາການເລືອກດ້ວຍຕົນເອງອີກຄັ້ງ ຫຼື ປ່ຽນຄືນກັບໂໝດການເລືອກແບບອັດຕະໂນມັດເມື່ອທ່ານສູນເສຍການບໍລິການຂອງຜູ້ປະຕິບັດງານທີ່ເລືອກ.  ທ່ານຕ້ອງການເລືອກເຄືອຂ່າຍດ້ວຍຕົນເອງ? "</string>
+<string name="do_not_switch_default_data_subscription">"ຢ່າປ່ຽນການສະໝັກເປັນສະມາຊິກຕາມຄ່າເດີມໃນລະຫວ່າງການໂທ"</string>
+<string name="edit_sim_name_disabled">"ປິດໂໝດເຄື່ອງບິນກ່ອນ."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"ໂໝດເຄືອຂ່າຍປະຈຸບັນບໍ່ຮອງຮັບ 4G, ຫຼັງຈາກເປີດໃຊ້ງານ ທ່ານຈະບໍ່ສາມາດໂທອອກ ແລະ ຮັບສາຍໄດ້, ກະລຸນາປ່ຽນປະເພດເຄືອຂ່າຍທີ່ຕ້ອງການໄປເປັນ 4G ແລະ ລອງໃໝ່"</string>
+<string name="exception_error">"ເຄືອຂ່າຍ ຫຼື SIM ກາດຜິດພາດ."</string>
+<string name="fdn_check_failure">"ການຕັ້ງຄ່າໝາຍເລກປຸ່ມກົດ\' ໃນແອັບໂທລະສັບຂອງທ່ານເປີດຢູ່. ດ້ວຍເຫດນັ້ນ, ບາງຄຸນສົມບັດທີ່ກ່ຽວຂ້ອງກັບການໂທຈຶ່ງບໍ່\'ເຮັດວຽກ."</string>
+<string name="fingerprint_settings_applock">"ແອັບລັອກ"</string>
+<string name="icc_pin_disabled">"ປິດໃຊ້ PIN <xliff:g id="card_number">%1$d</xliff:g> ຂອງຊິມແລ້ວ!"</string>
+<string name="icc_pin_enabled">"ເປີດໃຊ້ PIN <xliff:g id="card_number">%1$d</xliff:g> ຂອງຊິມແລ້ວ!"</string>
+<string name="invalid_subscription_preference_setting">"ການ​ຕັ້ງ​ຄ່າ​ບໍ່​ຖືກ​ຕ້ອງ."</string>
+<string name="low_resolution_power_saving">"ການປະຢັດພະລັງງານໃນຄວາມລະອຽດຕໍ່າ"</string>
+<string name="low_resolution_power_saving_description">"ຄວາມລະອຽດຂອງໜ້າຈໍທີ່ຫຼຸດລົງຕາມທີ່ຕ້ອງການເພື່ອຊ່ວຍປະຢັດພະລັງງານ"</string>
+<string name="main_card_slot">"ຊິມ​ຫລັກ "</string>
+<string name="mobile_data_always_online_dialog">"ການຍົດກເລີກທຸລະກຳຂໍ້ມູນສຸດທ້າຍອາດເຮັດໃຫ້ໂປຼແກຼມບາງອັນຕັດການເຊື່ອມຕໍ່ກະລຸນາຣີເຟສຟັງຊັ່ນຮັບເອົາຂໍ້ມູນອິນເຕີເນັດໃນໂປຼແກຼມ."</string>
+<string name="mobile_data_always_online_summary">"ເຄື່ອຂ່າຍອິນເຕິເນັດບາງອັນໃຊ້ງານແບັດເຕີຣີຫລາຍເກີນໄປ"</string>
+<string name="mobile_data_always_online_title">"ໂມ​ບາຍ​ດາ​ຕາ​ອອນ​ໄລ​ນ໌​ຕະ​ຫລອດ"</string>
+<string name="mobile_data_not_allowed">"​ຂໍ້​ມູນ​ມື​ຖື​ບໍ່​​ສາ​ມາດໃຊ້​ງານ​​ໄດ້ໃນ​ລະ​ຫວ່າງ​ການ​ຄົ້ນ​ຫາ​ເຄືອ​ຂ່າຍ."</string>
+<string name="mobile_select_default_voice_sim">"ກະລຸນາເລືອກແຜ່ນຊິມສຽງຄ່າເດີມກ່ອນ."</string>
+<string name="network_2G_only">"ຮູບແບບ 2G ດຽວ"</string>
+<string name="network_3G_auto">"3G/2G ໂອໂຕ"</string>
+<string name="network_3G_only">"3G ເທົ່ານັ້ນ "</string>
+<string name="network_4G_2G">"4G/2G ໂອໂຕ"</string>
+<string name="network_4G_3G">"4G/3G ໂອໂຕ  "</string>
+<string name="network_4G_only">"ຮູບແບບ 4G ດຽວ"</string>
+<string name="network_4g_auto">"4G/3G/2G ໂອໂຕ"</string>
+<string name="network_5G">"5G/4G/3G/2G ອັດຕະໂນມັດ"</string>
+<string name="network_5G_only">"5G ເທົ່ານັ້ນ"</string>
+<string name="network_gsm_only">"GSM ເທົ່ານັ້ນ"</string>
+<string name="network_mode_setting_prompt">"ອະນຸຍາດໃຫ້ສະຫຼັບຫຼັງຈາກປິດໂໝດການສັບປ່ຽນເຄືອຂ່າຍຈາກແຖບການແຈ້ງເຕືອນ."</string>
+<string name="network_registration_fail">"ລົງທະບຽນເຄຶອຂ່າຍລົ້ມເຫລວ ເປີດຟັງຊັ່ນຜູ້ໃຫ້ບໍລິການໂດຍອັດຕະໂນມັດຫລືບໍ？"</string>
+<string name="network_registration_fail_title">"ລົງທະບຽນເຄຶອຂ່າຍລົ້ມເຫລວ"</string>
+<string name="network_wcdma_only">"WCDMA ເທົ່ານັ້ນ"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM ໂອໂຕ "</string>
+<string name="number_sim">"ຊິມ <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> ໝາຍເລກ:"</string>
+<string name="preferred_data_roaming_all_networks">"ເຄືອ​ຂ່າຍ​ທັ່ງ​ມົດ"</string>
+<string name="preferred_data_roaming_dialogtitle">"ການໂຣມມິງດາຕ້າ"</string>
+<string name="preferred_data_roaming_disable">"ປິດໃຊ້ງານ"</string>
+<string name="preferred_data_roaming_national">"ຣອງ​ມິງ​ພາຍ​ໃນ​ປະ​ເທດ​ເທົ່າ​ນັ້ນ"</string>
+<string name="preferred_data_roaming_summary">"ຣອງ​ມິງ​ພາຍ​ໃນ​ປະ​ເທດ​ເທົ່າ​ນັ້ນ"</string>
+<string name="preferred_data_roaming_title">"ການໂຣມມິງດາຕ້າ"</string>
+<string name="primary_sub_summary">"ຊິມ​ຫລັກ "</string>
+<string name="radio_off_error">"ເປີດວິທະຍຸກ່ອນເບິ່ງການຕັ້ງຄ່າເຫຼົ່ານີ້."</string>
+<string name="reading_settings">"ອ່ານການຕັ້ງຄ່າ"</string>
+<string name="reset_networks_progress">"ກຳລັງຕັ້ງຄ່າຄືນໃໝ່\u2026"</string>
+<string name="response_error">"ການຕອບໂຕ້ທີ່ບໍ່ຄາດຄິດຈາກເຄືອຂ່າຍ."</string>
+<string name="screen_split_not_support">"ເຄືອຂ່າຍມືຖືອາດໃຊ້ງານບໍ່ໄດ້ກັບໜ້າຈໍແຍກ."</string>
+<string name="secondary_card_slot">"ຊິມ​ສຳ​ຮອງ "</string>
+<string name="secondary_sub_summary">"ຊິມ​ສຳ​ຮອງ "</string>
+<string name="select_during_call_prohibited">"ບໍ່ອະນຸຍາດການດໍາເນີນການນີ້ໃນລະຫວ່າງການໂທ."</string>
+<string name="select_lte_prohibited">"ການເລືອກປະຈຸບັນຖືກຫ້າມ, ກະລຸນາເປີດ 4G."</string>
+<string name="select_under_airplane_prohibited">"ປິດໂໝດເຄື່ອງບິນກ່ອນ."</string>
+<string name="sim_calls_not_set_up">"ບໍ່ຕິດຕັ້ງ"</string>
+<string name="sim_disable_prompt">"ການ​ດຳ​ເນີນ​ການ​ນີ້​ຈະ​ປ່ຽນ​ແປງ​ສະ​ຖານ​ະ​ເປີດ​ໃຊ້​ງານ​ຂອງSIM ສືບ​ຕໍ່​ຫລືບໍ່?"</string>
+<string name="sim_disabled">"ປິດໃຊ້ແລ້ວ"</string>
+<string name="simsettings_forced_resizable">"ການຕັ້ງຄ່າຊິມອາດໃຊ້ງານບໍ່ໄດ້ກັບໜ້າຈໍແຍກ."</string>
+<string name="smart_dual_sim_hint">"ກະລຸນາປ້ອນໝາຍເລກຊິມ:"</string>
+<string name="smart_dual_sim_number_null">"ໝາຍເລກຊິມວ່າງເປົ່າ."</string>
+<string name="smart_dual_sim_summary">"ການຄວບຄຸມສະຖານະຊິມຄູ່"</string>
+<string name="smart_dual_sim_title">"ຊິມຄູ່"</string>
+<string name="smart_dual_sim_warning_message">"ເປີດໃຊ້ຊິມຄູ່ອັດສະລິຍະບໍ?\nດ້ວຍຜູ້ໃຫ້ບໍລິການບາງທ່ານ, ຟັງຊັນນີ້ອາດຈະບໍ່ທໍາງານຢ່າງຖືກຕ້ອງ ຫຼື ອາດຈະມີການເກັບຄ່າທໍານຽມກັບທ່ານ."</string>
+<string name="smart_forwarding_show_dialog">"ບໍ່ແຈ້ງອີກ"</string>
+<string name="turn_off_ims_error">"ບໍ່ສາມາດປິດ %s ເມື່ອເປີດໃຊ້ການໂທຜ່ານ Wi-Fi, ກະລຸນາປິດການໂທຜ່ານ Wi-Fi ກ່ອນ."</string>
+<string name="updating_settings">"ອັບເດດການຕັ້ງຄ່າ"</string>
+<string name="uplmn_preference_title">"ສິດທິພິເສດກ່ຽວກັບ UPLMN"</string>
+<string name="vt_resolution_setting">"ເລືອກຄວາມລະອຽດຂອງວິດີໂອ VoLTE"</string>
+</resources>

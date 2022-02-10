@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<!-- SPRD: Bug 886422 Dynamic navigationbar feature, Settings side.BEG-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="?android:attr/listPreferredItemHeight"
+        android:orientation="vertical" >
+
+        <!--UNISOC:Modify for bug 1215321,1224283 START-->
+        <Switch
+            android:id="@+id/hide_navigation_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchMinWidth="20dp"
+            android:paddingStart="15dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:layout_marginEnd="10dp"
+            android:textSize="18sp"
+            android:text="@string/hide_navigation_bar_title"/>
+        <!--END-->
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#bbe9e9e9"
+            android:paddingBottom="6dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="12dp"
+            android:paddingTop="6dp"
+            android:text="@string/choose_navigation_bar_style"
+            android:textColor="#ff444444" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <ListView
+            android:id="@+id/softkey_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:divider="@drawable/list_view_divider"
+            android:dividerHeight="1dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e9e9e9" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            android:paddingBottom="15dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/icon_statusbar_pull_down" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:text="@string/pull_down_notification_bar" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"शेष %d %% "</string>
+<string name="security_settings_faceid_enroll_introduction_message">"चेहरे की पहचान करने का उपयोग करने के लिए नीचे दिए नोट को ध्यान में रखें:  :\n1.  आपका मोबाइल उस व्यक्ति द्वारा अनलोक हो सकता है , जो आपके जैसा दिखता हो|.\n2. चेहरे की पहचान फिंगर प्रिंट, पैटर्न पासवर्ड, डिजिटल सिफर, स्वं परिभाषित एल्फानुमेरिकल कोड से कम है| \n3. अँधेरे में या कम प्रकाश की स्थिति में चेहरे की पहचान कम होने से अनलोक होने की सफलता गति भी कम हो जायेगी|\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"चेहरे की पहचान के बेहतर उपयोग के लिए, कृपया निम्नलिखित पर ध्यान दें:\n1. इंरोलिंग स्टेज में, गहरी, तेज़ रौशनी और पीछे की रौशनी से बचने,  ताकि यह सुनिश्चित हो सके कि इनपुट फेस इमेज स्पष्ट है।\n2. इंरोलिंग होने के बाद,  फ़ोन को  चेहरे की पहचान के माध्यम से चालू करा जा सकता है अगर स्क्रीन ऑन हैं।"</string>
+<string name="security_settings_face_settings_require_livenessmode">"लिवेनेस मोड"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"फेस ID से खोलने के लिए आप अपनी आँखों को झपकाएं , जिस से यह सुनिश्चित हो कि  आप ही हैं , न कि कोई तस्वीर या अन्य वस्तु है|"</string>
+<string name="not_support_in_split_mode">"स्प्लिट स्क्रीन मोड मेंएनरोलमेंट को सपोर्ट नहीं है।"</string>
+</resources>

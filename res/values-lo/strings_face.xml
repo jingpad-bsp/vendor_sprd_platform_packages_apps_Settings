@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"ເຫຼືອຢູ່ %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ໃຊ້ການຮັບຮູ້ໃບໜ້າ, ກະລຸນາຈື່ໝາຍເຫດຕໍ່ໄປນີ້ໄວ້:\n1. ໂທລະສັບມືຖືຂອງທ່ານອາດຈະຖືກປົດລັອກໂດຍບຸກຄົນ ຫຼື ລາຍການທີ່ຄ້າຍຄືທ່ານ.\n2. ການຮັບຮູ້ໃບໜ້າແມ່ນຕໍ່າກວ່າລາຍນິ້ວມື, ລະຫັດຜ່ານຮູບແບບ, ລະຫັດລັບທີ່ເປັນຕົວເລກ ແລະ ລະຫັດຕົວອັກສອນແລະຕົວເລກທີ່ກໍານົດເອງ.\n3. ໃນບສະພາບທີ່ມືດ, ທີ່ມີແສງ ແລະ ແສງດ້ານຫຼັງ, ການຮັບຮູ້ໃບໜ້າເພື່ອປົດລັອກ ອັດຕາການປະສົບຜົນສໍາເລັດຈະຫຼຸດລົງ.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"ເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າໃຫ້ໄດ້ດີຍິ່ງຂຶ້ນ, ກະລຸນາເອົາໃຈໃສ່ສິ່ງຕໍ່ໄປນີ້:\n1. ຂັ້ນຕອນການລົງທະບຽນ, ຫຼີກລ່ຽງສະພາບແວດລ້ອມຂອງແສງທີ່ມືດ, ແສງທີ່ກ້າ ແລະ ຍ້ອນແສງ, ເພື່ອຮັບປະກັນຄວາມຊັດເຈນຂອງຮູບໃບໜ້າທີ່ປ້ອນເຂົ້າ. \n2. ຫຼັງຈາກທີ່ລົງທະບຽນສຳເລັດແລ້ວ, ຈະປົດລັອກໂທລະສັບຜ່ານການຈົດຈຳໃບໜ້າເມື່ອກຳລັງເປີດໜ້າຈໍຢູ່."</string>
+<string name="security_settings_face_settings_require_livenessmode">"ໂໝດການເປັນຢູ່"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"ເມື່ອເປີດໃຊ້, ທ່ານຕ້ອງໄດ້ກະພິບຕາເມື່ອປົດລັອກດ້ວຍ ID ໃບໜ້າ, ເພື່ອຮັບປະກັນວ່າເປັນຕົວທ່ານເອງຫຼາຍກວ່າທີ່ຈະເປັນຮູບຖ່າຍ ຫຼື ວັດຖຸອື່ນໆ"</string>
+<string name="not_support_in_split_mode">"ບໍ່​ຮອງ​ຮັບ​ການ​ລົງ​ທະ​ບຽນ​ໃນ​ໂໝດ​​ໜ້າ​ຈໍ​ແຍກ"</string>
+</resources>

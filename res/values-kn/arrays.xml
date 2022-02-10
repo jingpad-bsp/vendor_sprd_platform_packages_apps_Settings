@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"ನೆಟ್ವರ್ಕ್- ನೀಡಿದ ಸಮಯವನ್ನು ಉಪಯೋಗಿಸಿ"</item>
+<item>"GPS-ನೀಡಿದ ಸಮಯವನ್ನು ಉಪಯೋಗಿಸಿ"</item>
+<item>"ಆಫ್"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"ನೆಟ್ವರ್ಕ್- ನೀಡಿದ ಸಮಯವನ್ನು ಉಪಯೋಗಿಸಿ"</item>
+<item>"ಆಫ್"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 ಸೆಕೆಂಡುಗಳು"</item>
+<item>"6 ಸೆಕೆಂಡುಗಳು"</item>
+<item>"ಯಾವಾಗಲೂ ಆನ್"</item>
+<item>"ಯಾವಾಗಲೂ ಮುಚ್ಚಿ"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"ಇದನ್ನು ಒಂದು ನಿಮಿಷಕ್ಕಿಂತಲೂ ಕಡಿಮೆಗೆ ಹೊಂದಿಸಲಾಗಿದೆ" </item>
+<item>"ಇದನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ಈಗಿನಿಂದ."</item>
+<item>"ಇದನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ  <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ಈಗಿನಿಂದ."</item>
+<item>"ಇದನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ಮತ್ತು <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ಈಗಿನಿಂದ."</item>
+<item>"ಇದನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ  <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ಈಗಿನಿಂದ."</item>
+<item>"ಇದನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ಮತ್ತು <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ಈಗಿನಿಂದ."</item>
+<item>"ಇದನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ  <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ಮತ್ತು <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ಈಗಿನಿಂದ."</item>
+<item>"ಇದನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, ಮತ್ತು <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ಈಗಿನಿಂದ."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"ಸ್ವಯಂಚಾಲನೆ"</item>
+<item>"ಆಪ್ಟಿಮೈಜ್"</item>
+<item>"ಆಪ್ಟಿಮೈಜ್ ಇಲ್ಲ"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"ಸ್ವಯಂಚಾಲನೆ"</item>
+<item>"ಸಕ್ರಿಯಗೊಳಿಸು"</item>
+<item>"ಅಸಕ್ರಿಯಗೊಳಿಸು"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"ಸ್ವಯಂಚಾಲನೆ"</item>
+<item>"ಸಮಾಪ್ತಿಗೊಳಿಸಿ"</item>
+<item>"ಮುಚ್ಚಬೇಡಿ"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"ಅಲ್ಟ್ರಾ ಸೇವಿಂಗ್‌ ಮೋಡ್"</item>
+<item>"ಪವರ್ ಸೇವರ್ ಮೋಡ್"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"ಪವರ್ ಸೇವರ್ ಮೋಡ್"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"ಅಲ್ಟ್ರಾ ಸೇವಿಂಗ್‌ ಮೋಡ್"</item>
+<item>"ಪವರ್ ಸೇವರ್ ಮೋಡ್"</item>
+<item>"ಸ್ಮಾರ್ಟ್ ಸೇವಿಂಗ್ ಮೋಡ್"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"ಪವರ್ ಸೇವರ್ ಮೋಡ್"</item>
+<item>"ಸ್ಮಾರ್ಟ್ ಸೇವಿಂಗ್ ಮೋಡ್"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"ಆಂತರಿಕ ನವೀಕರಣ"</item>
+<item>"SD ನವೀಕರಣ"</item>
+</string-array>
+</resources>

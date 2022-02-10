@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Natitirang %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Gumagamit ng facial recognition, pakitandaan ang mga sumusunod na tala:\n1. Ang iyong mobile phone ay maaaring ma-unlock ng tao o item na kamukha mo.\n2. Mas maluwag ang seguridad ng facial recognition kaysa sa fingerprint, pattern na password, digital na cipher, at alphanumeric code na tinukoy mo.\n3. Sa mga sitwasyong madilim, maliwanag, o may backlighting, bababa ang rate ng pagiging matagumpay ng pag-unlock gamit ang facial recognition.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Para mas mahusay na magamit ang pagkilala ng mukha, pakitandaan ang sumusunod:\n1. Sa stage ng pag-enroll, iwasan ang mga lugar na masyadong madilim, masyadong maliwanag, o may backlighting, para matiyak na malinaw na makikita ang input na larawan ng mukha. \n2. Kapag matagumpay ang pag-enroll, maa-unlock ang telepono sa pamamagitan ng pagkilala ng mukha kapag nag-o-on ang screen."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Mode na Liveness"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Kapag nakabukas, kailangan mong kumurap kapag nag-a-unlock gamit ang Face ID para matiyak na ikaw mismo iyon sa halip na mga larawan o iba pang bagay"</string>
+<string name="not_support_in_split_mode">"Hindi sinusuportahan ang pag-enroll sa split-screen mode"</string>
+</resources>

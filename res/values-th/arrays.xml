@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 วินาที"</item>
+<item>"6 วินาที"</item>
+<item>"เปิดใช้เสมอ"</item>
+<item>"ปิดตลอด"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"นี่คือการตั้งค่าสำหรับน้อยกว่า 1 นาทีต่อจากนี้."</item>
+<item>" นี้มีการตั้งค่าสำหรับ<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ตั้งแต่บัดนี้."</item>
+<item>"การตั้งค่าสำหรับ<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ตั้งแต่บัดนี้."</item>
+<item>"การตั้งค่าสำหรับ<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> และ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>ตั้งแต่บัดนี้."</item>
+<item>"การตั้งค่าสำหรับ<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ตั้งแต่บัดนี้."</item>
+<item>"การตั้งค่าสำหรับ<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> และ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ตั้งแต่บัดนี้."</item>
+<item>"การตั้งค่าสำหรับ<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> และ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ตั้งแต่บัดนี้."</item>
+<item>"ตั้งไว้ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> และ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> นับจากนี้"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>"ทุกครั้ง"</item>
+<item>"เมื่อเสียบปลั๊กเท่านั้น"</item>
+<item>"ไม่เลย"</item>
+</string-array>
+<string-array name="wifi_sleep_policy_entries">
+<item>"ทุกครั้ง"</item>
+<item>"เมื่อเสียบปลั๊กเท่านั้น"</item>
+<item>"ไม่เลย"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"อัตโนมัติ"</item>
+<item>"เพิ่มประสิทธิภาพ"</item>
+<item>"ไม่ได้เพิ่มประสิทธิภาพ"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"อัตโนมัติ"</item>
+<item>"เปิดใช้งาน"</item>
+<item>"ปิดใช้งาน"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"อัตโนมัติ"</item>
+<item>"ปิด"</item>
+<item>"ไม่ต้องปิด"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"อัปเดตภายใน"</item>
+<item>"อัปเดต SD"</item>
+</string-array>
+</resources>

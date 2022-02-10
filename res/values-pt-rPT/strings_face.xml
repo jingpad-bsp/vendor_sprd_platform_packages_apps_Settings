@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Resta %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Ao usar o reconhecimento facial, tenha em atenção as seguintes notas:\n1. O seu telemóvel pode ser desbloqueado pela pessoa ou por um item semelhante a si.\n2. O reconhecimento facial é inferior à impressão digital, padrão, palavra-passe, código digital e código alfanumérico definido por si.\n3. Em condições de pouca luz, luz forte ou contraluz, a taxa de sucesso do bloqueio por reconhecimento facial poderá diminuir.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Para um melhor reconhecimento facial, tenha em atenção o seguinte:\n1. Ao registar a face, evite luz fraca, luz forte e luz por trás, para garantir que a imagem facial é adquirida com nitidez. \n2. Após o registo ser bem sucedido, o telefone pode ser desbloqueado por reconhecimento facial quando o ecrã se liga."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Modo vivo"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Quando ativado, tem de piscar os olhos ao desbloquear com a ID Facial, para ter a certeza que é mesmo você e não uma fotografia ou outro objeto"</string>
+<string name="not_support_in_split_mode">"Subscrição não suportada em modo de ecrã dividido"</string>
+</resources>

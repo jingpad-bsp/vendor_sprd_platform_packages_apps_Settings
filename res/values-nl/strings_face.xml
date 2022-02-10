@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d %% resterend"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Wanneer u gebruik maakt van gezichtsherkenning, dient u met de volgende opmerkingen rekening te houden:\n1. Uw mobiele telefoon kan worden ontgrendeld door een persoon (of met behulp van een voorwerp) dat op u lijkt.\n2. Gezichtsherkenning is minder veilig dan het gebruik van vingerafdrukken, patroon-wachtwoorden, numerieke wachtwoorden, en zelfgekozen alfanumerieke codes.\n3. Wanneer de lichtomstandigheden ongunstig zijn – als het te donker of te licht is, of bij tegenlicht – gaat het succespercentage van ontgrendeling met gezichtsherkenning snel achteruit.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Om beter gebruik te kunnen maken van gezichtsherkenning, moet u het volgende in acht nemen:\n1. Vermijd te zwak of te sterk licht en ook tegenlicht bij de gezichtsregistratie, om te garanderen dat de geregistreerde afbeelding van het gezicht voldoende duidelijk is. \n2. Nadat de gezichtsregistratie geslaagd is, kan de telefoon worden ontgrendeld door middel van gezichtsherkenning wanneer het scherm wordt ingeschakeld."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Live-detectiemodus"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Wanneer deze modus actief is, moet u met de ogen knipperen wanneer u de telefoon met gezichtsherkenning opent – om te garanderen dat u het zelf bent die de telefoon ontgrendelt, en niet een gelijkende foto of een ander voorwerp"</string>
+<string name="not_support_in_split_mode">"Inschrijving wordt niet ondersteund op gesplitst scherm"</string>
+</resources>

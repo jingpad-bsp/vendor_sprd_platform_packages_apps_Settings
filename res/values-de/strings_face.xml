@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d verbleibend"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Verwendet die Gesichtserkennung. Bitte beachten Sie Folgendes:\n1. Ihr Mobiltelefon kann durch eine Person oder ein Objekt, die/das Ihnen ähnelt, entsperrt werden.\n2. Die Gesichtserkennung ist schwächer als ein Fingerabdruck, ein Passwortmuster, eine digitale Chiffre und ein selbst definierter alphanumerischer Code.\n3. Bei zu dunkler oder zu heller Umgebung oder bei Gegenlicht funktioniert die Gesichtserkennung möglicherweise weniger gut.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Um die Gesichtserkennung besser nutzen zu können, beachten Sie bitte folgendes:\n1. Erfassungsphase: Vermeiden Sie Umgebungen mit dunklem, grellem und Hintergrundlicht, um die Erkennbarkeit des eingegebenen Gesichtsbildes zu gewährleisten. \n2. Wenn die Erfassung erfolgreich war, kann das Telefon über die Gesichtserkennung entsperrt werden, wenn der Bildschirm eingeschaltet wird."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Lebendigkeitsmodus"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Wenn aktiviert, müssen Sie beim Entsperren mittels Gesichtserkennung mit den Augen blinzeln, damit das Gerät erkennen kann, dass es sich nicht um ein Foto oder ähnliches Objekt handelt"</string>
+<string name="not_support_in_split_mode">"Registrierung im Splitscreen-Modus wird nicht unterstützt"</string>
+</resources>

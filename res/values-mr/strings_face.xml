@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"उरलेले %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"चेहऱ्याची ओळख पटविण्याच्या तंत्राचा वापर करते, कृपया खालील नोंदी लक्षात ठेवा:\n1. तुमच्याशी समान असलेल्या व्यक्ती किंवा वस्तूद्वारे तुमचा फोन अनलॉक केला जाऊ शकतो.\n2. फेशियल रिकग्निशन हे फिंगरप्रिंट, पॅटर्न पासवर्ड, डिजिटल सिफर आणि स्वयं-निश्चित अल्फान्यूमेरिक कोडपेक्षा खालच्या स्तरावरील आहे.\n3. गडद, फिकट किंवा बॅकलाईटिंग स्थितीमध्ये, फेशियल रिकग्निशनद्वारे अनलॉक करण्याचा दर कमी होईल.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"चेहरा ओळखण्याचा चांगला उपयोग करण्यासाठी पु्ढील बाबी ध्यानात घ्या:\n1.नोंदणी पायरी, गडद प्रकाश, तीव्र प्रकाश आणि पाठीमागून येणाऱ्या प्रकाशाचे वातावरण टाळा, याची खात्री करण्यासाठी देण्याच्या चेहऱ्याच्या प्रतिमेची स्पष्टता असली पाहिजे. \n2.नोंदणी यशस्वी झाल्यानंतर स्क्रीन चालू होत असताना चेहरा ओळखण्याद्वारे फोन अनलॉक केला जाऊ शकतो."</string>
+<string name="security_settings_face_settings_require_livenessmode">"लाईवनेस मोड"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"उघडल्यावर, आपण फोटो किंवा अन्य ऑब्जेक्ट्सपेक्षा स्वत: नसल्याचे सुनिश्चित करण्यासाठी फेस आयडी सह अनलॉक करताना आपल्याला डोळे मिटवणे आवश्यक आहे"</string>
+<string name="not_support_in_split_mode">"विभक्त स्क्रीन मोडमध्ये नोंदणीला समर्थन करत नाही"</string>
+</resources>

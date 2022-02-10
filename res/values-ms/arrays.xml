@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"Gunakan masa disediakan rangkaian"</item>
+<item>"Gunakan masa GPS yang disediakan"</item>
+<item>tutup</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Gunakan masa disediakan rangkaian"</item>
+<item>tutup</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 saat</item>
+<item>"6 saat"</item>
+<item>"Sentiasa hidup"</item>
+<item>"Sentiasa tutup"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"Ini disetkan selama kurang daripada 1 minit dari sekarang"</item>
+<item>"Ini diset selama <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dari sekarang."</item>
+<item>"Ini diset selama <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dari sekarang."</item>
+<item>"Ini diset semasa <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dan <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dari sekarang."</item>
+<item>"Ini diset selama <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang."</item>
+<item>"Ini diset selama <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang."</item>
+<item>"Ini diset selama <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang."</item>
+<item>"Ini diset selama <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang."</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Mod penjimatan ultra"</item>
+<item>"Mod penjimat kuasa"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Mod penjimat kuasa"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Mod penjimatan ultra"</item>
+<item>"Mod penjimat kuasa"</item>
+<item>"Mod penjimatan pintar"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Mod penjimat kuasa"</item>
+<item>"Mod penjimatan pintar"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"kemas kini dalaman"</item>
+<item>"Kemas kini SD"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"Auto"</item>
+<item>"Tutup"</item>
+<item>"Jangan tutup"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"Auto"</item>
+<item>"Optimumkan"</item>
+<item>"Tidak Dioptimumkan"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"Auto"</item>
+<item>"Dayakan"</item>
+<item>"Nyahdayakan"</item>
+</string-array>
+</resources>

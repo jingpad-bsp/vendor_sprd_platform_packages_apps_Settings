@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Hátralévő %d%%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Arcfelismerést használ, vegye figyelembe az alábbiakat:\n1. Mobiltelefonját feloldhatja más személy vagy tárgy, amely Önre hasonlít.\n2. Az arcfelismerés kisebb védelmet nyújt, mint az ujjlenyomat, a feloldási minta, a számkód vagy az egyéni alfanumerikus kód.\n3. Sötétben, nagy fényben és háttérvilágítás esetén az arcfelismerés hatékonysága csökkenni fog.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Az arcfelismerés jobb használata érdekében, kérjük, vegye figyelembe az alábbiakat:\n1. A felvétel szakaszában, kerülje a rossz megvilágítást, az erős fényt, a hátulról érkező megvilágítást, hogy biztosítsa a bevitt arckép tisztaságát. \n2. A sikeres bevitelt követően a telefon arcfelismeréssel feloldható a képernyő bekapcsolásakor."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Élethű üzemmód"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Ha aktiválja, pislognia kell egyet a Face ID-vel történő feloldáskor, hogy igazolja, tényleg Ön az, nem egy fénykép vagy más tárgy"</string>
+<string name="not_support_in_split_mode">"Osztott képernyős módban nem támogatja a beléptetést"</string>
+</resources>

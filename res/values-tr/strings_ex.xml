@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Kalan zaman: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Güç tasarrufu optimizasyonu"</string>
+<string name="calling_enable_data_title">"Arama sırasında mobil ağa erişime izin ver"</string>
+<string name="cannot_disable_two_sim_card">"İki SIM kartı aynı anda devre dışı bırakamazsınız"</string>
+<string name="cfu_is_on">"Her zaman çağrı açık"</string>
+<string name="confirm_data_dialog_message">"Veri erişimini değiştirmek LTE hizmetlerini durduracak. Devam etmek istediğinizden emin misiniz?"</string>
+<string name="confirm_data_dialog_title">"SIM\'de Verileri Seç <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Bu ektinleştirildiğinde, VoLTE aramaları sırasında mevcut SMS kartın cep internet verisi kullanılır; bu da ilave internet ücretlerine neden olabilir."</string>
+<string name="dialog_network_selection_message">"Elle seçim modunda cep telefonu size başka bir operatör seçmeyecek. Seçilen operatörün hizmet bağlantısını kaybettiğinizde, bazen tekrar elle seçim yapmanız gerekebilir ya da geri otomatik seçim moduna değiştirilebilir. Ağı elle seçmek istiyor musunuz?"</string>
+<string name="do_not_switch_default_data_subscription">"Arama esnasında varsayılan hattınızı değiştirmeyin"</string>
+<string name="edit_sim_name_disabled">"Öncelikle uçak modunu kapatın."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Mevcut ağ modu 4G\'yi desteklemiyor, aktivasyon sonrası arama yapamayacaksınız, lütfen tercih edilen ağ türünü 4G olarak değiştirin ve tekrar deneyin"</string>
+<string name="exception_error">"Ağ veya SIM kart hatası."</string>
+<string name="fdn_check_failure">"Telefon uygulamanızın Sabit Arama Numaraları ayarı açık. Bu nedenle çağrıyla ilgili bazı özellikler çalışmıyor."</string>
+<string name="fingerprint_settings_applock">"Uygulama kilidi"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN Devre Dışı!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN Etkinleştirildi!"</string>
+<string name="invalid_subscription_preference_setting">"Geçersiz ayar."</string>
+<string name="low_resolution_power_saving">"Düşük çözünürlük güç tasarrufu"</string>
+<string name="low_resolution_power_saving_description">"Güç tasarrufuna yardımcı olmak için gerek ölçüden ekran çözünürlüğünü düşürün"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Her zaman online mobil veriyi devre dışı bırakma bazı uygulamalarda bağlantı sorunlarına neden olur. Online veri güncelleştirmek için uygulamalarınızda lütfen el ile yenileme özelliğini kullanın."</string>
+<string name="mobile_data_always_online_summary">"Bazı mobil ağlarda daha fazla pil gücü kullanılır"</string>
+<string name="mobile_data_always_online_title">"Mobil veri her zaman çevrimiçi" </string>
+<string name="mobile_data_not_allowed">"Şebeke aranırken mobil veri kullanılamaz."</string>
+<string name="mobile_select_default_voice_sim">"Öncelikle varsayılan ses kartını seçin."</string>
+<string name="network_2G_only">"Sadece 2G"</string>
+<string name="network_3G_auto">"3G/2G oto"</string>
+<string name="network_3G_only">"Sadece 3G"</string>
+<string name="network_4G_2G">"4G/2G oto"</string>
+<string name="network_4G_3G">"4G/3G oto"</string>
+<string name="network_4G_only">"Sadece 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G Otomatik"</string>
+<string name="network_5G">"5G/4G/3G/2G otomatik"</string>
+<string name="network_5G_only">"sadece 5G"</string>
+<string name="network_gsm_only">"Yalnızca GSM"</string>
+<string name="network_mode_setting_prompt">"Ağ modunu bildirim çubuğunda kapattıktan sonra geçiş yapmasına izin verilir."</string>
+<string name="network_registration_fail">"Ağ kaydı başarısız oldu, otomatik seçim fonksiyonu açılsın mı?"</string>
+<string name="network_registration_fail_title">"Ağ kaydı başarısız oldu"</string>
+<string name="network_wcdma_only">"Yalnızca WCDMA"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM oto"</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> numarası:"</string>
+<string name="preferred_data_roaming_all_networks">Tüm ağlar</string>
+<string name="preferred_data_roaming_dialogtitle">"İnternet uluslararası dolaşımı"</string>
+<string name="preferred_data_roaming_disable">"Devredışı Bırak"</string>
+<string name="preferred_data_roaming_national">"Sadece ulusal dolaşım"</string>
+<string name="preferred_data_roaming_summary">"Sadece ulusal dolaşım"</string>
+<string name="preferred_data_roaming_title">"İnternet uluslararası dolaşımı"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"Bu ayarları görüntülemeden önce radyoyu açın."</string>
+<string name="reading_settings">"Ayarlar okunuyor..."</string>
+<string name="reset_networks_progress">"yeniden başlatılıyor\u2026"</string>
+<string name="response_error">"Ağdan beklenmeyen yanıt."</string>
+<string name="screen_split_not_support">"Mobil ağ bölünmüş ekranda çalışmayabilir."</string>
+<string name="secondary_card_slot">"Saniye. "</string>
+<string name="secondary_sub_summary">"Saniye. "</string>
+<string name="select_during_call_prohibited">"Arama sırasında bu işleme izin verilmez."</string>
+<string name="select_lte_prohibited">"Mevcut seçim engellendi, lütfen 4G\'ye geçin."</string>
+<string name="select_under_airplane_prohibited">"Öncelikle uçak modunu kapatın."</string>
+<string name="sim_calls_not_set_up">"Ayarlanmamış"</string>
+<string name="sim_disable_prompt">"SIM aktivasyon durumu değiştirilecek, lütfen devam edip etmeyeceğinizi seçiniz  "</string>
+<string name="sim_disabled">Devre dışı</string>
+<string name="simsettings_forced_resizable">"SIM Ayarları bölünmüş ekranda çalışmayabilir."</string>
+<string name="smart_dual_sim_hint">"Lütfen SIM numarasını girin."</string>
+<string name="smart_dual_sim_number_null">"SIM numarası boş."</string>
+<string name="smart_dual_sim_summary">"Akıllı Çift SIM durumunu yönet"</string>
+<string name="smart_dual_sim_title">"Akıllı Çift SIM"</string>
+<string name="smart_dual_sim_warning_message">"Akıllı Çift SIM Etkinleştirilsin mi?\nBazı hizmet sağlayıcılarında bu fonksiyon düzgün şekilde çalışmayabilir veya ücretli olabilir."</string>
+<string name="smart_forwarding_show_dialog">"Bunu bir daha gösterme"</string>
+<string name="turn_off_ims_error">"Wi-Fi araması aktifken %s kapatılamaz, öncelikle Wi-Fi aramasını kapatın."</string>
+<string name="updating_settings">"Ayarlar güncelleştiriliyor..."</string>
+<string name="uplmn_preference_title">"UPLMN Tercihi"</string>
+<string name="vt_resolution_setting">"VoLTE video çözünürlüğünü seçin"</string>
+</resources>

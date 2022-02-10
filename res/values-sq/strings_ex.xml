@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Kohët e mbetura: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Optimizim i kursimit të energjisë"</string>
+<string name="calling_enable_data_title">"Lejo akses në rrjetin celular gjatë thirrjes"</string>
+<string name="cannot_disable_two_sim_card">"Nuk mund të çaktivizosh njëkohësisht të dy kartat SIM"</string>
+<string name="cfu_is_on">"Përcjellja gjithmonë e telefonatës është aktive"</string>
+<string name="confirm_data_dialog_message">"Ndryshimi i aksesit të internetit celular do të ndalojë të gjitha shërbimet LTE. Doni të vazhdoni?"</string>
+<string name="confirm_data_dialog_title">"Zgjidhni internetin celular në SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Kur është e aktivizuar, SIM pa të dhëna mund të futet në internet duke përdorur lidhjen e saj të të dhënave celulare gjatë thirrjeve VoLTE. Kjo mund të rezultojë në tarifa shtesë për të dhënat."</string>
+<string name="dialog_network_selection_message">"Telefoni celular nuk do të zgjedhë operatorë të tjerë në modalitetin e përzgjedhjes manuale. Ndonjëherë duhet të bësh përsëri përzgjedhjen manuale ose të rikthesh modalitetin e përzgjedhjes automatike kur humbet shërbimin e operatorit të zgjedhur. Dëshiron ta zgjedhësh manualisht rrjetin?"</string>
+<string name="do_not_switch_default_data_subscription">"Mos ndrysho pajtimin e parazgjedhur gjatë thirrjes"</string>
+<string name="edit_sim_name_disabled">"Në fillim çaktivizo modalitetin Avion."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Modaliteti aktual i rrjetit nuk e mbështet 4G, pas aktivizimit nuk do të mund të marrësh ose të bësh telefonata, ndryshojë llojin e preferuar të rrjetit në 4G dhe provoje përsëri"</string>
+<string name="exception_error">Gabim në rrjet ose në kartën SIM.</string>
+<string name="fdn_check_failure">Cilësimi i aplikacionit të telefonit tënd për Numrat e Telefonimit Fikës është i aktivizuar. Si rezultat, disa veçori në lidhje me telefonatat nuk funksionojnë.</string>
+<string name="fingerprint_settings_applock">"App lock"</string>
+<string name="icc_pin_disabled">"PIN i SIM <xliff:g id="card_number">%1$d</xliff:g> i çaktivizuar!"</string>
+<string name="icc_pin_enabled">"PIN i SIM <xliff:g id="card_number">%1$d</xliff:g> i aktivizuar!"</string>
+<string name="invalid_subscription_preference_setting">"Cilësim i pavlefshëm."</string>
+<string name="low_resolution_power_saving">"Kursim energjie me rezolucion të ulët"</string>
+<string name="low_resolution_power_saving_description">"Ul rezolucionin e ekranit sipas nevojës për të ndihmuar në kursimin e energjisë"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Çaktivizimi i internetit celular gjithmonë online do të shkaktojë probleme lidhjesh në disa aplikacione. Ju lutem përdorni veçorinë e rifreskimit manual në aplikacionet për të përditësuar të dhënat online."</string>
+<string name="mobile_data_always_online_summary">"Përdor më shumë energji baterie në disa rrjete celulare"</string>
+<string name="mobile_data_always_online_title">"Interneti celular gjithmonë online"</string>
+<string name="mobile_data_not_allowed">"Të dhënat celulare nuk disponohen gjatë kërkimit të rrjetit."</string>
+<string name="mobile_select_default_voice_sim">"Në fillim zgjidh kartën e paracaktuar të zërit."</string>
+<string name="network_2G_only">"Vetëm 2G"</string>
+<string name="network_3G_auto">"3G/2G Automatik"</string>
+<string name="network_3G_only">"Vetëm 3G"</string>
+<string name="network_4G_2G">"4G/2G automatik"</string>
+<string name="network_4G_3G">"4G/3G automatik"</string>
+<string name="network_4G_only">"Vetëm 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G Automatik"</string>
+<string name="network_5G">"5G/4G/3G/2G Automatik"</string>
+<string name="network_5G_only">"Vetëm 5G"</string>
+<string name="network_gsm_only">Vetëm GSM</string>
+<string name="network_mode_setting_prompt">"Kjo lejohet të ndërrohet pasi të fiket modaliteti i ndryshimit të rrjetit nga shiriti i njoftimeve."</string>
+<string name="network_registration_fail">"Regjistrimi i rrjetit dështoi, doni të hapni funksionin e zgjedhjes automatike?"</string>
+<string name="network_registration_fail_title">"Regjistrimi i rrjetit"</string>
+<string name="network_wcdma_only">"Vetëm WCDMA"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM automatik"</string>
+<string name="number_sim">"Numri i SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g>:"</string>
+<string name="preferred_data_roaming_all_networks">Të gjitha rrjetet</string>
+<string name="preferred_data_roaming_dialogtitle">Roaming të dhënash</string>
+<string name="preferred_data_roaming_disable">Çaktivizo</string>
+<string name="preferred_data_roaming_national">"Vetëm roaming kombëtare"</string>
+<string name="preferred_data_roaming_summary">"Vetëm roaming kombëtare"</string>
+<string name="preferred_data_roaming_title">Roaming të dhënash</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">Ndiz radion para se të shikosh këto cilësime.</string>
+<string name="reading_settings">"Duke lexuar konfigurimet..."</string>
+<string name="reset_networks_progress">"Duke rivendosur\u2026"</string>
+<string name="response_error">Reagim i papritur nga rrjeti.</string>
+<string name="screen_split_not_support">"Rrjeti celular mund të mos punojnë me ekranin e ndarë."</string>
+<string name="secondary_card_slot">"SEK. "</string>
+<string name="secondary_sub_summary">"SEK. "</string>
+<string name="select_during_call_prohibited">"Ky veprim nuk lejohet gjatë një thirrjeje."</string>
+<string name="select_lte_prohibited">"Zgjedhja aktuale është e ndaluar, aktivizo 4G."</string>
+<string name="select_under_airplane_prohibited">"Në fillim çaktivizo modalitetin Avion."</string>
+<string name="sim_calls_not_set_up">Nuk është konfiguruar</string>
+<string name="sim_disable_prompt">Gjendja e aktivizimit të Sim do të ndryshohet, ju lutem konfirmoni nëse doni të vazhdoni?</string>
+<string name="sim_disabled">Çaktivizuar</string>
+<string name="simsettings_forced_resizable">"Cilësimet e SIM mund të mos punojnë me ekranin e ndarë."</string>
+<string name="smart_dual_sim_hint">"Fut numrin e SIM."</string>
+<string name="smart_dual_sim_number_null">"Numri i SIM është bosh."</string>
+<string name="smart_dual_sim_summary">"Menaxhoni statusin e SIM dyshe inteligjente"</string>
+<string name="smart_dual_sim_title">"SIM dyshe inteligjente"</string>
+<string name="smart_dual_sim_warning_message">"Të aktivizohet SIM dyshe inteligjente?\nMe disa ofrues shërbimi, ky funksion mund të mos funksionojë saktë ose mund të ngarkoheni me pagesë."</string>
+<string name="smart_forwarding_show_dialog">"Mos trego këtë përsëri"</string>
+<string name="turn_off_ims_error">"Nuk mund të çaktivizohet %s kur Thirrja me Wi-Fi është e aktivizuar, në fillim çaktivizo thirrjen me Wi-Fi."</string>
+<string name="updating_settings">"Duke përditësuar konfigurimet..."</string>
+<string name="uplmn_preference_title">"Preferenca e UPLMN"</string>
+<string name="vt_resolution_setting">"Zgjidh rezolucionin e videos për VoLTE"</string>
+</resources>

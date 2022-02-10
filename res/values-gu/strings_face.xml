@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"બાકી રહેલ %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ફેશિયલ રેકગ્નિજિશનનો ઉપયોગ કરે છે, કૃપા કરીને નીચેના મુદ્દાઓને ધ્યાનમાં રાખોઃ\n1. આપનો મોબાઇલ ફોન આપના જેવી દેખાતી કોઈ વ્યક્તિ કે ચીજથી ખુલી જઈ શકે છે.\n2.  ફેશિયલ રેકગ્નિઝિશન એ ફિંગરપ્રિન્ટ, પેટર્ન પાસવર્ડ, ડિજીટલ સાઇફર અને જાતે નિર્ધારિત કરેલ આલ્ફાન્યુમરિકલ કૉડથી ઉતરતી કક્ષાનું છે.\n3. અંધારામાં, અજવાળામાં અને પાછળથી આવતા પ્રકાશની સ્થિતિમાં ફેશિયલ રેકગ્નિજિશન સફળ થવાનો દર ઘટી જશે.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"ફેશિયલ રેકગ્નિજિશન (ચહેરાને ઓળખવો)નો વધુ સારી રીતે ઉપયોગ કરવા માટે, કૃપા કરીને અહીં નીચેની બાબતોને નોંધોઃ\n1. પ્રવેશનો તબક્કો, ચહેરાની ઇનપૂટ ઇમેજની સ્પષ્ટતા સુનિશ્ચિત કરવા માટે ઘેરા, અતિશય પ્રકાશને અને બૅકલાઇટિંગ ધરાવતા વાતાવરણને ટાળો.  \n2. સફળતાપૂર્વક પ્રવેશ થઈ જાય તે પછી સ્ક્રીન ચાલુ થઈ રહી હોય ત્યારે ફોનને ફેશિયયલ રેકગ્નિજિશન મારફતે ખોલી શકાય છે."</string>
+<string name="security_settings_face_settings_require_livenessmode">"લાઇવનેસ મૉડ"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"જ્યારે ખુલી જાય ત્યારે ફેસ IDથી ફોનને ખોલતી વખતે સ્ક્રીનમાં દેખાતી વ્યક્તિ તમે પોતે જ છો અને કોઈ ફોટો કે પદાર્થ નથી તેની પુષ્ટી કરવા માટે આપે આપની આંખનો પલકારો મારવાનો રહે છે."</string>
+<string name="not_support_in_split_mode">"બે ભાગ વાળી-સ્ક્રીન મોડમાં નોંધણીને ટેકો આપતો નથી"</string>
+</resources>

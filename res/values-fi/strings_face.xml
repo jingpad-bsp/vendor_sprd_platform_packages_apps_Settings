@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Jäljellä %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Käyttää kasvontunnistusta, muista seuraavat seikat:\n1. Itseäsi muistuttava henkilö tai esine voi pystyä avaamaan matkapuhelimesi.\n2. Kasvontunnistus ei ole yhtä varma kuin sormenjälki, kuviosalasana, digitaalinen salaus tai itse määrittämäsi aakkosnumeerinen koodi.\n3. Pimeässä, voimakkaassa valossa tai taustavalossa kasvontunnistuksen onnistuminen on epävarmempaa.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Kasvojentunnistuksen toiminnan parantamiseksi ota huomioon seuraavat seikat:\n1. Vältä rekisteröintivaiheessa hämärää, voimakasta valoa ja vastavaloa, jotta kasvut näkyvät selvästi. \n2. Kun rekisteröinti on onnistunut, puhelimen lukitus voidaan avata kasvojentunnistuksen kautta, kun näyttö kytkeytyy päälle."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Elävä tila"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Kun avaat lukituksen kasvotunnuksella, sinun on räpäytettävä silmiäsi, jotta järjestelmä voi varmistaa, ettei kyseessä ole valokuva tai muu esine"</string>
+<string name="not_support_in_split_mode">"Rekisteröitymistä jaetun näytön tilassa ei tueta"</string>
+</resources>

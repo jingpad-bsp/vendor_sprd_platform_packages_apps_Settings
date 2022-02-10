@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"ကွန်ယက်အထောက်အပံ့တန်ဖိုးများကို သုံးသည်"</item>
+<item>"GPS မှ စီစဉ်ပေးသော အချိန်ကို အသုံးပြုပါ"</item>
+<item>"ပိတ်ထား"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"ကွန်ယက်အထောက်အပံ့တန်ဖိုးများကို သုံးသည်"</item>
+<item>"ပိတ်ထား"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"ယခုမှစတင်၍ ဤအရာကို အချိန်တစ်မိနစ်အောက်တပ်ဆင်ပြီးဖြစ်သည်။"</item>
+<item>"၎င်းအား ယခုမှစ၍ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> အကြာတွင် ထားရှိပြီးဖြစ်သည်။"</item>
+<item>"၎င်းအား ယခုမှစတင်၍ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> အကြာတွင် ထားရှိပြီးဖြစ်သည်။"</item>
+<item>"၎င်းအား ယခုမှစတင်၍ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> နှင့် <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> အကြာတွင် ထားရှိပြီးဖြစ်သည်။"</item>
+<item>"၎င်းအား ယခုမှစတင်၍ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> အကြာတွင် ထားရှိပြီးဖြစ်သည်။"</item>
+<item>"၎င်းအား ယခုမှစတင်၍ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> နှင့် <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> အကြာတွင် ထားရှိပြီးဖြစ်သည်။"</item>
+<item>"၎င်းအား ယခုမှစတင်၍ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> နှင့် <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> အကြာတွင် ထားရှိပြီးဖြစ်သည်။"</item>
+<item>"၎င်းအား ယခုမှစတင်၍ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>၊ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> နှင့် <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> အကြာတွင် ထားရှိပြီးဖြစ်သည်။"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"အလိုအလျောက်"</item>
+<item>"အကောင်းဆုံးလုပ်ရန်"</item>
+<item>"အကောင်းဆုံးလုပ်ထားခြင်း မရှိပါ"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"အလိုအလျောက်"</item>
+<item>"ဖွင့်ရန်"</item>
+<item>"မလုပ်ဆောင်နိုင်"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"အလိုအလျောက်"</item>
+<item>"ပိတ်ပါ"</item>
+<item>"မပိတ်ပါနှင့်"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"အလွန်တရာ ပါဝါချွေတာမုဒ်"</item>
+<item>"ပါဝါ ချွေတာမုဒ်"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"ပါဝါချွေတာ မုဒ်"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"အလွန်တရာ ပါဝါချွေတာမုဒ်"</item>
+<item>"ပါဝါ ချွေတာမုဒ်"</item>
+<item>"စမတ် ချွေတာမုဒ်"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"ပါဝါ ချွေတာမုဒ်"</item>
+<item>"စမတ် ချွေတာမုဒ်"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"အတွင်းပိုင်း အပ်ဒိတ်"</item>
+<item>"SD အပ်ဒိတ်"</item>
+</string-array>
+</resources>

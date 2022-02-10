@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(बचेको समय: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"पावर बचत अनुकूलन"</string>
+<string name="calling_enable_data_title">"कल गर्ने क्रममा मोबाइल नेटवर्क पहुँच गर्न अनुमति दिनुहोस्"</string>
+<string name="cannot_disable_two_sim_card">"तपाईं एकै समयमा दुईवटा SIM कार्डहरूलाई असक्षम पार्न सक्नुहुन्न"</string>
+<string name="cfu_is_on">"सधैं कल फरवार्ड गर्ने सेवा अन छ"</string>
+<string name="confirm_data_dialog_message">"डेटामाथिको पहुँचलाई परिवर्तन गर्नुले सबै LTE सेवाहरूलाई रोक्नेछ। के तपाईं जारी राख्न चाहनुहुन्छ?"</string>
+<string name="confirm_data_dialog_title">"SIM को डेटा चयन गर्नुहोस् <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"सक्षम गरिएपछि, गैह्र-डाटा SIM ले यसको मोबाइल डाटा कनेक्सन प्रयोग गरी VoLTE कलको समयमा इन्टरनेटमा पहुँच गर्न सक्छ। यसको कारण अतिरिक्त डाटा शुल्क लाग्न सक्छ।"</string>
+<string name="dialog_network_selection_message">"म्यानुअल चयनको मोडमा मोबाइल फोनले तपाईंका लागि अन्य सेवा प्रदायकहरू चयन गर्ने छैन। कहिलेकाहीँ चयन गरिएको सेवा प्रदायक नभेटिँदा तपाईंले पहिला म्यानुअल मोडमा गई उक्त अपरेटरलाई चयन गरेपछि फेरि स्वतः चयन मोडमा बदल्नुपर्ने हुन्छ। तपाईं म्यानुअल रूपमा नेटवर्क चयन गर्न चाहनुहुन्छ?"</string>
+<string name="do_not_switch_default_data_subscription">"कल गर्दा पूर्वनिर्धारित सदस्यतालाई स्विच नगर्नुहोस्"</string>
+<string name="edit_sim_name_disabled">"पहिले हवाइजहाज मोड बन्द गर्नुहोस् ।"</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"हालको नेटवर्क मोडले 4G लाई समर्थन गर्दैन, एक्टिभेसन पछि तपाईले कल गर्न र प्राप्त गर्न सक्नुहुने छैन, कृपया रुचाइएको नेटवर्कको प्रकारमा 4G मा स्विच गर्नुहोस् र फेरि प्रयास गर्नुहोस् "</string>
+<string name="exception_error">"नेटवर्क वा SIM कार्ड त्रुटि।"</string>
+<string name="fdn_check_failure">"तपाईंको फोन एपको फिक्स्ड डायलिङ नम्बरसम्बन्धी सेटिङलाई अन गरिएको छ। यसको परिणामस्वरूप, कलसम्बन्धी केही सुविधाहरूले काम गर्दैनन्।"</string>
+<string name="fingerprint_settings_applock">"एप लक"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> लाई असक्षम गरियो!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN सक्षम गरियो!"</string>
+<string name="invalid_subscription_preference_setting">"अवैध सेटिंग ।"</string>
+<string name="low_resolution_power_saving">"कम रिजोलुशन पावर बचत"</string>
+<string name="low_resolution_power_saving_description">"पावर बचाउन स्क्रीन रिजोलुशन कम गर्नुहोस्"</string>
+<string name="main_card_slot">"प्राथमिक "</string>
+<string name="mobile_data_always_online_dialog">"मोबाइल डेटा सधैं अनलाइन सुविधालाई असक्षम गर्नाले केही अनुप्रयोगहरूमा जडान सम्बन्धी समस्याहरू हुन सक्छन्। कृपया अनलाइन डेटालाई अपडेट गर्न अनुप्रयोगहरूमा म्यानुअल ताजा गर्ने सुविधाको प्रयोग गर्नुहोस्।"</string>
+<string name="mobile_data_always_online_summary">"यसले केही मोबाइल नेटवर्कहरूमा थप बैटरी पावर प्रयोग गर्छ"</string>
+<string name="mobile_data_always_online_title">"मोबाइल डेटा सधैँ अनलाइन"</string>
+<string name="mobile_data_not_allowed">"नेटवर्क खोजी गर्ने बेलामा मोबाइल डाटा उपलब्ध छैन ।"</string>
+<string name="mobile_select_default_voice_sim">"कृपया पहिले पूर्वनिर्धारित भ्वाइस कार्ड छनौट गर्नुहोस् ।"</string>
+<string name="network_2G_only">"2G मात्र"</string>
+<string name="network_3G_auto">"3G/2G स्वतः"</string>
+<string name="network_3G_only">"3G मात्र"</string>
+<string name="network_4G_2G">"4G/2G स्वतः"</string>
+<string name="network_4G_3G">"4G/3G स्वतः"</string>
+<string name="network_4G_only">"4G मात्र"</string>
+<string name="network_4g_auto">"4G/3G/2G स्वतः"</string>
+<string name="network_5G">"5G/4G/3G/2G अटो"</string>
+<string name="network_5G_only">"5G मात्र"</string>
+<string name="network_gsm_only">"GSM मात्र"</string>
+<string name="network_mode_setting_prompt">"यो सूचना पट्टीबाट नेटवर्क मोड बन्द गरिसकेपछि टगल गर्न अनुमति छ।"</string>
+<string name="network_registration_fail">"नेटवर्कमा दर्ता गर्न सकिएन, स्वतः चयनको फंक्शन खोल्ने कि नखोल्ने?"</string>
+<string name="network_registration_fail_title">"नेटवर्कमा दर्ता गर्न सकिएन"</string>
+<string name="network_wcdma_only">"WCDMA मात्र"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM स्वतः"</string>
+<string name="number_sim">"SIM<xliff:g id="SIM_NUMER" example="1">%d</xliff:g> नम्बर:"</string>
+<string name="preferred_data_roaming_all_networks">"सबै नेटवर्कहरू"</string>
+<string name="preferred_data_roaming_dialogtitle">"डेटा रोमिङ"</string>
+<string name="preferred_data_roaming_disable">"असक्षम पार्नुहोस्"</string>
+<string name="preferred_data_roaming_national">"राष्ट्रिय रोमिङ मात्र"</string>
+<string name="preferred_data_roaming_summary">"राष्ट्रिय रोमिङ मात्र"</string>
+<string name="preferred_data_roaming_title">"डेटा रोमिङ"</string>
+<string name="primary_sub_summary">"प्राथमिक "</string>
+<string name="radio_off_error">"यी सेटिङहरू हेर्नुअघि रेडियो खोल्नुहोस्।"</string>
+<string name="reading_settings">"सेटिङहरू पढ्दै..."</string>
+<string name="reset_networks_progress">"रिसेट गर्दैं..."</string>
+<string name="response_error">"नेटवर्कबाट अप्रत्याशित प्रतिक्रिया।"</string>
+<string name="screen_split_not_support">"विभाजित स्क्रीनसँग मोबाइल सञ्जालले काम नगर्न सक्छ।"</string>
+<string name="secondary_card_slot">"द्वितीयक "</string>
+<string name="secondary_sub_summary">"द्वितीयक "</string>
+<string name="select_during_call_prohibited">"कलको क्रममा यो कार्यलाई अनुमति छैन।"</string>
+<string name="select_lte_prohibited">"हालको छनौट निषेध गरिएको छ, कृपया 4G खोल्नुहोस् ।"</string>
+<string name="select_under_airplane_prohibited">"पहिले हवाइजहाज मोड बन्द गर्नुहोस् ।"</string>
+<string name="sim_calls_not_set_up">"सेट अप गरिएको छैन"</string>
+<string name="sim_disable_prompt">"Sim सक्रियकरणको स्थितिलाई परिवर्तन गरिनेछ, कृपया जारी राख्ने हो कि होइन भनी पुष्टि गर्नुहोस्?"</string>
+<string name="sim_disabled">"अक्षम गरिएको"</string>
+<string name="simsettings_forced_resizable">"SIM सेटिङले विभाजित स्क्रीनसँग काम नगर्न सक्छ।"</string>
+<string name="smart_dual_sim_hint">"कृपया SIM नम्बर प्रविष्ट गर्नुहोस्।"</string>
+<string name="smart_dual_sim_number_null">"SIM नम्बर खाली छ।"</string>
+<string name="smart_dual_sim_summary">"स्मार्ट डुअल SIM को स्थितिको व्यवस्थापन गर्नुहोस्"</string>
+<string name="smart_dual_sim_title">"स्मार्ट डुअल SIM"</string>
+<string name="smart_dual_sim_warning_message">"स्मार्ट दोहोरो SIM सक्षम गर्नुहुन्छ?\n केही सेवा प्रदायकहरुसँग, यो प्रकार्यले राम्रोसँग काम नगर्न सक्छ वा तपाईलाई शुल्क लाग्न सक्छ।"</string>
+<string name="smart_forwarding_show_dialog">"यसलाई फेरि नदेखाउनुहोस्"</string>
+<string name="turn_off_ims_error">"Wi-Fi कल सक्षम गर्दा %s लाई बन्द गर्न सकिंदैन, कृपया पहिले Wi-Fi कललाई बन्द गर्नुहोस् ।"</string>
+<string name="updating_settings">"सेटिङहरूलाई अपडेट गर्दै..."</string>
+<string name="uplmn_preference_title">"UPLMN को प्राथमिकता"</string>
+<string name="vt_resolution_setting">"VoLTE भिडियो रिजोल्युसन छनौट गर्नुहोस्"</string>
+</resources>

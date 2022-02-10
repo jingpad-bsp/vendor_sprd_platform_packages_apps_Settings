@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"మిగిలిన%d%%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ముఖ గుర్తింపును ఉపయోగించుకోండి, దయచేసి క్రింది గమనికలను గుర్తుంచుకోండి: \n1 మీ మొబైల్ ఫోన్ మీతో పోలి ఉన్న వ్యక్తి లేదా అంశంతో అన్లాక్ చేయబడవచ్చు. \n2 వేలిముద్ర, పాటర్న్ పాస్‌‌‌వర్డ్ , డిజిటల్ సైఫర్ మరియు స్వీయ నిర్వచించిన ఆల్ఫాన్యూమరిక్ కోడ్. \n3 .చీకటిలో కాంతి మరియు బ్యాక్‌లైటింగ్  పరిస్థితులలో,  అన్లాక్ చేయడానికి ముఖ గుర్తింపు అనుకూలత శాతం తగ్గుతుంది. \n "</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"ముఖ గుర్తింపును బాగా ఉపయోగించుకోవటానికి, దయచేసి ఈ క్రింది వాటిని గమనించండి: \n1. దశను నమోదు చేయండి, ఇన్పుట్ ఫేస్ ఇమేజ్ స్పష్టతను నిర్ధారించడానికి, చీకటి కాంతి, బలమైన కాంతి మరియు బ్యాక్లైటింగ్ వాతావరణాన్ని నివారించండి. \n2. నమోదు విజయవంతం అయిన తరువాత, స్క్రీన్ ఆన్ చేస్తున్నప్పుడు ముఖ గుర్తింపు ద్వారా ఫోన్‌ను అన్‌లాక్ చేయవచ్చు."</string>
+<string name="security_settings_face_settings_require_livenessmode">"లైవ్ నెస్ మోడ్"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"ఫోన్ ఓపెన్ అయిన తరువాత, అది మీ ఫోటోలు లేదా మరొక వస్తువులు కానివి అని నిర్ధారించుటకు మీ ఫేస్ ఐ‌డి తో అన్ లాక్ చేసినపుడు మీ కళ్లను బ్లింక్ చేయాలి"</string>
+<string name="not_support_in_split_mode">"స్ప్లిట్-స్క్రీన్ మోడ్ లో నాట్ సపోర్ట్ నమోదు చేసుకోండి"</string>
+</resources>

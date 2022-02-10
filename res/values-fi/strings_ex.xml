@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Jäljellä olevat ajat: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Virransäästön optimointi"</string>
+<string name="calling_enable_data_title">"Salli pääsy mobiiliverkkoon puhelun aikana"</string>
+<string name="cannot_disable_two_sim_card">"Kahta SIM-korttia ei voi poistaa käytöstä samanaikaisesti"</string>
+<string name="cfu_is_on">"Soitonsiirto on päällä"</string>
+<string name="confirm_data_dialog_message">"Datayhteyden muuttaminen pysäyttää kaikki LTE palvelut. Haluatko jatkaa?"</string>
+<string name="confirm_data_dialog_title">"Valitse tiedot SIMilla  <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Kun toiminto on käytössä, muulla kuin data-SIM-kortilla voi käyttää Internet-yhteyttä sen oman mobiilidatayhteyden kautta VoLTE-puheluiden aikana. Tämä voi aiheuttaa lisämaksuja datan käytöstä."</string>
+<string name="dialog_network_selection_message">"Matkapuhelin ei valitse muita operaattoreita manuaalisen valinnan tilassa. Joskus manuaalinen valinta on tehtävä uudelleen tai on vaihdettava takaisin automaattiseen valintatilaan, jos valitun operaattorin kenttä katoaa. Haluatko valita verkon manuaalisesti?"</string>
+<string name="do_not_switch_default_data_subscription">"Älä vaihda oletustilausta puhelun aikana"</string>
+<string name="edit_sim_name_disabled">"Poista lentokonetila ensin käytöstä."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Nykyinen verkkotila ei tue 4G:tä, eikä aktivoinnin jälkeen voi soittaa ja vastaanottaa puheluja. Vaihda ensisijaiseksi verkkotyypiksi 4G ja yritä uudelleen"</string>
+<string name="exception_error">"Verkko- tai SIM-korttivirhe."</string>
+<string name="fdn_check_failure">"Puhelimesi sovelluksen sallitut numerot -toiminto on käytössä. Osa puheluihin liittyvistä ominaisuuksista ei toimi."</string>
+<string name="fingerprint_settings_applock">"App lock"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN ei käytössä!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN käytössä!"</string>
+<string name="invalid_subscription_preference_setting">"Virheellinen asetus."</string>
+<string name="low_resolution_power_saving">"Heikko tarkkuus, virransäästö"</string>
+<string name="low_resolution_power_saving_description">"Heikennä näytön tarkkuutta virran säästämiseksi"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Mobiilidatan sammuttaminen voi aiheuttaa yhteysongelmia joissain sovelluksissa. Käytä manuaalista päivitystä sovelluksissa päivittääksesi."</string>
+<string name="mobile_data_always_online_summary">"Kuluttaa enemmän akkua joillakin mobiiliverkoilla."</string>
+<string name="mobile_data_always_online_title">"Mobiilidata aina päällä"</string>
+<string name="mobile_data_not_allowed">"Mobiilidata ei ole käytettävissä verkkohaun aikana."</string>
+<string name="mobile_select_default_voice_sim">"Valitse ensin oletuspuhekortti."</string>
+<string name="network_2G_only">"Vain 2G"</string>
+<string name="network_3G_auto">"Autom. 3G/2G"</string>
+<string name="network_3G_only">"Vain 3G"</string>
+<string name="network_4G_2G">"Autom. 4G/2G"</string>
+<string name="network_4G_3G">"Autom. 4G/3G"</string>
+<string name="network_4G_only">"Vain 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G Auto"</string>
+<string name="network_5G">"5G/4G/3G/2G auto"</string>
+<string name="network_5G_only">"Vain 5G"</string>
+<string name="network_gsm_only">"Vain GSM"</string>
+<string name="network_mode_setting_prompt">"Asetusta voi vaihtaa, kun verkonvaihtotila on poistettu käytöstä ilmoituspalkista."</string>
+<string name="network_registration_fail">"Verkkorekisteröinti epäonnistui, avataanko automaattinen valintatoiminto?"  </string>
+<string name="network_registration_fail_title">"Verkkorekisteröinti epäonnistui"</string>
+<string name="network_wcdma_only">"Vain WCDMA"</string>
+<string name="network_wcdma_pref">"Autom. WCDMA/GSM"</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> -numero:"</string>
+<string name="preferred_data_roaming_all_networks">"Kaikki verkostot"</string>
+<string name="preferred_data_roaming_dialogtitle">"Dataverkkovierailu"</string>
+<string name="preferred_data_roaming_disable">"Poista käytöstä"</string>
+<string name="preferred_data_roaming_national">"Roaming vain kotimaassa"</string>
+<string name="preferred_data_roaming_summary">"Roaming vain kotimaassa"</string>
+<string name="preferred_data_roaming_title">"Dataverkkovierailu"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"Käynnistä radio ennen näiden asetuksien tarkastelua."</string>
+<string name="reading_settings">"Luetaan asetuksia…"</string>
+<string name="reset_networks_progress">"nollataan\u2026"</string>
+<string name="response_error">"Odottamaton vastaus verkosta."</string>
+<string name="screen_split_not_support">"Matkapuhelinverkko ei ehkä toimi jaetussa näytössä."</string>
+<string name="secondary_card_slot">"SEK. "</string>
+<string name="secondary_sub_summary">"SEK. "</string>
+<string name="select_during_call_prohibited">"Tämä toiminto ei ole sallittu puhelun aikana."</string>
+<string name="select_lte_prohibited">"Nykyinen valinta on kielletty, kytke 4G päälle."</string>
+<string name="select_under_airplane_prohibited">"Poista lentokonetila ensin käytöstä."</string>
+<string name="sim_calls_not_set_up">"Ei määritetty"</string>
+<string name="sim_disable_prompt">"Sim aktivaation tila muutetaan, vahvista haluatko jatkaa?"</string>
+<string name="sim_disabled">"Pois käytöstä"</string>
+<string name="simsettings_forced_resizable">"SIM-asetukset eivät ehkä toimi jaetussa näytössä."</string>
+<string name="smart_dual_sim_hint">"Anna SIM-numero."</string>
+<string name="smart_dual_sim_number_null">"SIM-numero on tyhjä."</string>
+<string name="smart_dual_sim_summary">"Hallinnoi älykkään kaksois-SIMin tilaa" </string>
+<string name="smart_dual_sim_title">"Älykäs kaksois-SIM"</string>
+<string name="smart_dual_sim_warning_message">"Otetaanko Smart Dual SIM käyttöön?\nTämä toiminto ei ehkä toimi oikein kaikkien palveluntarjoajien kanssa tai se voi aiheuttaa lisäkustannuksia."</string>
+<string name="smart_forwarding_show_dialog">"Älä näytä tätä enää"</string>
+<string name="turn_off_ims_error">"%s-puhelua ei voi kytkeä pois päältä, kun WiFi-puhelut ovat käytössä. Kytke Wi-Fi-puhelut pois päältä ensin."</string>
+<string name="updating_settings">"Päivitetään asetuksia…"</string>
+<string name="uplmn_preference_title">"UPLMN-etusija"</string>
+<string name="vt_resolution_setting">"Valitse VoLTE-videotarkkuus"</string>
+</resources>

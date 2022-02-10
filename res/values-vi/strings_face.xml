@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Còn lại %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Khi sử dụng tính năng nhận dạng khuôn mặt, vui lòng ghi nhớ các lưu ý sau:\n1. Người nào đó giống bạn có thể mở khóa điện thoại di động của bạn.\n2. Tính năng nhận dạng khuôn mặt có độ bảo mật thấp hơn dấu vân tay, mẫu hình, mật khẩu, mật mã kỹ thuật số và mã kết hợp chữ và số mà bạn đã chỉ định.\n3. Trong các điều kiện ngược sáng, tối và sáng, hiệu quả mở khóa của tính năng nhận dạng khuôn mặt sẽ giảm.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Để sử dụng nhận dạng khuôn mặt tốt hơn, vui lòng lưu ý những điểm sau:\n1. Trong giai đoạn đăng ký, tránh ánh sáng tối, ánh sáng mạnh và môi trường ngược sáng, để đảm bảo rằng hình ảnh khuôn mặt nhập vào rõ ràng. \n2. Sau khi đăng ký thành công, bạn có thể mở khóa điện thoại thông qua chức năng nhận dạng khuôn mặt khi màn hình đang bật."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Chế độ kiểm tra trực tiếp"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Khi đã mở, bạn cần nháy mắt để mở khóa bằng Face ID, nhằm đảm bảo bạn là một người thật chứ không phải là bức ảnh hoặc đồ vật khác"</string>
+<string name="not_support_in_split_mode">"Không hỗ trợ đăng ký trong chế độ chia màn hình"</string>
+</resources>

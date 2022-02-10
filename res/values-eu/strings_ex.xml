@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Geratzen diren saiakerak: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Energia aurrezteko optimizazioa"</string>
+<string name="calling_enable_data_title">"Baimendu sare mugikorretarako sarbidea deietan"</string>
+<string name="cannot_disable_two_sim_card">Ezin dituzu desgaitu aldi berean bi SIM txartelak</string>
+<string name="cfu_is_on">"Dei-desbideratzea beti aktibatuta dago"</string>
+<string name="confirm_data_dialog_message">"Datuen atzipena aldatzeak LTE zerbitzu guztiak geldiaraziko ditu. Jarraitu nahi duzu?"</string>
+<string name="confirm_data_dialog_title">"Hautatu datuak SIMean <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Gaituta dagoenean, daturik erabiltzen ez duen SIM txartela Internetera konekta daiteke haren mugikorreko datu-konexioa erabilita VoLTE deietan. Baliteke zerbait ordaindu behar izatea datuak erabiltzeagatik."</string>
+<string name="dialog_network_selection_message">Telefono mugikorrak ez du hautatuko bestelako operadorerik zuretzat, eskuz hautatzeko moduan. Batzuetan eskuz hautatu behar duzu berriro edo hautaketa automatikoa modura itzuli behar zara, hautatutako operadorearen zerbitzurik ez duzunean. Sarea eskuz hautatu nahi duzu?</string>
+<string name="do_not_switch_default_data_subscription">"Ez aldatu nahiagoko harpidetza deia ari den bitartean"</string>
+<string name="edit_sim_name_disabled">"Lehenbizi itzali hegazkin modua."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Oraingo sare moduak ezin du jasan 4G, aktibatu ondoren ezin izango duzu deirik egin ezta jaso ere, mesedez aldatu nahiago duzun sare modua 4G-ra eta saiatu berriro"</string>
+<string name="exception_error">Sarearen edo SIM txartelaren errorea.</string>
+<string name="fdn_check_failure">Zure telefonoaren aplikazioaren markatze finkoko zenbakien ezarpena piztuta dago. Ondorioz, deiekin zerikusia duten zenbait eginbide ez dira funtzionatzen ari.</string>
+<string name="fingerprint_settings_applock">Aplikazioen blokeoa</string>
+<string name="icc_pin_disabled">Desgaitu da PINa <xliff:g id="card_number">%1$d</xliff:g>. SIM txartelean!</string>
+<string name="icc_pin_enabled">Gaitu da PINa <xliff:g id="card_number">%1$d</xliff:g>. SIM txartelean!</string>
+<string name="invalid_subscription_preference_setting">"Ezarpen baliogabea."</string>
+<string name="low_resolution_power_saving">"Energia aurrezteko bereizmen txikiko modua"</string>
+<string name="low_resolution_power_saving_description">"Pantailaren bereizmena jaisten da energia aurrezten laguntzeko"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Beti mugikorreko lineako datuak desgaitzeak konexio arazoak sorraraziko dizkie aplikazio batzuei. Erabili eskuzko berritze eginbidea aplikazioetan lineako datuak eguneratzeko."</string>
+<string name="mobile_data_always_online_summary">"Telefonia mugikorreko sare batzuetan pizteko bateria gehiago erabil dezake"</string>
+<string name="mobile_data_always_online_title">"Datu mugikorrak beti online"</string>
+<string name="mobile_data_not_allowed">"Datu mugikorrak ez daude erabilgarri sarea bilatzen den bitartean."</string>
+<string name="mobile_select_default_voice_sim">"Mesedez aukeratu ahots txartel lehenetsia."</string>
+<string name="network_2G_only">2G soilik</string>
+<string name="network_3G_auto">3G/2G automatikoa</string>
+<string name="network_3G_only">3G soilik</string>
+<string name="network_4G_2G">4G/2G auto</string>
+<string name="network_4G_3G">4G/3G auto</string>
+<string name="network_4G_only">4G soilik</string>
+<string name="network_4g_auto">Orokorra</string>
+<string name="network_5G">"5G/4G/3G/2G automatikoki"</string>
+<string name="network_5G_only">"5G bakarrik"</string>
+<string name="network_gsm_only">GMS bakarrik</string>
+<string name="network_mode_setting_prompt">"Aldatzea onartzen da jakinarazpen-barran sarea aldatzeko aukera desaktibatu ondoren."</string>
+<string name="network_registration_fail">"Sarearen erregistroak huts egin du, hautapen automatikoaren funtzioa ireki nahi?"</string>
+<string name="network_registration_fail_title">"Sarearen erregistroak huts egin du"</string>
+<string name="network_wcdma_only">WCDMA bakarrik</string>
+<string name="network_wcdma_pref">WCDMA/GSM automatikoa</string>
+<string name="number_sim">"<xliff:g id="SIM_NUMER" example="1">%d</xliff:g>. SIM txartelaren zenbakia:"</string>
+<string name="preferred_data_roaming_all_networks">Sare guztiak</string>
+<string name="preferred_data_roaming_dialogtitle">Datuen ibiltaritza</string>
+<string name="preferred_data_roaming_disable">Ezgaitu</string>
+<string name="preferred_data_roaming_national">"Ibiltaritza nazionala bakarrik"</string>
+<string name="preferred_data_roaming_summary">"Ibiltaritza nazionala bakarrik"</string>
+<string name="preferred_data_roaming_title">Datuen ibiltaritza</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">Irratia piztu hurrengo ezarpenak ikusi baino lehen</string>
+<string name="reading_settings">"Ezarpenak irakurtzen..."</string>
+<string name="reset_networks_progress">berrezartzen\u2026</string>
+<string name="response_error">Espero gabeko zerbitzariaren erantzuna.</string>
+<string name="screen_split_not_support">"Baliteke sare mugikorrak ez funtzionatzea pantaila zatituarekin."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"Ezin da osatu eragiketa deia abian dagoen bitartean."</string>
+<string name="select_lte_prohibited">"Ez da onartzen aukeraketa, mesedez gaitu 4G."</string>
+<string name="select_under_airplane_prohibited">"Lehenbizi itzali hegazkin modua."</string>
+<string name="sim_calls_not_set_up">Ez dago konfiguratuta</string>
+<string name="sim_disable_prompt">"Sim-a aktibatzeko egoera aldatuko da, mesedez berretsi jarraitu nahi duzula?"</string>
+<string name="sim_disabled">Desgaituta</string>
+<string name="simsettings_forced_resizable">"Baliteke SIM txartelaren ezarpenek ez funtzionatzea pantaila zatituarekin."</string>
+<string name="smart_dual_sim_hint">"Idatzi SIM txartelaren zenbakia."</string>
+<string name="smart_dual_sim_number_null">"SIM zenbakia hutsik dago."</string>
+<string name="smart_dual_sim_summary">"Kudeatu Smart SIM dualaren egoera"</string>
+<string name="smart_dual_sim_title">"Smart SIM duala"</string>
+<string name="smart_dual_sim_warning_message">"Bi SIM txartel batera erabiltzeko zerbitzu adimenduna gaitu nahi duzu?\nHornitzaile batzuek ez dute eskaintzen zerbitzu hau erabiltzeko aukera, edo baliteke zerbait ordaindu behar izatea."</string>
+<string name="smart_forwarding_show_dialog">"Ez erakutsi berriro"</string>
+<string name="turn_off_ims_error">"Ezin da itzali %s Wi-Fi deiak gaituta daudenean, mesedez lehenbizi ezgaitu Wi-Fi deiak."</string>
+<string name="updating_settings">"Ezarpenak eguneratzen..."</string>
+<string name="uplmn_preference_title">"UPLMN Lehentasuna"</string>
+<string name="vt_resolution_setting">"Hautatu VoLTE bideoaren bereizmena"</string>
+</resources>

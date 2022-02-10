@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"ଅବଶିଷ୍ଟ %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ମୁଖମଣ୍ଡଳ ଚିହ୍ନଟକରଣ ବ୍ୟବହାର କରେ, ଦୟାକରି ନିମ୍ନଲିଖିତ ବୈଶିଷ୍ଟଗୁଡ଼ିକୁ ମନେ ରଖନ୍ତୁ:\n1. ଆପଣଙ୍କ ମୋବାଇଲ ଫୋନଟି ଆପଣଙ୍କ ପରି ବ୍ୟକ୍ତି ବା ବସ୍ତୁ ଦ୍ୱାରା ଅନ୍‍ଲକ୍‍ ହୋ‍ଇପାରେ.\n2. ମୁଖମଣ୍ଡଳ ଚିହ୍ନଟକରଣ ସବୁବେଳେ ଆଙ୍ଗୁଠି ଛାପ, ପ୍ୟାଟର୍ଣ୍ଣ ପାସୱାର୍ଡ, ଡିଜିଟାଲ ସାଇଫର ଏବଂ ସ୍ୱନିର୍ଦ୍ଧାରିତ ବର୍ଣ୍ଣାନୁକ୍ରମିକ କୋଡ ଠାରୁ କମ.\n3.ଅନ୍ଧାର, ହାଲୁକା ଏବଂ ବ୍ୟାକ୍‍ଲାଇଟ ଅବସ୍ଥାରେ, ମୁଖମଣ୍ଡଳ ଚିହ୍ନଟକରଣ ଅନ୍‍ଲକ୍‍ ସଫଳତାର ହାର ହ୍ରାସ ପାଇବ.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"ମୁଖ ଚିହ୍ନଟକରଣର ଆହୁରି ଭଲ ବ୍ୟବହାର ପାଇଁ, ଦୟାକରି ନିମ୍ନଲିଖିତଗୁଡ଼ିକୁ ଧ୍ୟାନ ଦିଅନ୍ତୁ:\n1 ତାଲିକାଭୁକ୍ତ କରିବା ସ୍ତରରେ, ମୁଖ ଚିତ୍ରର ସ୍ପଷ୍ଟତା ନିଶ୍ଚିତ କରିବାକୁ, ଅନ୍ଧାରୁଆ ଆଲୋକ, ଉଜ୍ଜ୍ୱଳ ଆଲୋକ ବା ପଛପଟେ ଆଲୋକ ଥିବା ପରିବେଶରୁ ବିରତ ରୁହନ୍ତୁ | \n2 ତାଲିକାଭୁକ୍ତ କରିବା ସଫଳ ହେବାପରେ, ଫୋନ୍‍ଟି ମୁଖମଣ୍ଡଳ ଚିହ୍ନଟକରଣ ମାଧ୍ୟମରେ ସ୍କ୍ରିନ ଚାଲୁ କରିବା ସମୟରେ ଖୋଲାଯାଇ ପାରିବ |"</string>
+<string name="security_settings_face_settings_require_livenessmode">"ଲାଇଭ ନେସ ମୋଡ"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"ଯେବେ ଖୋଲୁଛନ୍ତି ଏବଂ ଫେସ ଆଇ ଡି ମାଧ୍ୟମରେ ଅନ ଲକ କରୁଛନ୍ତି ଆପଣଙ୍କ ଆଖିକୁ ବ୍ଲିଂଙ୍କ କରିବା ଆବଶ୍ୟକ ହୋଇପାରେ ଏହା ନିଶ୍ଚିତ କରିବାକୁ କି ଆପଣ ନିଜେ କିଛି ଫଟ କିମ୍ବା ଅନ୍ୟ ବସ୍ତୁ ନୁହେଁ"</string>
+<string name="not_support_in_split_mode">"ସ୍ପ୍ଲିଟ୍-ସ୍କ୍ରିନ୍ ମୋଡ୍ ରେ ଏନରୋଲମେଣ୍ଟ ସାହାଯ୍ୟ କରୁନାହିଁ"</string>
+</resources>

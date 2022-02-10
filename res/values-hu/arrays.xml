@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"Hálózati idő használata"</item>
+<item>"GPS által kínált idő használata"</item>
+<item>"Ki"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 másodperc"</item>
+<item>"6 másodperc"</item>
+<item>"Mindig bekapcsolva"</item>
+<item>"Mindig bezár"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>Ennek beállítása mostantól számított kevesebb mint 1 perc.</item>
+<item>Ennek beállítása: <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> mostantól számítva.</item>
+<item>Ennek beállítása: <xliff:g id="HOURS" example="2 days">%2$s</xliff:g> mostantól számítva.</item>
+<item>Ennek beállítása: <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> és<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> mostantól számítva.</item>
+<item>Ennek beállítása <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>mostantól számítva.</item>
+<item>Ennek beállítása: <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> és<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> mostantól számítva.</item>
+<item>Ennek beállítása: <xliff:g id="HOURS" example="2 days">%2$s</xliff:g> és<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> mostantól számítva.</item>
+<item>Ennek beállítása: <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> és<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>és<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> mostantól számítva.</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"Automatikus"</item>
+<item>"Optimalizálás"</item>
+<item>"Nincs optimalizálás"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"Automatikus"</item>
+<item>"Engedélyezés"</item>
+<item>"Kikapcsolás"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"Automatikus"</item>
+<item>"Bezárás"</item>
+<item>Ne zárja be</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>Ultra takarékos üzemmód</item>
+<item>Energiatakarékos mód</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>Energiatakarékos mód</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>Ultra takarékos üzemmód</item>
+<item>Energiatakarékos mód</item>
+<item>Intelligens takarékos üzemmód</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>Energiatakarékos mód</item>
+<item>Intelligens takarékos üzemmód</item>
+</string-array>
+<string-array name="update_choice">
+<item>"belső frissítés"</item>
+<item>"SD-frissítés"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Hálózati idő használata"</item>
+<item>"Ki"</item>
+</string-array>
+</resources>

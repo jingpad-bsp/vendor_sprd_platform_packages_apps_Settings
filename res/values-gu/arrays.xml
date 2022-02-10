@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>નેટવર્ક દ્વારા પૂરો પડાયેલ સમયનો ઉપયોગ કરો</item>
+<item>"GPS-દ્વારા પૂરો પડાયેલ સમયનો ઉપયોગ કરો"</item>
+<item>બંધ</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>નેટવર્ક દ્વારા પૂરો પડાયેલ સમયનો ઉપયોગ કરો</item>
+<item>બંધ</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 સેકન્ડ"</item>
+<item>6 સેકન્ડ્ઝ</item>
+<item>હંમેશા ચાલુ</item>
+<item>"હમેંશા બંધ રાખો"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>આ અત્યારથી 1 મિનિટ કરતાં ઓછાં માટે સેટ કરવામાં આવ્યું છે.</item>
+<item>આ અત્યારથી <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> માટે સેટ કરવામાં આવ્યું છે.</item>
+<item>આ અત્યારથી <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>માટે સેટ કરવામાં આવ્યું છે.</item>
+<item>આ અત્યારથી <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> અને <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>માટે સેટ કરવામાં આવ્યું છે.</item>
+<item>આ અત્યારથી <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> માટે સેટ કરવામાં આવ્યું છે.</item>
+<item>આ અત્યારથી <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> અને <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>માટે સેટ કરવામાં આવ્યું છે.</item>
+<item>આ અત્યારથી  <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> અને <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>માટે સેટ કરવામાં આવ્યું છે.</item>
+<item>આ અત્યારથી <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, અને <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>,માટે સેટ કરવામાં આવ્યું છે.</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>પ્રમાણિકરણનો પ્રકાર</item>
+<item>"અનુકૂલન"</item>
+<item>"કોઈ ઑપ્ટિમાઇઝ નહીં"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>પ્રમાણિકરણનો પ્રકાર</item>
+<item>સક્રિય કરવું</item>
+<item>નિષ્ક્રીય</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>પ્રમાણિકરણનો પ્રકાર</item>
+<item>બંધ કરો</item>
+<item>"બંધ કરશો નહીં"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"અલ્ટ્રા સેવિંગ મોડ"</item>
+<item>"પાવર સેવર મોડ"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"પાવર સેવર મોડ"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"અલ્ટ્રા સેવિંગ મોડ"</item>
+<item>"પાવર સેવર મોડ"</item>
+<item>"સ્માર્ટ સેવિંગ મોડ"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"પાવર સેવર મોડ"</item>
+<item>"સ્માર્ટ સેવિંગ મોડ"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"ઇન્ટર્નલ અપડેટ"</item>
+<item>"SD અપડેટ"</item>
+</string-array>
+</resources>

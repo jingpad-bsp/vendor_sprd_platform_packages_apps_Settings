@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"เหลืออีก %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ใช้การรู้จำใบหน้า โปรดทราบข้อมูลต่อไปนี้\n1. โทรศัพท์มือถือของคุณอาจถูกปลดล็อกด้วยบุคคลหรือสิ่งของที่มีลักษณะคล้ายคุณ\n2. การรู้จำใบหน้ามีความปลอดภัยต่ำกว่าลายนิ้วมือ รหัสผ่านรูปแบบ การเข้ารหัสข้อความแบบดิจิทัล และรหัสตัวอักษรผสมตัวเลขที่ผู้ใช้กำหนดเอง\n3. ในสภาพแสงที่มืด สว่าง และย้อนแสง อัตราการปลดล็อกด้วยใบหน้าได้สำเร็จจะลดลง\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"เพื่อให้ใช้งานการรู้จำใบหน้าได้ดียิ่งขึ้น โปรดอ่านข้อควรทราบดังต่อไปนี้\n1. ในขั้นตอนการลงทะเบียน ให้หลีกเลี่ยงสภาพแสงที่มืดเกินไป สว่างเกินไป หรือย้อนแสง เพื่อให้รูปภาพใบหน้าที่ป้อนมีความคมชัด \n2. หลังจากลงทะเบียนสำเร็จ จะสามารถปลดล็อกโทรศัพท์ได้โดยใช้การรู้จำใบหน้าขณะเปิดหน้าจอ"</string>
+<string name="security_settings_face_settings_require_livenessmode">"โหมดตัวจริง"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"เมื่อเปิดใช้ คุณจะต้องกะพริบตาเมื่อปลดล็อกด้วย ID ใบหน้าเพื่อให้มั่นใจว่าเป็นตัวคุณจริงๆ ไม่ใช่รูปภาพหรือวัตถุอื่น"</string>
+<string name="not_support_in_split_mode">"ไม่รองรับการลงทะเบียนในโหมดหน้าจอแบ่งส่วน"</string>
+</resources>

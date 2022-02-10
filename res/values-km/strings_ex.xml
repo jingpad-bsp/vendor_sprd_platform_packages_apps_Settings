@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(ពេលវេលានៅសល់៖ <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"ការធ្វើឲ្យការសន្សំថាមពលប្រសើរឡើង"</string>
+<string name="calling_enable_data_title">"អនុញ្ញាតឲ្យចូលប្រើបណ្តាញចល័តក្នុងអំឡុងពេល ហៅទូរសព្ទ"</string>
+<string name="cannot_disable_two_sim_card">"អ្នក​មិន​អាច​បិទកាត SIM ម្ដង​ពីរ​បាន​ទេ"</string>
+<string name="cfu_is_on">"បានបើកប្រើការផ្ទេរការហៅជារៀងរាល់លើក"</string>
+<string name="confirm_data_dialog_message">ការផ្លាស់ប្តូរបណ្តាលអ៊ីនធឺនែតពីស៊ីមគោលទៅស៊ីមរងនឹងបណ្តាលអោយដាច់សេវាLTEទាំងអស់។តើលោកអ្នកចង់បន្តឬ?</string>
+<string name="confirm_data_dialog_title">"ជ្រើសរើសទិន្នន័យនៅក្នុងស៊ីម <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"នៅពេលត្រូវបានបើក ស៊ីមដែលគ្មានទិន្នន័យអាចចូលប្រើអ៊ីនធឺណិតដោយប្រើប្រាស់ការតភ្ជាប់ទិន្នន័យចល័តរបស់វាផ្ទាល់ក្នុងអំឡុងពេលហៅតាមប្រព័ន្ធ VoLTE។ វាអាចធ្វើឲ្យមានការគិតថ្លៃទិន្នន័យបន្ថែមទៀត។"</string>
+<string name="dialog_network_selection_message">"ទូរសព្ទចល័តនេះនឹងមិនជ្រើសរើសប្រតិបត្តិករដទៃទៀតសម្រាប់អ្នកនៅក្នុងម៉ូដការជ្រើសរើសដោយដៃឡើយ។ ពេលខ្លះ អ្នកត្រូវតែធ្វើការជ្រើសរើសដោយដៃម្តងទៀត ឬប្តូរមកកាន់ម៉ូដជ្រើសរើសដោយស្វ័យប្រវត្តិវិញ នៅពេលអ្នកបាត់បង់សេវាកម្មនៃប្រតិបត្តិករដែលបានជ្រើស។ តើអ្នកចង់ជ្រើសបណ្តាញដោយដៃឬ?"</string>
+<string name="do_not_switch_default_data_subscription">"កុំប្តូរការជាវលំនាំដើមក្នុងអំឡុងការហៅទូរសព្ទ"</string>
+<string name="edit_sim_name_disabled">"បិទម៉ូដជិះយន្តហោះសិន។"</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"ម៉ូដបណ្តាញបច្ចុប្បន្នមិនគាំទ្រ 4G ទេ ក្រោយពីបើក ដំណើរការរួច អ្នកនឹងមិនអាចធ្វើការហៅ និងទទួលការហៅទូរសព្ទបានទេ សូមប្តូរប្រភេទបណ្តាញដែលពេញចិត្តទៅជា 4G វិញ ហើយសាកល្បងម្តងទៀត"</string>
+<string name="exception_error">បណ្តាញឬកាតSIMខុសហើយ</string>
+<string name="fdn_check_failure"> ការកំណត់លេខទូរស័ព្ទហៅថេររបស់កម្មវិធីហៅទូរស័ព្ទរបស់លោកអ្នកតត្រូវបានបើកប្រើបាស់។ដូច្នេះមុខងារពិសេសមួយចំនួនដែលទាក់ទងនឹងការ  ទូរស័ព្ទនឹងមិនដំណើការឡើយ។</string>
+<string name="fingerprint_settings_applock">"ការចាក់សោរកម្មវិធី"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> បាន​បិទ PIN!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> បាន​បើក PIN!"</string>
+<string name="invalid_subscription_preference_setting">"ការកំណត់មិនត្រឹមត្រូវ។"</string>
+<string name="low_resolution_power_saving">"ការសន្សំថាមពលគុណភាពបង្ហាញទាប"</string>
+<string name="low_resolution_power_saving_description">"បន្ថយគុណភាពបង្ហាញរបស់អេក្រង់តាមដែលត្រូវការ ដើម្បីជួយសន្សំថាមពល"</string>
+<string name="main_card_slot">"កាតគោល "</string>
+<string name="mobile_data_always_online_dialog">"ការបិទដំណើការអ៊ីនធឺនែតលើទូរស័ព្ទជាប្រចាំ អាចនឹងបណ្តាលអោយមានបញ្ហាទំនាក់ទំនងចំពោះកម្មវិធីខ្លះ។សូមប្រើប្រាស់មុខងារធ្វើអោយស្រស់ដោយដៃនៅក្នុងកម្មវិធីដើម្បីធ្វើបច្ចុប្បន្នភាពទិន្នន័យអនឡាញ។"</string>
+<string name="mobile_data_always_online_summary">"ប្រើប្រាស់ថ្មទូរស័ព្ទច្រើនជាងនៅលើបណ្តាញទូរស័ព្ទចល័តខ្លះ"</string>
+<string name="mobile_data_always_online_title">តែងតែប្រើប្រាស់បណ្តាញអ៊ីនធឺនែតទូរស័ព្ទដើម្បីអនឡាញ</string>
+<string name="mobile_data_not_allowed">"ទិន្នន័យ​ចល័តមិនមានក្នុងអំឡុងពេល​ស្វែងរកបណ្ដាញទេ។"</string>
+<string name="mobile_select_default_voice_sim">"សូមជ្រើសរើសកាតសំឡេងលំនាំដើមសិន។"</string>
+<string name="network_2G_only">"ម៉ូដ2Gប៉ុណ្ណោះ"</string>
+<string name="network_3G_auto">"3G/2G ស្វ័យ​ប្រវត្តិ"</string>
+<string name="network_3G_only">"3G តែ​ប៉ុណ្ណោះ"</string>
+<string name="network_4G_2G">"4G/2G ស្វ័យ​ប្រវត្តិ"</string>
+<string name="network_4G_3G">"4G/3G ស្វ័យ​ប្រវត្តិ"</string>
+<string name="network_4G_only">"ម៉ូដ4Gប៉ុណ្ណោះ"</string>
+<string name="network_4g_auto">"4G/3G/2G ស្វ័យ​ប្រវត្តិ"</string>
+<string name="network_5G">"5G/4G/3G/2G ស្វ័យប្រវត្តិ"</string>
+<string name="network_5G_only">"តែ 5G ប៉ុណ្ណោះ"</string>
+<string name="network_gsm_only">សម្រាប់តែ GSM</string>
+<string name="network_mode_setting_prompt">"វាអនុញ្ញាតឲ្យបើកបិទកុងតាក់ បន្ទាប់ពីបានបិទការប្តូរម៉ូដបណ្តាញពីរបារជូនដំណឹង។"</string>
+<string name="network_registration_fail">"ការចុះឈ្មោះចូលបណ្តាញបានបរាជ័យ តើបើកមុខងារជ្រឿសរើសដោយស្វ័យប្រវត្តិឬអត់?"</string>
+<string name="network_registration_fail_title">"ការចុះឈ្មោះចូលបណ្តាញបានបរាជ័យ "</string>
+<string name="network_wcdma_only">សម្រាប់តែ WCDMA</string>
+<string name="network_wcdma_pref">"WCDMA/GSM ស្វ័យ​ប្រវត្តិ"</string>
+<string name="number_sim">"លេខ <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> ស៊ីម៖"</string>
+<string name="preferred_data_roaming_all_networks">បណ្តាញទាំងអស់</string>
+<string name="preferred_data_roaming_dialogtitle">"រ៉ូមីងទិន្នន័យ"</string>
+<string name="preferred_data_roaming_disable">"បើកដំណើរការ"</string>
+<string name="preferred_data_roaming_national">សម្រាប់រ៉ូមីងក្នុងប្រទេសតែប៉ុណ្ណោះ</string>
+<string name="preferred_data_roaming_summary">សម្រាប់រ៉ូមីងក្នុងប្រទេសតែប៉ុណ្ណោះ</string>
+<string name="preferred_data_roaming_title">"រ៉ូមីងទិន្នន័យ"</string>
+<string name="primary_sub_summary">"កាតគោល "</string>
+<string name="radio_off_error">សូមបើកបញ្ជូនសារតាមវិទ្យុអត់ខ្សេសិន រួចមកត្រួតពិនិត្យកំណត់ទាំងនេះ</string>
+<string name="reading_settings">"កំពុងអានការកំណត់..."</string>
+<string name="reset_networks_progress">"ការ​កំណត់ឡើង​វិញ\u2026"</string>
+<string name="response_error">​មានការឆ្លើយតប​​ពី​បណ្តាញដែលមិនធម្មតាទេ។</string>
+<string name="screen_split_not_support">"បណ្តាញចល័តអាចនឹងមិនដំណើរការជាមួយអេក្រង់បំបែកទេ។"</string>
+<string name="secondary_card_slot">"កាតរង "</string>
+<string name="secondary_sub_summary">"កាតរង "</string>
+<string name="select_during_call_prohibited">"ប្រតិបត្តិការនេះមិនត្រូវបានអនុញ្ញាតឡើយក្នុងអំឡុងពេលហៅទូរសព្ទ។"</string>
+<string name="select_lte_prohibited">"ការជ្រើសរើសបច្ចុប្បន្ននេះត្រូវបានហាមឃាត់ សូមបើក 4G។"</string>
+<string name="select_under_airplane_prohibited">"បិទម៉ូដជិះយន្តហោះសិន។"</string>
+<string name="sim_calls_not_set_up">"មិន​បាន​កំណត់"</string>
+<string name="sim_disable_prompt">ដំណើការនេះនឹងកែប្រែស្ថានភាពរបស់ស៊ីម សូមបញ្ជាក់ថាតើបន្តឬអត់?</string>
+<string name="sim_disabled">បានបិទប្រើប្រាស់</string>
+<string name="simsettings_forced_resizable">"ការកំណត់ស៊ីមអាចនឹងមិនដំណើរការជាមួយអេក្រង់បំបែកទេ។"</string>
+<string name="smart_dual_sim_hint">"សូមបញ្ចូលលេខស៊ីម។"</string>
+<string name="smart_dual_sim_number_null">"លេខរបស់ស៊ីមគឺទទេ។"</string>
+<string name="smart_dual_sim_summary">"គ្រប់គ្រងស្ថានភាពស៊ីមទ្វេឆ្លាតវៃ"</string>
+<string name="smart_dual_sim_title">"ស៊ីមកាតទ្វេឆ្លាតវៃ"</string>
+<string name="smart_dual_sim_warning_message">"បើកស៊ីមពីរឆ្លាតវៃមែនទេ?\nជាមួយក្រុមហ៊ុនផ្តល់សេវាកម្មខ្លះ មុខងារនេះអាចនឹងមិនដំណើរការត្រឹមត្រូវឡើយ ឬអ្នកអាចនឹងត្រូវគេគិតថ្លៃ។"</string>
+<string name="smart_forwarding_show_dialog">"កុំបង្ហាញដូចនេះម្តងទៀត"</string>
+<string name="turn_off_ims_error">"មិនអាចបិទ %s បានទេ ពេលការហៅទូរសព្ទតាម Wi-Fi ត្រូវបានបើក សូមបិទការហៅទូរសព្ទតាម Wi-Fi សិន។"</string>
+<string name="updating_settings">"កំពុងធ្វើបច្ចុប្បន្នភាពការកំណត់..."</string>
+<string name="uplmn_preference_title">"ចំណូលចិត្ត UPLMN"</string>
+<string name="vt_resolution_setting">"ជ្រើសគុណភាពបង្ហាញវីដេអូតាមប្រព័ន្ធ VoLTE"</string>
+</resources>

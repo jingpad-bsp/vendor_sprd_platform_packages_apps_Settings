@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"Usar horário fornecido pela rede"</item>
+<item>"Usar hora fornecida pelo GPS"</item>
+<item>"Desativado"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Usar horário fornecido pela rede"</item>
+<item>"Desativado"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1,5 segundos"</item>
+<item>"6 segundos"</item>
+<item>"Sempre ligado"</item>
+<item>"Sempre fechado"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"Isso está definido para menos de 1 minuto a partir de agora."</item>
+<item>"Esta configuração está definida como <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> a partir de agora."</item>
+<item>"Esta configuração está definida como <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> a partir de agora."</item>
+<item>"Esta configuração está definida como <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> e <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> a partir de agora."</item>
+<item>"Esta configuração está definida como <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir de agora."</item>
+<item>"Esta configuração está definida como <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir de agora."</item>
+<item>"Esta configuração está definida como <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir de agora."</item>
+<item>"Esta configuração está definida como <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir de agora."</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Modo de economia de energia ultra"</item>
+<item>"Modo de economia de energia"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Modo de economia de energia"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Modo de economia de energia ultra"</item>
+<item>"Modo de economia de energia"</item>
+<item>"Modo de economia inteligente"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Modo de economia de energia"</item>
+<item>"Modo de economia inteligente"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"atualização interna"</item>
+<item>"Atualização de SD"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"automático"</item>
+<item>"Fechar"</item>
+<item>"Não fechar"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"automático"</item>
+<item>"Otimizar"</item>
+<item>"Sem otimização"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"automático"</item>
+<item>"Ativar"</item>
+<item>"Desativar"</item>
+</string-array>
+</resources>

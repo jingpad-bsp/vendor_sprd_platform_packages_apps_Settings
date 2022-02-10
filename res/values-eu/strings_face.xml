@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d %% gelditzen da"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Aurpegien hautematea dauka ezarrita. Kontuan hartu ohar hauek:\n1. Baliteke zure antza duten objektu edo pertsonek gailua desblokeatu ahal izatea.\n2 Aurpegien hautematea ez da hatz-marka digitala, ereduko pasahitzak, enkriptatze digitalak edo erabiltzaileak sortutako alfazenbakizko kodeak bezain sendoa.\n3 Aurpegia hautematearen bidez gailua desblokeatzeko gaitasuna gutxitu egingo da iluntasunean, argipean edo hondoko argipean.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Aurpegien hautematearen funtzionamendua hobetzeko, kontuan hartu hurrengoa:\n1. Prestatzen den bitartean, saihestu argi iluna, biziegia eta atzeko argia, ziurtatzeko aurpegiaren irudiak argitasun egokia duela. \n2. Behin prestatuta, mugikorra desblokeatu daiteke aurpegien hautematea erabiliz pantaila pizten ari denean."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Mugimenduaren modua"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Gaituta badago, kliska egin behar duzu gailua aurpegiaren IDarekin desblokeatzeko. Horrela, zu zarela egiaztatuko du gailuak, eta ez zure argazki bat edo beste objektu batzuk"</string>
+<string name="not_support_in_split_mode">"Ez da onartzen erregistroa pantaila zatituaren moduan"</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>Gebruik de van het netwerk afkomstige tijdgegevens</item>
+<item>"Gebruik GPS gegeven tijd"</item>
+<item>"Uit"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1,5 seconden</item>
+<item>"6 seconden"</item>
+<item>"Altijd aan"</item>
+<item>"Steeds sluiten"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"Dit is ingesteld op minder dan 1 minuut van nu."</item>
+<item>"Dit is ingesteld op <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> van nu."</item>
+<item>"Dit is ingesteld op <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> van nu."</item>
+<item>"Dit is ingesteld op <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> en <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> van nu."</item>
+<item>"Dit is ingesteld op <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> van nu."</item>
+<item>"Dit is ingesteld op <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> en <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> van nu."</item>
+<item>"Dit is ingesteld op <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> en <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> van nu."</item>
+<item>"Dit is ingesteld op <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, en <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"Automatisch"</item>
+<item>"Optimaliseren"</item>
+<item>Geen optimalisering</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"Automatisch"</item>
+<item>"Inschakelen"</item>
+<item>Uitschakelen</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"Automatisch"</item>
+<item>Sluiten</item>
+<item>Niet afsluiten</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>Spaarstand</item>
+</string-array>
+<string-array name="update_choice">
+<item>"interne update"</item>
+<item>"SD-update"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Spaarstand"</item>
+<item>"Slimme spaarstand"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Ultra-energiebesparingsmodus"</item>
+<item>"Spaarstand"</item>
+<item>"Slimme spaarstand"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Ultra-energiebesparingsmodus"</item>
+<item>"Spaarstand"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Gebruik de van het netwerk afkomstige tijdgegevens"</item>
+<item>"Uit"</item>
+</string-array>
+</resources>

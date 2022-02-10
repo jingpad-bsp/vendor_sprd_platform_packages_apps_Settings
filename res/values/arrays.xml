@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+**
+** Copyright 2007 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- UNISOC: bug 1072213 Assistant touch @{ -->
+    <string-array name="assistant_shortcut_entries">
+        <item>@string/assistant_shortcut_search_title</item>
+        <item>@string/assistant_shortcut_home_title</item>
+        <item>@string/assistant_shortcut_menu_title</item>
+        <item>@string/assistant_shortcut_back_title</item>
+    </string-array>
+    <string-array name="assistant_shortcut_entries_values">
+        <item>84</item>
+        <item>3</item>
+        <item>82</item>
+        <item>4</item>
+    </string-array>
+    <!-- UNISOC: Assistant touch @} -->
+
+    <!-- Add for "scheduled power on/off" start -->
+    <string-array name="alarm_set">
+        <item>This is set for less than 1 minute from now.</item>
+        <item>This is set for <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> from now.</item>
+        <item>This is set for <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> from now.</item>
+        <item>This is set for <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> and <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> from now.</item>
+        <item>This is set for <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now.</item>
+        <item>This is set for <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> and <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now.</item>
+        <item>This is set for <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> and <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now.</item>
+     <item>This is set for <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, and <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now.</item>
+    </string-array>
+    <!-- Add for "scheduled power on/off" start end -->
+
+    <!--UNISOC: add for Power saving management start @{-->
+    <string-array name="app_battery_wakeup_list">
+        <item>Auto</item>
+        <item>Optimize</item>
+        <item>No Optimize</item>
+    </string-array>
+    <string-array name="app_auto_run_entries">
+        <item>Auto</item>
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="lockscreen_close_app_entries">
+        <item>Auto</item>
+        <item>Close</item>
+        <item>Don\'t close</item>
+    </string-array>
+    <string-array name="app_battery_wakeup_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="low_power_switch_entries">
+        <item>Ultra saving mode</item>
+        <item>Power saving mode</item>
+    </string-array>
+    <string-array name="low_power_switch_entries_values">
+        <item>4</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="low_power_switch_entries_without_ultrasaving">
+        <item>Power saver mode</item>
+    </string-array>
+    <string-array name="low_power_switch_entries_values_without_ultrasaving">
+        <item>3</item>
+    </string-array>
+    <string-array name="schedule_mode_switch_entries">
+        <item>Ultra saving mode</item>
+        <item>Power saving mode</item>
+        <item>Smart saving mode</item>
+    </string-array>
+    <string-array name="schedule_mode_switch_entries_values">
+        <item>4</item>
+        <item>3</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="schedule_mode_switch_entries_without_ultrasaving">
+        <item>Power saving mode</item>
+        <item>Smart saving mode</item>
+    </string-array>
+    <string-array name="schedule_mode_switch_entries_values_without_ultrasaving">
+        <item>3</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="low_power_set_value_entries">
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="low_power_set_value_entries_values">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+    <!--UNISOC: add for Power saving management end @{-->
+
+    <!-- UNISOC:add for bug1104406 Support "Local system update" start-->
+    <string-array name="update_choice">
+        <item>internal update</item>
+        <item>SD update</item>
+    </string-array>
+    <!-- UNISOC:add for bug1104406 Support "Local system update" end-->
+
+    <!-- UNISOC:1073159 Add for super resolution @{ -->
+    <string-array name="incompatibled_system_app" translatable="false">
+    <item></item>
+    </string-array>
+    <!-- @} -->
+</resources>

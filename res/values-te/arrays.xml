@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"నెట్వర్క్అందించిన విలువలను ఉపయోగించండి"</item>
+<item>"GPSచే అందించబడిన సమయాన్ని ఉపయోగించుము"</item>
+<item>"ఆఫ్"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"నెట్వర్క్అందించిన విలువలను ఉపయోగించండి"</item>
+<item>"ఆఫ్"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 సెకన్లు</item>
+<item>"6 సెకన్లు"</item>
+<item>"ఎల్లప్పుడూ ఆన్"</item>
+<item>"ఎల్లప్పుడూ మూయి"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"ఇది ఇప్పటి నుండి 1 నిమిషానికి సెట్ చేయబడింది."</item>
+<item>"ఇప్పటి నుండి ఇది <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> కొరకు సెట్ చేయబడింది."</item>
+<item>"ఇప్పటి నుండి ఇది <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> కొరకు సెట్ చేయబడింది."</item>
+<item>"ఇప్పటి నుండి ఇది <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> మరియు <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> కొరకు సెట్ చేయబడింది."</item>
+<item>"ఇప్పటి నుండి ఇది<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> కొరకు సెట్ చేయబడింది."</item>
+<item>"ఇప్పటి నుండి ఇది <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> మరియు <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>కొరకు సెట్ చేయబడింది."</item>
+<item>"ఇప్పటి నుండి ఇది <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> మరియు <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> కొరకు సెట్ చేయబడింది."</item>
+<item>"ఇప్పటి నుండి ఇది <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, మరియు <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> కొరకు సెట్ చేయబడింది."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"ఆటో"</item>
+<item>"యాప్టిమైజ్"</item>
+<item>"ఆప్టిమైజ్ అవ్వదు"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"ఆటో"</item>
+<item>"ఎనేబుల్"</item>
+<item>"నిలిపివేయి"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"ఆటో"</item>
+<item>"క్లోజ్"</item>
+<item>"మూయ వద్దు"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"అల్ట్రా సేవింగ్ మోడ్"</item>
+<item>"పవర్ సేవర్ మోడ్"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"పవర్ సేవర్ మోడ్"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"అల్ట్రా సేవింగ్ మోడ్"</item>
+<item>"పవర్ సేవర్ మోడ్"</item>
+<item>"స్మార్ట్ సేవింగ్ మోడ్"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"పవర్ సేవర్ మోడ్"</item>
+<item>"స్మార్ట్ సేవింగ్ మోడ్"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"అంతర్గత అప్‌డేట్"</item>
+<item>"SD అప్‌డేట్"</item>
+</string-array>
+</resources>

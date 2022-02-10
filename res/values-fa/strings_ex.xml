@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(زمان باقیمانده: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"بهینه‌سازی ذخیره نیرو"</string>
+<string name="calling_enable_data_title">"در هنگام تماس، اجازه دسترسی به شبکه تلفن همراه داده شود"</string>
+<string name="cannot_disable_two_sim_card">"نمی‌توانید همزمان دو سیم‌کارت را غیر فعال کنید"</string>
+<string name="cfu_is_on">"انتقال تماس همیشه فعال است"</string>
+<string name="confirm_data_dialog_message">"تغییر دسترسی داده‌ها باعث متوقف شدن خدمات LTE می‌شود. ادامه می‌دهید؟"</string>
+<string name="confirm_data_dialog_title">"انتخاب داده در SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"هنگامیکه فعال می‌شود، سیم‌کارت غیرداده می‌تواند با استفاده از اتصال داده‌های تلفن همراه خود در طول تماس‌های VoLTE، به اینترنت دسترسی پیدا کند. این کار ممکن است هزینه‌های مصرف داده اضافی در پی داشته باشد."</string>
+<string name="dialog_network_selection_message">"تلفن همراه در حالت انتخاب دستی، اپراتورهای دیگر را برای شما انتخاب نخواهد کرد. برخی اوقات، هنگامیکه سرویس اپراتور انتخاب‌شده را از دست دادید، باید دوباره انتخاب دستی انجام دهید یا به حالت انتخاب خودکار بازگردید. آیا می‌خواهید شبکه را به صورت دستی انتخاب کنید؟"</string>
+<string name="do_not_switch_default_data_subscription">"در هنگام تماس، اشتراک پیش‌فرض را تغییر ندهید"</string>
+<string name="edit_sim_name_disabled">"ابتدا حالت هواپیما را خاموش کنید."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"حالت شبکه فعلی از 4G پشتیبانی نمی‌کند، پس از فعال‌سازی شما قادر به برقراری و دریافت تماس نیستید، لطفاً نوع شبکه ترجیحی را به 4G تغییر داده و دوباره تلاش کنید"</string>
+<string name="exception_error">"خطای شبکه یا سیم کارت."</string>
+<string name="fdn_check_failure">"تنظیم اعداد شماره‌گیری ثابت برنامه‌های تلفن شما غیرفعال است. درنتیجه، برخی از ویژگی‌های مربوط به تماس کار نمی‌کند."</string>
+<string name="fingerprint_settings_applock">"قفل برنامه"</string>
+<string name="icc_pin_disabled">"پین سیم‌کارت <xliff:g id="card_number">‪‎%1$d‬</xliff:g> غیرفعال شد!"</string>
+<string name="icc_pin_enabled">"پین سیم‌کارت <xliff:g id="card_number">‪‎%1$d‬</xliff:g> فعال شد!"</string>
+<string name="invalid_subscription_preference_setting">"تنظیمات معتبر نیست."</string>
+<string name="low_resolution_power_saving">"ذخیره نیرو دقت پایین"</string>
+<string name="low_resolution_power_saving_description">"برای کمک به ذخیره نیرو، دقت تصویر را پایین بیاورید"</string>
+<string name="main_card_slot">"رابط نرخ اولیه"</string>
+<string name="mobile_data_always_online_dialog">"قطع همیشگی داده‌های تلفن همراه می‌تواند مشکلات اتصال در بعضی از برنامه‌ها به وجود آورد. لطفاً از تازه‌سازی دستی در برنامه‌ها برای به‌روزرسانی آنلاین داده‌ها استفاده کنید."</string>
+<string name="mobile_data_always_online_summary">"مصرف باتری در بعضی از شبکه‌های تلفن همراه بیشتر خواهد بود"</string>
+<string name="mobile_data_always_online_title">"داده‌های تلفن همراه همیشه آنلاین"</string>
+<string name="mobile_data_not_allowed">"داده‌های تلفن همراه در طول جستجوی شبکه در دسترس نیست."</string>
+<string name="mobile_select_default_voice_sim">"لطفاً ابتدا کارت صدای پیش‌فرض را انتخاب کنید."</string>
+<string name="network_2G_only">"فقط 2G"</string>
+<string name="network_3G_auto">"3G/2G خودکار"</string>
+<string name="network_3G_only">"فقط 3G"</string>
+<string name="network_4G_2G">"4G/2G خودکار"</string>
+<string name="network_4G_3G">"4G/3G خودکار"</string>
+<string name="network_4G_only">"فقط 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G خودکار"</string>
+<string name="network_5G">"5G/4G/3G/2G خودکار"</string>
+<string name="network_5G_only">"فقط 5G"</string>
+<string name="network_gsm_only">"فقط GSM"</string>
+<string name="network_mode_setting_prompt">"پس از خاموش‌کردن تغییر حالت شبکه از نوار اعلان، تغییر مجاز است."</string>
+<string name="network_registration_fail">"ثبت شبکه ناموفق بود، عملکرد انتخاب خودکار باز شود؟"</string>
+<string name="network_registration_fail_title">"ثبت شبکه ناموفق بود"</string>
+<string name="network_wcdma_only">"فقط WCDMA"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM خودکار"</string>
+<string name="number_sim">"شماره سیم‌کارت <xliff:g id="SIM_NUMER" example="1">%d</xliff:g>."</string>
+<string name="preferred_data_roaming_all_networks">همه شبکه ها</string>
+<string name="preferred_data_roaming_dialogtitle">"رومینگ داده‌ها"</string>
+<string name="preferred_data_roaming_disable">"غیرفعال‌کردن"</string>
+<string name="preferred_data_roaming_national">"فقط رومینگ ملی"</string>
+<string name="preferred_data_roaming_summary">"فقط رومینگ ملی"</string>
+<string name="preferred_data_roaming_title">"رومینگ داده‌ها"</string>
+<string name="primary_sub_summary">"رابط نرخ اولیه"</string>
+<string name="radio_off_error">"قبل از مشاهدهٔ این تنظیمات، رادیو را روشن کنید."</string>
+<string name="reading_settings">"در حال خواندن تنظیمات..."</string>
+<string name="reset_networks_progress">"درحال بازنشانی\u2026"</string>
+<string name="response_error">"پاسخ پیش‌بینی نشده از شبکه."</string>
+<string name="screen_split_not_support">"شبکه تلفن همراه ممکن است در تقسیم صفحه کار نکند."</string>
+<string name="secondary_card_slot">"ثانیه"</string>
+<string name="secondary_sub_summary">"ثانیه"</string>
+<string name="select_during_call_prohibited">"این عملیات در هنگام تماس مجاز نیست."</string>
+<string name="select_lte_prohibited">"انتخاب فعلی ممنوع است، لطفاً 4G را روشن کنید."</string>
+<string name="select_under_airplane_prohibited">"ابتدا حالت هواپیما را خاموش کنید."</string>
+<string name="sim_calls_not_set_up">"تنظیم نشود"</string>
+<string name="sim_disable_prompt">"وضعیت فعال سازی SIM تغییر خواهد کرد، ادامه می دهید؟"</string>
+<string name="sim_disabled">غیر فعال</string>
+<string name="simsettings_forced_resizable">"تنظیمات سیم‌کارت ممکن است در تقسیم صفحه کار نکند."</string>
+<string name="smart_dual_sim_hint">"لطفاً شماره سیم‌کارت را وارد کنید."</string>
+<string name="smart_dual_sim_number_null">"شماره سیم‌کارت خالی است."</string>
+<string name="smart_dual_sim_summary">"مدیریت وضعیت دو سیم‌کارت هوشمند"</string>
+<string name="smart_dual_sim_title">"دو سیم‌کارت هوشمند"</string>
+<string name="smart_dual_sim_warning_message">"سیم‌کارت دوتایی هوشمند فعال شود؟\nدر برخی ارائه‌دهندگان این سرویس به شکل مناسب کار نمی‌کند یا ممکن است هزینه‌ای از شما اخذ شود."</string>
+<string name="smart_forwarding_show_dialog">"دوباره نمایش نده"</string>
+<string name="turn_off_ims_error">"هنگامی‌که تماس‌گیری Wi-Fi فعال شده‌است، خاموش‌کردن تماس %s ممکن نیست، لطفاً ابتدا تماس‌گیری Wi-Fi را خاموش کنید."</string>
+<string name="updating_settings">"در حال به‌روزرسانی تنظیمات..."</string>
+<string name="uplmn_preference_title">"ترجیح UPLMN"</string>
+<string name="vt_resolution_setting">"انتخاب دقت تصویر ویدئوی VoLTE"</string>
+</resources>

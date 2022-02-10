@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(ಉಳಿದ ಸಮಯ: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"ಪವರ್ ಉಳಿಸುವ ಆಪ್ಟಿಮೈಸೇಶನ್"</string>
+<string name="calling_enable_data_title">"ಕರೆ ಮಾಡುವ ಸಮಯದಲ್ಲಿ ಮೊಬೈಲ್ ನೆಟ್ವರ್ಕ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಅನುಮತಿಸಿ"</string>
+<string name="cannot_disable_two_sim_card">"ನೀವು ಒಂದೇ ಸಮಯದಲ್ಲಿ ಎರಡು SIM ಕಾರ್ಡ್ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ"</string>
+<string name="cfu_is_on">"ಯಾವಾಗಲೂ"ಕರೆ ಮುಂದಕ್ಕೆ",ಆನ್ ಆಗಿರುತ್ತದೆ"</string>
+<string name="confirm_data_dialog_message">"ಡೇಟಾ ಆಕ್ಸೆಸ್ ಬದಲಿಸುವುದರಿಂದ ಎಲ್ಲಾ LTE ಸೇವೆಗಳು ನಿಲ್ಲುತ್ತವೆ. ಮುಂದುವರಿಯಲು ಬಯಸುತ್ತೀರೆ?"</string>
+<string name="confirm_data_dialog_title">"SIM ನಲ್ಲಿ ಡೇಟಾ ಆಯ್ಕೆ ಮಾಡಿ <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ,ಡೇಟಾ ಇಲ್ಲದ SIM  VoLTE ಕರೆಗಳ ಸಮಯದಲ್ಲಿ ತನ್ನದೇ ಆದ ಮೊಬೈಲ್ ಡೇಟಾ ಸಂಪರ್ಕವನ್ನು ಬಳಸಿಕೊಂಡು ಇಂಟರ್ನೆಟ್ ಅನ್ನು ಪ್ರವೇಶಿಸಬಹುದು. ಇದು ಹೆಚ್ಚುವರಿ ಡೇಟಾ ಶುಲ್ಕಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು. "</string>
+<string name="dialog_network_selection_message">"ಹಸ್ತಚಾಲಿತ ಆಯ್ಕೆಯ ಮೋಡ್ನಲ್ಲಿ ಮೊಬೈಲ್ ಫೋನ್ ಇತರ ಆಪರೇಟರನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದಿಲ್ಲ.ಕೆಲವು ಬಾರಿ ನೆಟ್ವರ್ಕ್ ಸಮಸ್ಯೆ ಉಂಟಾದಾಗ ಸ್ವಯಂ ಚಾಲಿತ ಮೋಡ್ ನಿಂದ ಹಸ್ತಚಾಲಿತ ಮೋಡ್ ಗೆ ಆಪರೇಟರ್ ಬದಲಾವಣೆ ಮಾಡಬೇಕಾಗುತ್ತದೆ. ನೀವು ನೆಟ್ವರ್ಕ್ ನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಆಯ್ಕೆ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?"</string>
+<string name="do_not_switch_default_data_subscription">"ಕರೆ ಸಮಯದಲ್ಲಿ ಡೀಫಾಲ್ಟ್ ಚಂದಾದಾರಿಕೆಯನ್ನು ಬದಲಾಯಿಸಬೇಡಿ"</string>
+<string name="edit_sim_name_disabled">"ಮೊದಲು ವಿಮಾನ ಮೋಡ್ ಅನ್ನು ಆಫ್ ಮಾಡಿ."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"ಪ್ರಸ್ತುತ ನೆಟ್‌ವರ್ಕ್ ಮೋಡ್ 4G ಅನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ, ಸಕ್ರಿಯಗೊಳಿಸಿದ ನಂತರ ನಿಮಗೆ ಕರೆಗಳನ್ನು ಮಾಡಲು ಮತ್ತು ಸ್ವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ, ದಯವಿಟ್ಟು ಆದ್ಯತೆಯ ನೆಟ್‌ವರ್ಕ್ ಪ್ರಕಾರವನ್ನು 4G ಗೆ ಬದಲಾಯಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"</string>
+<string name="exception_error">"ನೆಟ್ವರ್ಕ್ SIM ಕಾರ್ಡ್ ದೋಷ"</string>
+<string name="fdn_check_failure">"ನಿಮ್ಮ ಫೋನ್ ಅಪ್ಲಿಕೇಶನ್ ನ ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳ ಸೆಟ್ಟಿಂಗ್ಸ್ ಟರ್ನ್ ಆನ್ ಅಗಿದೆ. ಪರಿಣಾಮವಾಗಿ, ಕೆಲವು ಕರೆ-ಸಂಬಂಧಿ ಲಕ್ಷಣಗಳು ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ."</string>
+<string name="fingerprint_settings_applock">"ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN  ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN  ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ!"</string>
+<string name="invalid_subscription_preference_setting">"ಅಮಾನ್ಯ ಸೆಟ್ಟಿಂಗ್‌."</string>
+<string name="low_resolution_power_saving">"ಕಡಿಮೆ ರೆಸಲ್ಯೂಶನ್ ಪವರ್ ಉಳಿತಾಯ ಮಾಡುತ್ತದೆ"</string>
+<string name="low_resolution_power_saving_description">"ಪವರ್ ಉಳಿಸಲು ಸಹಾಯವಾಗುವಂತೆ ಸ್ಕ್ರೀನ್ ರೆಸಲ್ಯೂಶನ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡಿ"</string>
+<string name="main_card_slot">"PRI."</string>
+<string name="mobile_data_always_online_dialog">"ಯಾವಾಗಲೂ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವುದರಿಂದ, ಆನ್ಲೈನ್ ಮೊಬೈಲ್ ಡೇಟಾ ,ಕೆಲವು ಅಪ್ಲಿಕೇಷನ್ ಗಳಲ್ಲಿ ಸಂಪರ್ಕ ಸಮಸ್ಯೆಗಳನ್ನು ಉಂಟು ಮಾಡತ್ತದೆ. ಆನ್ಲೈನ್ ಡೇಟಾವನ್ನು ನವೀಕರಿಸಲು ಅಪ್ಲಿಕೇಷನ್ ಗಳಲ್ಲಿರುವ ಹಸ್ತಚಾಲಿತ ರಿಫ್ರೆಶ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು ದಯಮಾಡಿ ಬಳಸಿ."</string>
+<string name="mobile_data_always_online_summary">"ಕೆಲವು ಮೊಬೈಲ್ ನೆಟ್ ವರ್ಕ್ ಗಳಿಂದ, ಹೆಚ್ಚು ಬ್ಯಾಟರಿ ಶಕ್ತಿಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ"</string>
+<string name="mobile_data_always_online_title">"ಮೊಬೈಲ್ ಡೇಟಾ ಯಾವತ್ತೂ ಆನ್ ಲೈನ್ ನಲ್ಲಿ"</string>
+<string name="mobile_data_not_allowed">"ನೆಟ್‌ವರ್ಕ್‌ ಹುಡುಕಾಟದ ವೇಳೆ ಮೊಬೈಲ್ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ."</string>
+<string name="mobile_select_default_voice_sim">"ದಯವಿಟ್ಟು ಮೊದಲು ಡೀಫಾಲ್ಟ್ ಧ್ವನಿ ಕಾರ್ಡ್ ಆಯ್ಕೆಮಾಡಿ."</string>
+<string name="network_2G_only">"2G ಮಾತ್ರ"</string>
+<string name="network_3G_auto">"3G/2G ಸ್ವಯಂ"</string>
+<string name="network_3G_only">"3G ಮಾತ್ರ"</string>
+<string name="network_4G_2G">"4G/2G ಸ್ವಯಂ"</string>
+<string name="network_4G_3G">"4G/3G ಸ್ವಯಂ"</string>
+<string name="network_4G_only">"4G ಮಾತ್ರ"</string>
+<string name="network_4g_auto">"4G/3G/2G ಆಟೋ"</string>
+<string name="network_5G">"5G/ 4G/ 3G/ 2G ಆಟೋ"</string>
+<string name="network_5G_only">"5G ಮಾತ್ರ"</string>
+<string name="network_gsm_only">"GSM  ಮಾತ್ರ"</string>
+<string name="network_mode_setting_prompt">"ಅಧಿಸೂಚನೆಯ ಪಟ್ಟಿಯಿಂದ ಸ್ವಿಚಿಂಗ್ ನೆಟ್ವರ್ಕ್ ಮೋಡ್ ಅನ್ನು ಆಫ್ ಮಾಡಿದ ನಂತರ ಅದನ್ನು ಟಾಗಲ್ ಮಾಡಲು ಅನುಮತಿಸಲಾಗಿದೆ."</string>
+<string name="network_registration_fail">"ನೆಟ್ವರ್ಕ್ ನೋಂದಣಿ ವಿಫಲವಾಯ್ತು,ಸ್ವಯಂಚಾಲಿತ ಆಯ್ಕೆ ಕಾರ್ಯವನ್ನು ತೆರೆಯಬೇಕೇ?"</string>
+<string name="network_registration_fail_title">"ನೆಟ್ವರ್ಕ್ ನೋಂದಣಿ ವಿಫಲವಾಗಿದೆ"</string>
+<string name="network_wcdma_only">"WCDMA ಮಾತ್ರ"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM ಸ್ವಯಂ"</string>
+<string name="number_sim">"SIM<xliff:g id="SIM_NUMER" example="1">%d</xliff:g> ಸಂಖ್ಯೆ:"</string>
+<string name="preferred_data_roaming_all_networks">"ಎಲ್ಲ ನೆಟ್ವರ್ಕ್ಸ್"</string>
+<string name="preferred_data_roaming_dialogtitle">"ರೋಮಿಂಗ್ ಮಾಡುತ್ತಿರುವಾಗ ದತ್ತ ಸರ್ವೀಸ್ಗಳಿಗೆ ಸಂಪರ್ಕಿಸಿ"</string>
+<string name="preferred_data_roaming_disable">"ಅಸಕ್ರಿಯಗೊಳಿಸು"</string>
+<string name="preferred_data_roaming_national">"ರಾಷ್ಟ್ರೀಯ ರೋಮಿಂಗ್ ಮಾತ್ರ"</string>
+<string name="preferred_data_roaming_summary">"ರಾಷ್ಟ್ರೀಯ ರೋಮಿಂಗ್ ಮಾತ್ರ"</string>
+<string name="preferred_data_roaming_title">"ರೋಮಿಂಗ್ ಮಾಡುತ್ತಿರುವಾಗ ದತ್ತ ಸರ್ವೀಸ್ಗಳಿಗೆ ಸಂಪರ್ಕಿಸಿ"</string>
+<string name="primary_sub_summary">"PRI."</string>
+<string name="radio_off_error">"ಈ ಸೆಟ್ಟಿಂಗ್ಸ್ ನೋಡುವ ಮುನ್ನ ರೇಡಿಯೋ ಟರ್ನ್ ಆನ್ ಮಾಡಿ"</string>
+<string name="reading_settings">"ಓದಲಾಗುತ್ತಿವೆ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ..."</string>
+<string name="reset_networks_progress">"ಮರುಹೊಂದಿಸಲಾಗುತ್ತಿದೆ ..."</string>
+<string name="response_error">"ನೆಟ್ವರ್ಕ್ ನಿಂದ ಅನಿರೀಕ್ಶಿಹಿತ ಪ್ರತಿಕ್ರಿಯೆ\u2026"</string>
+<string name="screen_split_not_support">"ಮೊಬೈಲ್ ನೆಟ್ವರ್ಕ್ ಸ್ಪ್ಲಿಟ್-ಪರದೆಯೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ."</string>
+<string name="secondary_card_slot">"SEC.."</string>
+<string name="secondary_sub_summary">"SEC.."</string>
+<string name="select_during_call_prohibited">"ಕರೆ ಸಮಯದಲ್ಲಿ ಈ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ."</string>
+<string name="select_lte_prohibited">"ಪ್ರಸ್ತುತ ಆಯ್ಕೆಯನ್ನು ನಿಷೇಧಿಸಲಾಗಿದೆ, ದಯವಿಟ್ಟು 4G ಆನ್ ಮಾಡಿ."</string>
+<string name="select_under_airplane_prohibited">"ಮೊದಲು ವಿಮಾನ ಮೋಡ್ ಅನ್ನು ಆಫ್ ಮಾಡಿ."</string>
+<string name="sim_calls_not_set_up">"ಸೆಟ್ ಅಪ್ ಆಗಿಲ್ಲ"</string>
+<string name="sim_disable_prompt">"ಸಿಮ್ ಸಕ್ರಿಯಗೊಳಿಸುವ ಸ್ಥಿತಿಯು ಬದಲಾಗುತ್ತದೆ, ದಯವಿಟ್ಟು ಮುಂದುವರಿಕೆಯನ್ನು ದೃಢೀಕರಿಸುತ್ತೀರಾ?"</string>
+<string name="sim_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="simsettings_forced_resizable">"SIM ಸೆಟ್ಟಿಂಗ್ಗಳು ಸ್ಪ್ಲಿಟ್-ಸ್ಕ್ರೀನ್ನೊಂದಿಗೆ ಕೆಲಸ ಮಾಡದೆ ಇರಬಹುದು."</string>
+<string name="smart_dual_sim_hint">"ದಯವಿಟ್ಟು SIM ಸಂಖ್ಯೆ ಇನ್ಪುಟ್ ಮಾಡಿ."</string>
+<string name="smart_dual_sim_number_null">"SIM ಸಂಖ್ಯೆ ಖಾಲಿಯಾಗಿದೆ."</string>
+<string name="smart_dual_sim_summary">"ನಿರ್ವಹಿಸಿ,ಸ್ಮಾರ್ಟ್ ಡ್ಯುಯಲ್ SIMನ ಸ್ಥಿತಿ"</string>
+<string name="smart_dual_sim_title">"ಚತುರ ಉಭಯ SIM"</string>
+<string name="smart_dual_sim_warning_message">"ಸ್ಮಾರ್ಟ್ ಡ್ಯೂಯಲ್ SIM ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಬೇಕೆ?\nಕೆಲವು ಸೇವೆ ಒದಗಿಸುವವರೊಂದಿಗೆ, ಈ ಕಾರ್ಯವು ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸದೇ ಇರಬಹುದು ಅಥವಾ ನಿಮಗೆ ಶುಲ್ಕ ವಿಧಿಸಬಹುದು."</string>
+<string name="smart_forwarding_show_dialog">"ಇದನ್ನು ಮತ್ತೆ ತೋರಿಸಬೇಡ"</string>
+<string name="turn_off_ims_error">"Wi-Fi ಕರೆ ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ%s ಅನ್ನು ಆಫ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ, ದಯವಿಟ್ಟು ಮೊದಲು Wi-Fi ಕರೆ ಆಫ್ ಮಾಡಿ."</string>
+<string name="updating_settings">"ನವೀಕರಿಸಲಾಗುತ್ತಿವೆ ಸೆಟ್ಟಿಂಗ್ಗಳು ..."</string>
+<string name="uplmn_preference_title">"UPLMN  ಆದ್ಯತೆ"</string>
+<string name="vt_resolution_setting">"VoLTE ವಿಡಿಯೋ ರೆಸಲ್ಯೂಶನ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Majaribio yanayosalia: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Usadifishaji wa kuhifadhi nishati"</string>
+<string name="calling_enable_data_title">"Ruhusu ifikie mtandao wa simu ya mkononi wakati unazungumza na simu"</string>
+<string name="cannot_disable_two_sim_card">"Huwezi kulemaza kadi mbili za SIM kwa wakati mmoja"</string>
+<string name="cfu_is_on">"Wito wa kuelekeza simu kwa namba ya simu nyigine daima imewezeshwa"</string>
+<string name="confirm_data_dialog_message">"Kubadilisha kufikia data utasimamisha huduma yote ya LTE. Unataka kuendelea?"</string>
+<string name="confirm_data_dialog_title">"Chagua Data Katika SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Ikiwezeshwa, SIM isiyo ya data inaweza kufikia Wavuti kupitia muunganosho wake wa data ya simu wakati wa simu za WoLTE. Hatua hii inaweza kusababisha ada zaidi za data."</string>
+<string name="dialog_network_selection_message">"Simu ya mkononi haitakuchaguliwa waendeshaji wengine katika modi ya uchaguaji wa kufanya mwenyewe. Wakati mwingine lazima ufanye uchaguaji wa kufanya mwenyewe tena au urudi kwenye modi ya uchaguaji otomatiki unapopoteza huduma ya mwendeshaji aliyechaguliwa. Unataka kuchagua mtandao mwenyewe?"</string>
+<string name="do_not_switch_default_data_subscription">"Usibadilishe usajili chaguo-msingi wakati wa simu"</string>
+<string name="edit_sim_name_disabled">"Zima hali ya angani kwanza."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Hali ya mtandao wa sasa haukubali 4G, baada ya uamilishaji hutaweza kupiga na kupokea simu, tafadhali badilisha aina ya mtandao unaopendelea kwa 4G na ujaribu tena"</string>
+<string name="exception_error">"Hitilafu ya mtandao au SIM kadi."</string>
+<string name="fdn_check_failure">"Mipangilio ya programu ya simu yako ya nambari za simu zilizobainishwa pekee imewashwa. Kutokana na hayo, baadhi ya vipengele vya kupiga simu havifanyi kazi."</string>
+<string name="fingerprint_settings_applock">"Ugungaji wa programu"</string>
+<string name="icc_pin_disabled">"PIN ya SIM <xliff:g id="card_number">%1$d</xliff:g> Imelemazwa!"</string>
+<string name="icc_pin_enabled">"PIN ya SIM <xliff:g id="card_number">%1$d</xliff:g> Imewezeshwa!"</string>
+<string name="invalid_subscription_preference_setting">"Mpangilio batili."</string>
+<string name="low_resolution_power_saving">"Uhifadhi wa nishati wa mwonekano wa kiwango chini"</string>
+<string name="low_resolution_power_saving_description">"Mwonekano wa skrini wa kiwango cha chini kama invyohitajika ili kusaidia kuhifadhi nishati"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Kukewezesha daima data ya mtandao ya simu italeta matatizo ya kuunganishwa katika baadhi ya programu. Tafadhali tumia mwongozo wa kuazisha tena katika programu kuhasisha data ya mtandao."</string>
+<string name="mobile_data_always_online_summary">"Inatumia nguvu zaidi ya betri kwenye mitandao zingine"</string>
+<string name="mobile_data_always_online_title">"Data ya Simu kuwa mtandaoni kila mara"</string>
+<string name="mobile_data_not_allowed">"Data ya simu haipatikani wakati wa kutafuta mtandao."</string>
+<string name="mobile_select_default_voice_sim">"Tafadhali chagua kwanza kadi msingi ya sauti."</string>
+<string name="network_2G_only">"2G pekee"</string>
+<string name="network_3G_auto">"3G/2G oto"</string>
+<string name="network_3G_only">"3G pekee"</string>
+<string name="network_4G_2G">"4G/2G oto"</string>
+<string name="network_4G_3G">"4G/3G oto"</string>
+<string name="network_4G_only">"4G pekee"</string>
+<string name="network_4g_auto">"4G/3G/2G Otomatiki"</string>
+<string name="network_5G">"5G/4G/3G/2G kiotomatiki"</string>
+<string name="network_5G_only">"5G pekee"</string>
+<string name="network_gsm_only">GSM pekee</string>
+<string name="network_mode_setting_prompt">"Inaruhusiwa kubadilisha baada ya kuzima modi ya mtandao kutoka kwenye mwambaa wa taarifa."</string>
+<string name="network_registration_fail">"Usajili wa mtandao umefeli, kama kufungua kazi ya utezi moja kwa moja?"</string>
+<string name="network_registration_fail_title">"Usajili wa mtandao umefeli"</string>
+<string name="network_wcdma_only">WCDMA tu</string>
+<string name="network_wcdma_pref">"WCDMA/GSM oto"</string>
+<string name="number_sim">"Namabri ya SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g>:"</string>
+<string name="preferred_data_roaming_all_networks">Mitandao yote</string>
+<string name="preferred_data_roaming_dialogtitle">"Utambizi wa data"</string>
+<string name="preferred_data_roaming_disable">"Lemaza"</string>
+<string name="preferred_data_roaming_national">"Kuzurura kitaifa pekee"</string>
+<string name="preferred_data_roaming_summary">"Kuzurura kitaifa pekee"</string>
+<string name="preferred_data_roaming_title">"Utambizi wa data"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"Washa redio kabla ya kutazama mipangilio hii."</string>
+<string name="reading_settings">"Kusoma mipangilio ..."</string>
+<string name="reset_networks_progress">"reseting\u2026"</string>
+<string name="response_error">"Jibu lisilotarajiwa kutoka kwa mtandao."</string>
+<string name="screen_split_not_support">"Mtandoa wa simu ya mkononi huenda isifanye kazi na skrini iliyogawanywa."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"Hatua hii haikubaliwi wakati simu inaendelea."</string>
+<string name="select_lte_prohibited">"Chaguo la sasa limepigwa marufuku, tafadhali washa 4G."</string>
+<string name="select_under_airplane_prohibited">"Zima hali ya angani kwanza."</string>
+<string name="sim_calls_not_set_up">"Haijawekwa"</string>
+<string name="sim_disable_prompt">"Hali ya kuwezeshwa kwa Sim itabadilishwa, tafadhali thibitisha kana kwamba uendelee?"</string>
+<string name="sim_disabled">Imelemazwa</string>
+<string name="simsettings_forced_resizable">"Mipangilio ya SIM huenda isifanye kazi na skrini iliyogawanywa."</string>
+<string name="smart_dual_sim_hint">"Tafadhali ingiza nambari ya SIM."</string>
+<string name="smart_dual_sim_number_null">"Nambari ya SIM ni tupu."</string>
+<string name="smart_dual_sim_summary">"Simamia hali ya Kadi everu ya SIM iliyo mbili"</string>
+<string name="smart_dual_sim_title">"Kadi everu ya SIM iliyo mbili"</string>
+<string name="smart_dual_sim_warning_message">"Unataka kuwezesha SIM Mbili Mahiri?\nKwa watoa huduma wengine, kipengele hiki huenda kisifanye kazi ipasavyo au huenda ukalipishwa."</string>
+<string name="smart_forwarding_show_dialog">"Usionyesha hii tena"</string>
+<string name="turn_off_ims_error">"Haiwezi kuzima %s wakati simu ya Wi-Fi imewezeshwa, tafadhali zima simu ya Wi-Fi kwanza."</string>
+<string name="updating_settings">"Kuhasisha mipangilio ..."</string>
+<string name="uplmn_preference_title">"Mapendeleo ya UPLMN"</string>
+<string name="vt_resolution_setting">"Chagua msongo wa video wa VoLTE"</string>
+</resources>

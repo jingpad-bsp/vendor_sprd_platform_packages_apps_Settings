@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d %% restant"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Utilitza el reconeixement facial. Cal tenir en compte les consideracions següents:\n1. Algú que s’assembli a tu pot desbloquejar el teu telèfon mòbil.\n2. El reconeixement facial és menys segur que l’empremta dactilar, la contrasenya amb patró, el xifratge digital i un codi alfanumèric definit per l’usuari.\n3. En condicions de poca llum, molta llum o contrallum, l’efectivitat del reconeixement facial és inferior.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Per utilitzar millor el reconeixement facial, cal tenir en compte les observacions següents:\n1. Durant el registre, cal evitar els llocs foscos, les llums intenses i els entorns amb contrallum per garantir que la imatge de la cara capturada és nítida. \n2. Un cop registrada la cara, el telèfon es pot desbloquejar mitjançant el reconeixement facial quan la pantalla està activada."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Mode Moviment"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Si l’actives, hauràs de parpellejar quan vulguis desbloquejar el dispositiu amb l’ID facial com a mesura de seguretat per evitar l’ús de fotos o altres objectes"</string>
+<string name="not_support_in_split_mode">"Inscripció no compatible en mode de pantalla partida"</string>
+</resources>

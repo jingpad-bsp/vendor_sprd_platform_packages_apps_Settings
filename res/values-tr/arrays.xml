@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"Ağ zamanını kullan"</item>
+<item>"GPS tarafından sağlanan zamanı kullanın"</item>
+<item>Kapalı</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1,5 saniye</item>
+<item>"6 saniye"</item>
+<item>"Her zaman açık"</item>
+<item>"Her zaman kapat"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"Şu andan itibaren 1 dakikadan daha az süreye ayarlandı."</item>
+<item>"Şu andan itibaren <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> süreye ayarlandı."</item>
+<item>"Şu andan itibaren <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> süreye ayarlandı."</item>
+<item>"Şu andan itibaren <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ve <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> süreye ayarlandı."</item>
+<item>"Şu andan itibaren <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> süreye ayarlandı."</item>
+<item>"Şu andan itibaren <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ve <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> süreye ayarlandı."</item>
+<item>"Şu andan itibaren <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ve <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> süreye ayarlandı."</item>
+<item>"Şu andan <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, ve <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> süreye ayarlandı."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"Otomatik"</item>
+<item>"Optimize et"</item>
+<item>"Optimize Etme"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"Otomatik"</item>
+<item>"Etkinleştir"</item>
+<item>"Devredışı Bırak"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"Otomatik"</item>
+<item>"Kapat"</item>
+<item>"Kapatma"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Ultra tasarruf modu"</item>
+<item>"Güç tasarrufu modu"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Güç tasarrufu modu"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Ultra tasarruf modu"</item>
+<item>"Güç tasarrufu modu"</item>
+<item>"Akıllı tasarruf modu"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Güç tasarrufu modu"</item>
+<item>"Akıllı tasarruf modu"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"dahili güncelleme"</item>
+<item>"SD güncelleme"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Ağ zamanını kullan"</item>
+<item>Kapalı</item>
+</string-array>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">(Resterende pogingen: <xliff:g id="d">%1$d</xliff:g>)</string>
+<string name="battery_saver">Energiebesparing optimaliseren</string>
+<string name="calling_enable_data_title">Tijdens oproepen toegang tot mobiel netwerk toestaan</string>
+<string name="cannot_disable_two_sim_card">De twee simkaarten kunnen niet tegelijkertijd uitgeschakeld zijn</string>
+<string name="cfu_is_on">"Oproep altijd doorschakelen is ingeschakeld"</string>
+<string name="confirm_data_dialog_message">"Wijzigen van data toegang zal alle LTE services stopzetten.Wil je verdergaan?"</string>
+<string name="confirm_data_dialog_title">"Selecteer Data In SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">Wanneer dit is ingeschakeld, kan de simkaart die niet voor dataverkeer is aangewezen tijdens VoLTE-oproepen toch toegang krijgen tot het internet via de mobiele dataverbinding. Voor dit dataverkeer kunnen bijkomende kosten worden aangerekend.</string>
+<string name="dialog_network_selection_message">"In de handmatige-selectiemodus selecteert de telefoon geen andere operatoren voor u. "Soms moet u de handmatige selectie opnieuw uitvoeren of terug omschakelen naar de automatische-selectiemodus, wanneer u de service van de geselecteerde operator verloren hebt." Wilt u het netwerk handmatig selecteren?"</string>
+<string name="do_not_switch_default_data_subscription">"Schakel het standaardabonnement niet om tijdens een oproep"</string>
+<string name="edit_sim_name_disabled">"Schakel eerst de vliegtuigmodus uit."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"De huidige netwerkmodus ondersteunt 4G niet. Na de activering kunt u niet meer bellen en gebeld worden. Schakel het voorkeursnetwerktype om naar 4G en probeer het opnieuw"</string>
+<string name="exception_error">"Netwerk- of simkaartfout."</string>
+<string name="fdn_check_failure">"De instelling \'Vaste nummers\' in je app Telefoon is ingeschakeld. Hierdoor werken sommige oproepgerelateerde functies niet."</string>
+<string name="fingerprint_settings_applock">"App lock"</string>
+<string name="icc_pin_disabled">Simkaart <xliff:g id="card_number">%1$d</xliff:g> pincode uitgeschakeld!</string>
+<string name="icc_pin_enabled">Simkaart <xliff:g id="card_number">%1$d</xliff:g> pincode geactiveerd!</string>
+<string name="invalid_subscription_preference_setting">"Ongeldige instelling."</string>
+<string name="low_resolution_power_saving">Energiebesparing door lage resolutie</string>
+<string name="low_resolution_power_saving_description">Verlaag de schermresolutie zoals vereist om energie te besparen</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Altijd online mobiele data-connectiviteit uitschakelen zal problemen in sommige toepassingen veroorzaken. Gebruik de handmatige refresh-functie in toepassingen om online informatie bij te werken."</string>
+<string name="mobile_data_always_online_summary">"Gebruikt meer batterijvermogen op sommige mobiele netwerken"</string>
+<string name="mobile_data_always_online_title">"Mobiele data steeds online"</string>
+<string name="mobile_data_not_allowed">"Tijdens het zoeken naar een netwerk, is er geen mobiele-dataservice beschikbaar."</string>
+<string name="mobile_select_default_voice_sim">"Selecteer eerst de standaard kaart voor spraakoproepen."</string>
+<string name="network_2G_only">"Alleen 2G"</string>
+<string name="network_3G_auto">"Auto 3G/2G"</string>
+<string name="network_3G_only">"Alleen 3G"</string>
+<string name="network_4G_2G">"Auto 4G/2G"</string>
+<string name="network_4G_3G">"Auto 4G/3G"</string>
+<string name="network_4G_only">"Alleen 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G Auto"</string>
+<string name="network_5G">"5G/4G/3G/2G auto"</string>
+<string name="network_5G_only">"Alleen 5G"</string>
+<string name="network_gsm_only">Alleen GSM</string>
+<string name="network_mode_setting_prompt">"Wisselen is toegestaan nadat u vanaf de meldingenbalk de schakelnetwerk-modus hebt afgesloten."</string>
+<string name="network_registration_fail">"netwerk registratie mislukt, of de automatische selectie functie openen?"</string>
+<string name="network_registration_fail_title">"Netwerk registratie mislukt"</string>
+<string name="network_wcdma_only">Alleen WCDMA</string>
+<string name="network_wcdma_pref">"Auto WCDMA/GSM"</string>
+<string name="number_sim">Sim<xliff:g id="SIM_NUMER" example="1">%d</xliff:g>-nummer:</string>
+<string name="preferred_data_roaming_all_networks">"Alle netwerken"</string>
+<string name="preferred_data_roaming_dialogtitle">"Data-roaming"</string>
+<string name="preferred_data_roaming_disable">"Uitschakelen"</string>
+<string name="preferred_data_roaming_national">"Nationale roaming enkel"</string>
+<string name="preferred_data_roaming_summary">"Nationale roaming enkel"</string>
+<string name="preferred_data_roaming_title">"Data-roaming"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"Schakel de radio in voordat je deze instellingen bekijkt."</string>
+<string name="reading_settings">"Instellingen lezen..."</string>
+<string name="reset_networks_progress">opnieuw instellen\u2026</string>
+<string name="response_error">"Onverwachte reactie van netwerk."</string>
+<string name="screen_split_not_support">"Mobiel netwerk werkt mogelijk niet op gesplitst scherm."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"Deze bewerking is niet toegestaan tijdens een oproep."</string>
+<string name="select_lte_prohibited">"De huidige selectie is verboden. Schakel 4G in."</string>
+<string name="select_under_airplane_prohibited">"Schakel eerst de vliegtuigmodus uit."</string>
+<string name="sim_calls_not_set_up">Niet ingesteld</string>
+<string name="sim_disable_prompt">"Sim activering staat zal worden gewijzigd, kunt u bevestigen of u wilt doorgaan?"</string>
+<string name="sim_disabled">Uitgeschakeld</string>
+<string name="simsettings_forced_resizable">Simkaartinstellingen werkt mogelijk niet op gesplitst scherm.</string>
+<string name="smart_dual_sim_hint">Voer het simkaartnummer in.</string>
+<string name="smart_dual_sim_number_null">Het simkaartnummer is leeg.</string>
+<string name="smart_dual_sim_summary">"Beheer de Smart Dual SIM status"</string>
+<string name="smart_dual_sim_title">"Smart Dual SIM"</string>
+<string name="smart_dual_sim_warning_message">Smart Dual SIM activeren?\nHet is mogelijk dat deze functie bij een aantal serviceproviders niet correct werkt, of dat er extra kosten voor worden aangerekend.</string>
+<string name="smart_forwarding_show_dialog">"Toon dit niet opnieuw"</string>
+<string name="turn_off_ims_error">"Kan %s niet uitschakelen wanneer Wi-Fi-bellen is ingeschakeld. Schakel eerst Wi-Fi-bellen uit."</string>
+<string name="updating_settings">"Updaten instellingen..."</string>
+<string name="uplmn_preference_title">"UPLMN-voorkeur"</string>
+<string name="vt_resolution_setting">"De VoLTE-videoresolutie selecteren"</string>
+</resources>

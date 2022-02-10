@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(عدد المرات المتبقية:<xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"تحسين توفير الطاقة"</string>
+<string name="calling_enable_data_title">"السماح بالوصول إلى شبكة الجوَّال أثناء الاتصال"</string>
+<string name="cannot_disable_two_sim_card">"لا يمكنك تعطيل بطاقتي SIM في الوقت نفسه"</string>
+<string name="cfu_is_on">"توجيه المكالمات يعمل دائما"</string>
+<string name="confirm_data_dialog_message">"تغيير وصول البيانات سيعمل على إيقاف كل خدمات LTE. هل ترغب بالاستمرار؟"</string>
+<string name="confirm_data_dialog_title">"اختر البيانات في بطاقة SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"عند التمكين، يمكن لبطاقة SIM غير المخصصة للبيانات الوصول إلى الإنترنت باستخدام اتصال بيانات الجوال الخاص بها أثناء مكالمات VoLTE. قد يؤدي هذا إلى تحمل تكاليف بيانات إضافية."</string>
+<string name="dialog_network_selection_message">"لن يحدد الهاتف الجوَّال مشغلين آخرين لك في وضع التحديد اليدوي. في بعض الأحيان يتعين عليك القيام بتحديد يدوي مرة أخرى أو العودة إلى وضع التحديد التلقائي عندما تفقد خدمة المشغِّل المحدَّد. هل تريد تحديد الشبكة يدويًا؟"</string>
+<string name="do_not_switch_default_data_subscription">"لا تقم بتبديل الاشتراك الافتراضي في أثناء الاتصال"</string>
+<string name="edit_sim_name_disabled">"قم بإيقاف تشغيل وضع الطيران أولاً."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"لا يدعم وضع الشبكة الحالي 4G، وبعد التنشيط لن تتمكن من إجراء المكالمات وتلقيها، لذلك يُرجى تبديل نوع الشبكة المفضل إلى 4G والمحاولة مرة أخرى"</string>
+<string name="exception_error">"خطأ في الشبكة أو في بطاقة SIM"</string>
+<string name="fdn_check_failure">"تم تشغيل إعداد أرقام الاتصال الثابتة بالتطبيق المثبت على هاتفك. ونتيجة لذلك، لن تعمل بعض الميزات المرتبطة بالمكالمات."</string>
+<string name="fingerprint_settings_applock">"تأمين التطبيق"</string>
+<string name="icc_pin_disabled">"تم تعطيل PIN لبطاقة SIM <xliff:g id="card_number">‪‎%1$d‬</xliff:g>!"</string>
+<string name="icc_pin_enabled">"تم تمكين PIN لبطاقة SIM <xliff:g id="card_number">‪‎%1$d‬</xliff:g>!"</string>
+<string name="invalid_subscription_preference_setting">"إعداد غير صالح."</string>
+<string name="low_resolution_power_saving">"توفير الطاقة عبر تقليل الدقة"</string>
+<string name="low_resolution_power_saving_description">"قم بتقليل دقة الشاشة حسب المطلوب للمساعدة على توفير الطاقة"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"تعطيل  بيانات انترنت الهاتف على الدوام قد يتسبب في مشاكل بالاتصال في بعض التطبيقات. يرجى استخدام خاصية التنشيط اليدوي في التطبيقات لتحديث بيانات الانترنت."</string>
+<string name="mobile_data_always_online_summary">"تستخدم المزيد من طاقة البطارية على بعض شبكات الهاتف"</string>
+<string name="mobile_data_always_online_title">"بيانات الهاتف متصلة دائما"</string>
+<string name="mobile_data_not_allowed">"لا تتوفر بيانات شبكة الجوّال في أثناء البحث في الشبكة."</string>
+<string name="mobile_select_default_voice_sim">"يُرجى تحديد بطاقة الصوت الافتراضية أولاً."</string>
+<string name="network_2G_only">"2G فقط"</string>
+<string name="network_3G_auto">"3G/2G تلقائي"</string>
+<string name="network_3G_only">"3G فقط"</string>
+<string name="network_4G_2G">"4G/2G تلقائي"</string>
+<string name="network_4G_3G">"4G/3G تلقائي"</string>
+<string name="network_4G_only">"4G فقط"</string>
+<string name="network_4g_auto">"4G/3G/2G تلقائية"</string>
+<string name="network_5G">"5G/4G/3G/2G تلقائية"</string>
+<string name="network_5G_only">"5G فقط"</string>
+<string name="network_gsm_only">نظام GSM فقط</string>
+<string name="network_mode_setting_prompt">"يُسمح بالتبديل بعد إيقاف تشغيل وضع تبديل الشبكة من شريط الإعلامات."</string>
+<string name="network_registration_fail">"فشل تسجيل الشبكة، هل ترغب بفتح خاصية الاختيار التلقائي؟"</string>
+<string name="network_registration_fail_title">"فشل تسجيل الشبكة"</string>
+<string name="network_wcdma_only">WCDMA فقط</string>
+<string name="network_wcdma_pref">"WCDMA/GSM تلقائي"</string>
+<string name="number_sim">"رقم <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> SIM:"</string>
+<string name="preferred_data_roaming_all_networks">جميع الشبكات</string>
+<string name="preferred_data_roaming_dialogtitle">"تجوال البيانات"</string>
+<string name="preferred_data_roaming_disable">"تعطيل"</string>
+<string name="preferred_data_roaming_national">"التجوال المحلي فقط"</string>
+<string name="preferred_data_roaming_summary">"التجوال المحلي فقط"</string>
+<string name="preferred_data_roaming_title">"تجوال البيانات"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"الرجاء تشغيل اللاسلكي قبل عرض هذه الإعدادات."</string>
+<string name="reading_settings">"قراءة الإعدادات..."</string>
+<string name="reset_networks_progress">"جارٍ إعادة التعيين\u2026"</string>
+<string name="response_error">"رد غير متوقع من الشبكة."</string>
+<string name="screen_split_not_support">"قد لا تعمل شبكة الجوال مع الشاشة المجزأة."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"غير مسموح بهذه العملية أثناء إجراء مكالمة."</string>
+<string name="select_lte_prohibited">"تم حظر الاختيار الحالي، يُرجى تشغيل 4G."</string>
+<string name="select_under_airplane_prohibited">"قم بإيقاف تشغيل وضع الطيران أولاً."</string>
+<string name="sim_calls_not_set_up">"غير معين"</string>
+<string name="sim_disable_prompt">"سوف تتغير حالة تفعيل Sim, من فضلك قم التأكيد للمواصلة؟"</string>
+<string name="sim_disabled">تعطيل</string>
+<string name="simsettings_forced_resizable">"قد لا تعمل إعدادات بطاقة SIM مع الشاشة المجزأة."</string>
+<string name="smart_dual_sim_hint">"يُرجى إدخال رقم بطاقة SIM."</string>
+<string name="smart_dual_sim_number_null">"رقم بطاقة SIM فارغ."</string>
+<string name="smart_dual_sim_summary">"إدارة حالة بطاقة SIM الذكية المزدوجة"</string>
+<string name="smart_dual_sim_title">"بطاقة SIM الذكية المزدوجة"</string>
+<string name="smart_dual_sim_warning_message">"هل تريد تمكين بطاقة SIM المزدوجة الذكية؟\nقد لا تعمل هذه الوظيفة بصورة صحيحة أو قد تتحمل تكلفة، وذلك مع بعض موفري الخدمة."</string>
+<string name="smart_forwarding_show_dialog">"لا تعرض ذلك مجددا"</string>
+<string name="turn_off_ims_error">"لا يمكن إيقاف تشغيل %s عندما يكون الاتصال عبر Wi-Fi قيد التمكين، لذلك يُرجى إيقاف تشغيل الاتصال عبر Wi-Fi أولاً."</string>
+<string name="updating_settings">"تحديث الإعدادات..."</string>
+<string name="uplmn_preference_title">"تفضيل UPLMN"</string>
+<string name="vt_resolution_setting">"تحديد دقة فيديو VoLTE"</string>
+</resources>

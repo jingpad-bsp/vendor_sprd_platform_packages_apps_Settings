@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>Usar a hora subministrada pola rede</item>
+<item>Usar a hora subministrada polo GPS</item>
+<item>OFF</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>Usar a hora subministrada pola rede</item>
+<item>OFF</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1,5 segundos"</item>
+<item>"6 seconds."</item>
+<item>"Sempre acendido"</item>
+<item>"Pechar sempre"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>Está axustado por menos de 1 minuto dende ágora.</item>
+<item>Isto se axusta para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dende ágora.</item>
+<item>Isto se axusta para <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dende ágora.</item>
+<item>Isto se axusta para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> e <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dende ágora.</item>
+<item>Isto se axusta para <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dende ágora.</item>
+<item>Isto se axusta para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dende ágora.</item>
+<item>Isto se axusta para <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dende ágora.</item>
+<item>Isto se axusta para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dende ágora.</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Modo de aforro de enerxía"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"actualización interna"</item>
+<item>"Actualización da SD"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Modo de aforro de enerxía"</item>
+<item>Modo de aforro intelixente</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>Modo de ultra aforro</item>
+<item>"Modo de aforro de enerxía"</item>
+<item>Modo de aforro intelixente</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>Modo de ultra aforro</item>
+<item>"Modo de aforro de enerxía"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"AUTO"</item>
+<item>"Pechar"</item>
+<item>"Non pechar"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"AUTO"</item>
+<item>"Optimizar"</item>
+<item>"Sen optimizar"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"AUTO"</item>
+<item>"Habilitar"</item>
+<item>"Deshabilitar"</item>
+</string-array>
+</resources>

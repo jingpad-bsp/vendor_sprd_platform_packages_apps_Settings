@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"नेटवर्कद्वारे दिलेली वेळ वापरा"</item>
+<item>"GPS- द्वारे दिलेली वेळ वापरा"</item>
+<item>"बंद आहे"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"नेटवर्कद्वारे दिलेली वेळ वापरा"</item>
+<item>"बंद आहे"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 सेकंद"</item>
+<item>"6 सेकंद"</item>
+<item>"नेहेमी चालू"</item>
+<item>"नेहमी बंद करा"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"हे आतापासून 1 मिनिटापेक्षा कमी वेळेमध्ये सेट करण्यात आले आहे."</item>
+<item>"हे आतापासून इतक्या वेळेत सेट केले गेले आहे "<xliff:g id="DAYS" example="2 days">%1$s</xliff:g></item>
+<item>"हे आतापासून इतक्या वेळेत सेट केले गेले आहे <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>."</item>
+<item>"हे आत्तापासून <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> दिवस आणि <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> तासांसाठी सेट केलेले आहे."</item>
+<item>"हे आतापासून इतक्या वेळेत सेट केले गेले आहे <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>."</item>
+<item>"हे आत्तापासून <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> दिवस आणि <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> मिनिटांसाठी सेट केलेले आहे."</item>
+<item>"हे आतापासून इतक्या वेळेत सेट केले गेले आहे <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> आणि <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>."</item>
+<item>"हे आतापासून इतक्या वेळेत सेट केले गेले आहे <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, आणि <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"ऑटो"</item>
+<item>"ऑप्टिमाइझ करा"</item>
+<item>"ऑप्टिमाईझ नाही"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"ऑटो"</item>
+<item>"सक्षम"</item>
+<item>"अक्षम"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"ऑटो"</item>
+<item>"बंद करा"</item>
+<item>"बंद करू नका"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"अल्ट्रा सेव्हिंग मोड"</item>
+<item>"पॉवर सेव्हर मोड"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"पॉवर सेव्हर मोड"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"अल्ट्रा सेव्हिंग मोड"</item>
+<item>"पॉवर सेव्हर मोड"</item>
+<item>"स्मार्ट बचत मोड"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"पॉवर सेव्हर मोड"</item>
+<item>"स्मार्ट बचत मोड"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"अंतर्गत अपडेट"</item>
+<item>"SD अपडेट"</item>
+</string-array>
+</resources>

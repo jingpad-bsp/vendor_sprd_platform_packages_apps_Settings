@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"ඉතිරි %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"මුහුණු හඳුනා ගැනීම භාවිතා කරයි, කරුණාකර පහත දැක්වෙන සටහන් මතක තබා ගන්න:\n1. ඔබට සමාන පුද්ගලයෙකු විසින් හෝ අයිතමයක් මඟින් ඔබේ දුරකථනයේ අගුළු හැරීමට හැකි වනු ඇත.\n2. මුහුණ හඳුනා ගැනීම ඇගිලි සලකුණ, රටාවේ රහස් වචනය, ඩිජිටල් සයිෆරය සහ ස්වයංව අර්ථ දක්වන ලද ඇල්ෆා සංඛයාත්මක කේතයට වඩා අඩුය.\n3. අදුරු අලෝකය සහ පසුබිම් ආලෝක ත්ත්ව, ඇති විට මුහුණ හඳුනාගැනීමේ සාර්ථකත්ව අනුපාතය අඩු වනු ඇත. \n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"මුහුණු හඳුනාගැනීම වඩා හොඳින් භාවිතා කිරීමට, කරුණාකර පහත දෑ කෙරෙහි අවධානය යොමු කරන්න:\n1. ඇතුළු කිරීමේ අදියර, අඳුරු ආලෝකය, දැඩි ආලෝකය සහ පසු ආලෝක පරිසරය මඟ හරින්න, ඇතුළු කෙරෙන රූපයේ පැහැදිලිකම පිළිබඳ සහතික වීමට. \n2. සාර්ථකව ඇතුළු කිරීම සිදු කළ විට, තිරය පණ ගැන්වූ පසුව මුහුණු හඳුනාගැනීම තුළින් දුරකථනයේ අගුළු හැර ගැනීම සිදු කළ හැකිය."</string>
+<string name="security_settings_face_settings_require_livenessmode">"සජීවී මාදිලිය"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"විවෘත කළ විට වෙනත් වස්තූන්වලට වඩා ඔබ ගැන වඩාත් වග බලා ගැනීමට මුහුණු ID, මගින් අගුලු හැරීමේදී ඔබ ඇසිපිය ගැසිය යුතුය"</string>
+<string name="not_support_in_split_mode">"බෙදුම්-තිර මාදිලියෙහි ආධාරක නොවේ"</string>
+</resources>

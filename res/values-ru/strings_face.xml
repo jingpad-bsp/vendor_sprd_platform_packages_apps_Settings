@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Осталось %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Используя функцию распознавания лица, помните о следующем:\n1. Ваш мобильный телефон может быть разблокирован человеком или предметом, который похож на вас.\n2. Распознавание лица менее надежно, чем отпечаток пальца, пароль-узор, цифровой шифр или самостоятельно созданный буквенно-цифровой код.\n3. Эффективность разблокировки экрана с помощью функции распознавания лица будет ниже в темных и светлых местах, а также в условиях контрового освещения.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Для более эффективного распознавания лица учитывайте следующие факторы.\n1. Выбирайте для регистрации лица хорошо освещенное место без задней подсветки. \n2. После регистрации лица вы сможете с его помощью разблокировать телефон при включении экрана."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Определение живого существа"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Для разблокировки с помощью идентификатора лица вам необходимо моргнуть, чтобы подтвердить, что это вы, а не ваша фотография или другой предмет"</string>
+<string name="not_support_in_split_mode">"Не поддерживать регистрацию в режиме разделенного экрана"</string>
+</resources>

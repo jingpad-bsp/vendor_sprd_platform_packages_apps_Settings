@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+        android:title="@string/choose_battery_saver"
+        android:key="battery_saver">
+    <com.sprd.settings.RadioButtonPreference
+            android:key="smart_power_saving_mode"
+            android:title="@string/smart_power_saving_mode"
+            android:summary="@string/smart_power_saving_mode_summary" />
+    <com.sprd.settings.RadioButtonPreference
+            android:key="low_power_mode"
+            android:title="@string/low_power_mode"
+            android:summary="@string/low_power_mode_summary" />
+    <com.sprd.settings.RadioButtonPreference
+            android:key="super_power_saving_mode"
+            android:title="@string/super_power_saving_mode"
+            android:summary="@string/super_power_saving_mode_summary" />
+</PreferenceScreen>

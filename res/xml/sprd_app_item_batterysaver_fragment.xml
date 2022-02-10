@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+        android:key="app_item_batterysaver">
+
+    <SwitchPreference android:key="app_optimized"
+        android:title="@string/app_optimized"
+        android:summaryOn="@string/app_optimized_summaryOn"
+        android:summaryOff="@string/app_optimized_summaryOff" />
+
+    <ListPreference
+        android:key="app_standby_wakeup"
+        android:title="@string/app_standby_wakeup_optimizaiton"
+        android:entries="@array/app_battery_wakeup_list"
+        android:entryValues="@array/app_battery_wakeup_list_values" />
+
+    <ListPreference
+        android:key="app_standby_sleep"
+        android:title="@string/app_standby_sleep_optimizaiton"
+        android:entries="@array/app_battery_wakeup_list"
+        android:entryValues="@array/app_battery_wakeup_list_values" />
+
+     <ListPreference
+        android:key="app_standby_network"
+        android:title="@string/app_standby_network_data"
+        android:entries="@array/app_battery_wakeup_list"
+        android:entryValues="@array/app_battery_wakeup_list_values" />
+</PreferenceScreen>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"Dùng thời gian mạng đã cấp"</item>
+<item>"Sử dụng thời gian do GPS cung cấp"</item>
+<item>"Tắt"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1,5 giây</item>
+<item>"6 giây"</item>
+<item>"Luôn bật"</item>
+<item>"Luôn luôn đóng"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"Đây là thiết lập cho ít hơn 1 phút từ bây giờ."</item>
+<item>"Đây là thiết lập cho <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>từ bây giờ."</item>
+<item>"Đây là thiết lập cho <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>từ bây giờ."</item>
+<item>"Đây là thiết lập cho <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> và <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> từ bây giờ."</item>
+<item>"Đây là thiết lập cho <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> từ bây giờ."</item>
+<item>"Đây là thiết lập cho <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> và <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> từ bây giờ."</item>
+<item>"Đây là thiết lập cho <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> và <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> từ bây giờ."</item>
+<item>"Đây là thiết lập cho <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, và <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> từ bây giờ."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>Tự động</item>
+<item>"Tối ưu hóa"</item>
+<item>"Không tối ưu"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>Tự động</item>
+<item>"Bật"</item>
+<item>"Tắt"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>Tự động</item>
+<item>đóng</item>
+<item>"Không đóng"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Chế độ siêu tiết kiệm"</item>
+<item>"Chế độ tiết kiệm pin"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Chế độ tiết kiệm pin"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Chế độ siêu tiết kiệm"</item>
+<item>"Chế độ tiết kiệm pin"</item>
+<item>"Chế độ tiết kiệm thông minh"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Chế độ tiết kiệm pin"</item>
+<item>"Chế độ tiết kiệm thông minh"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"cập nhật nội bộ"</item>
+<item>"Cập nhật SD"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Dùng thời gian mạng đã cấp"</item>
+<item>"Tắt"</item>
+</string-array>
+</resources>

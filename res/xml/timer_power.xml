@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:settings="http://schemas.android.com/apk/res-auto"
+        android:key="timerpower_settings_screen"
+        android:title="@string/swtichmachine">
+    <PreferenceCategory
+        android:key="power_on_category"
+        android:title="@string/power_on"
+        android:iconSpaceReserved="true">
+        <SwitchPreference
+            android:key="switch_power_on"
+            android:title="@string/power_on"
+            android:iconSpaceReserved="true" />
+        <Preference android:key="time_power_on"
+            android:title="@string/time_power_on"
+            android:iconSpaceReserved="true" />
+        <com.sprd.settings.timerpower.AlarmRepeatPreference
+            android:key="repeat_power_on"
+            android:title="@string/time_repeat"
+            android:dialogTitle="@string/time_repeat"
+            android:negativeButtonText="@android:string/cancel"
+            android:positiveButtonText="@android:string/ok"
+            android:iconSpaceReserved="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="power_off_category"
+        android:title="@string/power_off"
+        android:iconSpaceReserved="true" >
+        <SwitchPreference
+            android:key="switch_power_off"
+            android:title="@string/power_off"
+            android:iconSpaceReserved="true" />
+        <Preference android:key="time_power_off"
+            android:title="@string/time_power_off"
+            android:iconSpaceReserved="true" />
+        <com.sprd.settings.timerpower.AlarmRepeatPreference
+            android:key="repeat_power_off"
+            android:title="@string/time_repeat"
+            android:dialogTitle="@string/time_repeat"
+            android:negativeButtonText="@android:string/cancel"
+            android:positiveButtonText="@android:string/ok"
+            android:iconSpaceReserved="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

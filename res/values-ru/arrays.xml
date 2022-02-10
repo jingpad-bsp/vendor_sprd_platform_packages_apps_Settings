@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC:add for bug1118342 Support " schedule power on/off" start -->
+    <string-array name="alarm_set">
+        <item>"Выполнение операции займет менее 1 минуты."</item>
+        <item>"Выполнение операции займет <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>"</item>
+        <item>"Выполнение операции займет <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>."</item>
+        <item>"Выполнение операции займет <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> и <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>."</item>
+        <item>"Выполнение операции займет <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>."</item>
+        <item>"Выполнение операции займет <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> и <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>."</item>
+        <item>"Выполнение операции займет <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> и <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>."</item>
+        <item>"Выполнение операции займет <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, и <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>."</item>
+    </string-array>
+    <!-- UNISOC:add for bug1118342 Support " schedule power on/off" end -->
+<string-array name="update_choice">
+<item>"внутреннее обновление"</item>
+<item>"обновление с SD-карты"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Режим экономии электроэнергии"</item>
+<item>"Режим умной экономии"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Режим повышенной экономии"</item>
+<item>"Режим экономии электроэнергии"</item>
+<item>"Режим умной экономии"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Режим экономии энергии"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Режим повышенной экономии"</item>
+<item>"Режим экономии электроэнергии"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>Авто</item>
+<item>Закрыть</item>
+<item>"Не закрывать"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Использовать сетевое время"</item>
+<item>Выкл</item>
+</string-array>
+<string-array name="auto_time_entries">
+<item>"Использовать сетевое время"</item>
+<item>"Используйте время, получаемое через GPS "</item>
+<item>Выкл</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>Авто</item>
+<item>"Экономить"</item>
+<item>"Без оптимизации"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>Авто</item>
+<item>"Включить"</item>
+<item>"Отключить"</item>
+</string-array>
+</resources>

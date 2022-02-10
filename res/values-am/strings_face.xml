@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d %% ይቀራል"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ፊት ማወቂያን ሲጠቀሙ እባክዎ የሚከተሉትን ማስታወሻዎች ከግምት ውስጥ ያስገቡ፦\n1. የእርስዎ ሞባይል ስልክ ከእርስዎ ጋር ተመሳሳይ በሆነ ሰው ወይም ንጥል ሊከፈት ይችላል።\n2. ፊት ማወቂያ ከጣት አሻራ፣ የስርዓተ-ጥለት ይለፍ ቃል፣ ዲጂታል ኮድ መፍቻ ወይም በራስ የተገለጸ ፊደል-ቁጥራዊ ኮድ ያነሰ ነው።\n3. በጨለማ፣ ብርሃን እና የጀርባ ብርሃን ሁኔታዎች ላይ ለመክፈት የፊት ማወቂያ የስኬት ብዛት ይቀንሳል።\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"መልክ ማወቂያን በተሻለ ሁኔታ ለመጠቀም እባክዎ የሚከተሉትን ያስተውሉ፦\n1. የመመዝገቢያ መድረክ፣ ከጨለማ ብርሃን ይታቀቡ፣ ጠንካራ ብርሃን እና የጀርባ ብርሃን አካባቢ፣ የግቤት መልክ ምስል ጥራትን ለማረጋገጥ። \n2. ማስመዝገብ ከተሳካ በኋላ ማያው ሲበራ ስልኩ በመልክ ማወቂያ በኩል ሊከፈት ይችላል።"</string>
+<string name="security_settings_face_settings_require_livenessmode">"የሕያውነት ሁነታ"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"ሲከፈት በፊት መታወቂያ ሲያስከፍቱ ከፎቶዎች ወይም ሌሎች ነገሮች ይልቅ እርስዎ መሆንዎን ለማረጋገጥ አይንዎን መጥቀስ አለብዎት"</string>
+<string name="not_support_in_split_mode">"ምዝገባ በተከፈለ ማያ ሁነታ ላይ አይደገፍም"</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(మిగిలి ఉన్నన్ని సార్లు: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"పవర్ సేవ్ ఆప్టిమైజేషన్"</string>
+<string name="calling_enable_data_title">"కాల్ సమయంలో మొబైల్ నెట్‌వర్క్ యాక్సెస్ చేయడానికి అనుమతించు"</string>
+<string name="cannot_disable_two_sim_card">"మీరు ఒకే సమయంలో రెండు సిమ్ లు నిలిపి వేయలేరు."</string>
+<string name="cfu_is_on">"ఎప్పుడూ కాల్ ఫార్వాడ్ చేయి అనేది ఆన్ చేయబడి ఉంది"</string>
+<string name="confirm_data_dialog_message">"డేటా ప్రాప్యత మార్చడం అన్ని LTE సేవలను నిలిపివేస్తుంది.మీరు కొనసాగాలని అనుకుంటున్నారా?"</string>
+<string name="confirm_data_dialog_title">"SIM <xliff:g id="d">%1$d</xliff:g>లో డేటా ఎంపిక చేసుకోండి"</string>
+<string name="data_enabled_during_calls_dialog_msg">"ఎనేబుల్ అయినప్పుడు, VoLTE కాల్స్ సమయంలో దాని స్వంత మొబైల్ డేటా కనెక్షన్ ఉపయోగించి ఇంటర్‌నెట్‌కు నాన్-డేటా SIM యాక్సెస్ చేయవచ్చు.  ఫలితంగా అదనపు డేటా ఛార్జీలు ఉండవచ్చు."</string>
+<string name="dialog_network_selection_message">"మాన్యువల్ ఎంపికలో మీ కొరకు మొబైల్ ఫోన్ ఇతర ఆపరేటర్స్ ని ఎంపిక చేయలేదు. ఎంపిక చేయబడిన ఆపరేటర్ సర్వీస్ కోల్పోయినప్పుడు, కొన్నిసార్లు మీరు మాన్యువల్ ఎంపిక చేయాల్సి ఉంటుంది లేక ఆటోమేటిక్ ఎంపిక మోడ్ కి మార్చండి. రిపీట్ నెంబర్ ను జతపరచడం చేత జత చేయుట నిరాకరించడమైంది"</string>
+<string name="do_not_switch_default_data_subscription">"కాల్ సమయంలో డిఫాల్ట్ సభ్యత్వాన్ని మార్చవద్దు"</string>
+<string name="edit_sim_name_disabled">"మొదట విమానం మోడ్‌ను ఆపివేయండి."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"ప్రస్తుత నెట్‌వర్క్ మోడ్ 4G కి మద్దతు ఇవ్వదు, సక్రియం చేసిన తర్వాత మీరు కాల్స్ చేయలేరు మరియు స్వీకరించలేరు, దయచేసి ఇష్టపడే నెట్‌వర్క్ రకాన్ని 4G కి మార్చండి మరియు మళ్లీ ప్రయత్నించండి"</string>
+<string name="exception_error">"నెట్వర్క్ లేదా SIM కార్డ్ ఎర్రర్."</string>
+<string name="fdn_check_failure">"మీ ఫోన్ యాప్స్ యొక్క ఫిక్సెడ్ దయలింగ్ నంబర్స్ సెట్టింగ్ ఆన్ చేయబడి ఉన్నది. తత్ఫలితముగా, కాల్ కు సంబంధించిన కొన్ని ఫలితములు పని చేయడము లేదు."</string>
+<string name="fingerprint_settings_applock">"ఆప్ లాక్"</string>
+<string name="icc_pin_disabled">"సిమ్ <xliff:g id="card_number">%1$d</xliff:g> PIN డిసేబుల్డ్!"</string>
+<string name="icc_pin_enabled">"సిమ్ <xliff:g id="card_number">%1$d</xliff:g> PIN ఎనేబుల్డ్!"  </string>
+<string name="invalid_subscription_preference_setting">"చెల్లని సిట్టింగ్."</string>
+<string name="low_resolution_power_saving">"తక్కువ రెసల్యూషన్ పవర్ సేవింగ్"</string>
+<string name="low_resolution_power_saving_description">"పవర్ సేవింగ్ కి అవసరమైన విధంగా స్క్రీన్ రిసోల్యూషన్ ని తగ్గించండి"</string>
+<string name="main_card_slot">"PRI."</string>
+<string name="mobile_data_always_online_dialog">"ఎల్లప్పుడూ మొబైల్ డేటాను నిష్క్రియం చేసి ఉండటం వలన కొన్ని అప్లికేషన్లలో కనెక్టివిటీ సమస్యలకు దారితీయవచ్చు.. ఆన్‌లైన్ సమాచారాన్ని అప్‌డేట్ చేయడానికి అప్లికేషన్లలోని మాన్యువల్ రిఫ్రెష్ సదుపాయాన్ని దయచేసి ఉపయోగించండి."</string>
+<string name="mobile_data_always_online_summary">"కొన్ని మొబైల్ నెట్‌వర్క్‌లపై ఎక్కువ బ్యాటరీ శక్తిని ఉపయోగిస్తుంది"</string>
+<string name="mobile_data_always_online_title">"మొబైల్ డేటా ఎల్లప్పుడూ ఆన్లైన్"</string>
+<string name="mobile_data_not_allowed">"నెట్వర్క్ సర్చ్ చేసే సమయంలో మొబైల్ డేటా అందుబాటులో ఉండదు."</string>
+<string name="mobile_select_default_voice_sim">"దయచేసి ముందుగా డిఫాల్ట్ వాయిస్ కార్డును ఎంచుకోండి."</string>
+<string name="network_2G_only">"2G మాత్రమే"</string>
+<string name="network_3G_auto">"3G/2G ఆటో"</string>
+<string name="network_3G_only">"3G మాత్రమే"</string>
+<string name="network_4G_2G">"4G/2G ఆటో"</string>
+<string name="network_4G_3G">"4G/3G ఆటో"</string>
+<string name="network_4G_only">"4G మాత్రమే"</string>
+<string name="network_4g_auto">"4G/3G/2G ఆటో"</string>
+<string name="network_5G">"5G/4G/3G/2Gఆటో"</string>
+<string name="network_5G_only">"5G మాత్రమే"</string>
+<string name="network_gsm_only">"GSM మాత్రమే"</string>
+<string name="network_mode_setting_prompt">"ఆపివేయబడిన తర్వాత ఇది టోగుల్ చేయడానికి అనుమతించబడుతుంది  నోటిఫికేషన్ బార్ నుండి నెట్‌వర్క్ మోడ్‌కు మారుస్తుంది. "</string>
+<string name="network_registration_fail">"నెట్‌వర్క్ రిజిస్ట్రేషన్ విఫలమైంది, ఆటోమేటిక్ సెలెక్షన్ ఫంక్షన్‌ను తెరవాలా?"</string>
+<string name="network_registration_fail_title">"నెట్‌వర్క్ రిజిస్ట్రేషన్ విఫలమైంది"</string>
+<string name="network_wcdma_only">"WCDMA మాత్రమే"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM ఆటో"</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> నంబరు:"</string>
+<string name="preferred_data_roaming_all_networks">అన్ని నెట్ వర్కులు</string>
+<string name="preferred_data_roaming_dialogtitle">"డేటా రోమింగ్"</string>
+<string name="preferred_data_roaming_disable">"నిలిపివేయి"</string>
+<string name="preferred_data_roaming_national">"నేషనల్ రోమింగ్ మాత్రమే"</string>
+<string name="preferred_data_roaming_summary">"నేషనల్ రోమింగ్ మాత్రమే"</string>
+<string name="preferred_data_roaming_title">"డేటా రోమింగ్"</string>
+<string name="primary_sub_summary">"PRI."</string>
+<string name="radio_off_error">"ఈ ఫలితములను చూడడమునకు ముందుగా రేడియో ను ఆన్ చేయండి."</string>
+<string name="reading_settings">"సెటింగులు చదువబడుతున్నాయి..."</string>
+<string name="reset_networks_progress">"ఋ సెట్టింగ్ ను ..."</string>
+<string name="response_error">"నెట్వర్క్ నుంచి అనూహ్యమైన సమాధానము."</string>
+<string name="screen_split_not_support">"మొబైల్ నెట్‌వర్క్ స్ప్లిట్-స్క్రీన్‌తో పని చేయకపోవచ్చు."</string>
+<string name="secondary_card_slot">"SEC."</string>
+<string name="secondary_sub_summary">"SEC."</string>
+<string name="select_during_call_prohibited">"ఈ ఆపరేషన్ కాల్ సమయంలో అనుమతించబడదు."</string>
+<string name="select_lte_prohibited">"ప్రస్తుత ఎంపిక నిషేధించబడింది, దయచేసి 4G ఆన్ చేయండి"</string>
+<string name="select_under_airplane_prohibited">"మొదట విమానం మోడ్‌ను ఆపివేయండి."</string>
+<string name="sim_calls_not_set_up">"ఏర్పాటు కాలేదు"</string>
+<string name="sim_disable_prompt">"సిమ్ యొక్క యాక్టివేషన్ స్థితి మార్చబడుతుంది,ఒకవేళ కొనసాగించాలంటే దయచేసి నిర్ధారించండి?" </string>
+<string name="sim_disabled">"డిజేబుల్ చేయబడింది"</string>
+<string name="simsettings_forced_resizable">"SIM సెట్టింగ్స్‌లో  స్ప్లిట్-స్క్రీన్‌తో పనిచేయవు."</string>
+<string name="smart_dual_sim_hint">"దయచేసి SIM నంబరు అందించండి."</string>
+<string name="smart_dual_sim_number_null">"సిమ్ నంబర్ ఖాళీగా ఉంది."</string>
+<string name="smart_dual_sim_summary">"స్మార్ట్ డ్యూయల్ సిమ్ స్టేటస్‌ను యాజమన్యం చేయండి"</string>
+<string name="smart_dual_sim_title">"స్మార్ట్ డ్యూయల్ సిమ్"</string>
+<string name="smart_dual_sim_warning_message">"స్మార్ట్ డ్యూయల్ సిమ్ ప్రారంభించాలా?\n కొన్ని సర్వీస్ ప్రొవైడర్ల ద్వారా, ఈ ఫంక్షన్ సరిగా పనిచేయకపోవచ్చు లేదా మీరు చార్జ్ చేయబడవచ్చు."</string>
+<string name="smart_forwarding_show_dialog">"దీనిని మరలా చూపించకండి"</string>
+<string name="turn_off_ims_error">"Wi-Fi కాలింగ్ ప్రారంభించినప్పుడు%s ని ఆపివేయలేరు, దయచేసి ముందుగా Wi-Fi కాలింగ్‌ను ఆపివేయండి."</string>
+<string name="updating_settings">"సెటింగులు అప్‌డేట్ అవుతున్నాయి..."</string>
+<string name="uplmn_preference_title">"UPLMN ప్రాధాన్యత"</string>
+<string name="vt_resolution_setting">"VoLTE వీడియో రిజల్యూషన్ ఎంచుకోండి"</string>
+</resources>

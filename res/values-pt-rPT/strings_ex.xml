@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Vezes restantes: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Otimização da poupança de energia"</string>
+<string name="calling_enable_data_title">"Permitir o acesso à rede móvel durante as chamadas"</string>
+<string name="cannot_disable_two_sim_card">Não pode desativar dois cartões SIM em simultâneo</string>
+<string name="cfu_is_on">"A função de reencaminhar sempre a chamada está ligada"</string>
+<string name="confirm_data_dialog_message">"Mudar o acesso de dados vai parar todos os LTE serviços. Se quer continuar?"</string>
+<string name="confirm_data_dialog_title">"Seleccionar Dados no SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Quando ativado, o SIM sem dados pode aceder à Internet com a sua própria ligação de dados móveis durante chamadas VoLTE. Pode acarretar custos adicionais com dados."</string>
+<string name="dialog_network_selection_message">"O telemóvel não irá selecionar outras operações por si no modo de seleção manual. Por vezes terá de fazer a seleção manual novamente ou alterar para o modo de seleção automático quando perder o serviço da operadora selecionada. Pretende selecionar a rede manualmente?"</string>
+<string name="do_not_switch_default_data_subscription">"Não mude a subscrição predefinida durante uma chamada"</string>
+<string name="edit_sim_name_disabled">"Desligue primeiro o modo de avião."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"O modo de rede atual não suporta 4G e após a ativação não será possível efetuar nem receber chamadas. Mude o tipo de rede preferida para 4G e tente novamente."</string>
+<string name="exception_error">"Erro do cartão SIM ou da rede."</string>
+<string name="fdn_check_failure">"A definição Números Autorizados da aplicação do seu Telemóvel está ativada. Por conseguinte, algumas funcionalidades relacionadas com chamadas não estão a funcionar."</string>
+<string name="fingerprint_settings_applock">"Bloquear app"</string>
+<string name="icc_pin_disabled">PIN <xliff:g id="card_number">%1$d</xliff:g> de SIM desativado!</string>
+<string name="icc_pin_enabled">PIN <xliff:g id="card_number">%1$d</xliff:g> de SIM ativado!</string>
+<string name="invalid_subscription_preference_setting">"Definição inválida."</string>
+<string name="low_resolution_power_saving">"Poupança de energia em baixa resolução"</string>
+<string name="low_resolution_power_saving_description">"Baixe a resolução do ecrã conforme necessário para ajudar a poupar energia"</string>
+<string name="main_card_slot">"PRI."</string>
+<string name="mobile_data_always_online_dialog">"Desactivar sempre dados móveis online vai causar problemas de conexão em algumas aplicações. Utilize a função de actualização manual nas aplicações para actualizar os dados online."</string>
+<string name="mobile_data_always_online_summary">"Utiliza mais bateria em algumas redes móveis"</string>
+<string name="mobile_data_always_online_title">"Dados móveis sempre ligados"</string>
+<string name="mobile_data_not_allowed">"Os dados móveis estão indisponíveis durante a pesquisa de rede."</string>
+<string name="mobile_select_default_voice_sim">"Selecione primeiro o cartão SIM de voz predefinido."</string>
+<string name="network_2G_only">"Só 2G"</string>
+<string name="network_3G_auto">"3G/2G automático"</string>
+<string name="network_3G_only">"Apenas 3G"</string>
+<string name="network_4G_2G">"4G/2G automático"</string>
+<string name="network_4G_3G">"4G/3G automático"</string>
+<string name="network_4G_only">"Só 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G Auto"</string>
+<string name="network_5G">"5G/4G/3G/2G (auto)"</string>
+<string name="network_5G_only">"Só 5G"</string>
+<string name="network_gsm_only">"GSM apenas"</string>
+<string name="network_mode_setting_prompt">"É permitido alternar depois de desativar o modo de mudança de rede na barra de notificações."</string>
+<string name="network_registration_fail">"Falha de registo de rede. Deseja ligar a função de selecção automática?"</string>
+<string name="network_registration_fail_title">"Falha de registo de rede"</string>
+<string name="network_wcdma_only">"WCDMA apenas"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM automático"</string>
+<string name="number_sim">"Número do SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g>:"</string>
+<string name="preferred_data_roaming_all_networks">"Todos os redes"</string>
+<string name="preferred_data_roaming_dialogtitle">"Roaming de dados"</string>
+<string name="preferred_data_roaming_disable">"Desativar"</string>
+<string name="preferred_data_roaming_national">"Voar nacional apenas"</string>
+<string name="preferred_data_roaming_summary">"Voar nacional apenas"</string>
+<string name="preferred_data_roaming_title">"Roaming de dados"</string>
+<string name="primary_sub_summary">"PRI."</string>
+<string name="radio_off_error">"Ative o rádio antes de visualizar estas definições."</string>
+<string name="reading_settings">"A ler definições..."</string>
+<string name="reset_networks_progress">a repor\u2026</string>
+<string name="response_error">"Resposta inesperada da rede."</string>
+<string name="screen_split_not_support">"A rede móvel poderá não funcionar em ecrã dividido."</string>
+<string name="secondary_card_slot">"SEC."</string>
+<string name="secondary_sub_summary">"SEC."</string>
+<string name="select_during_call_prohibited">"Esta operação não é permitida durante uma chamada."</string>
+<string name="select_lte_prohibited">"A seleção atual não é permitida. Ative a ligação 4G."</string>
+<string name="select_under_airplane_prohibited">"Desligue primeiro o modo de avião."</string>
+<string name="sim_calls_not_set_up">"Não configurar"</string>
+<string name="sim_disable_prompt">"O estado de activação de SIM será mudado, favor confirme se continua?"</string>
+<string name="sim_disabled">Proibido</string>
+<string name="simsettings_forced_resizable">"As definições do SIM poderão não funcionar em ecrã dividido"</string>
+<string name="smart_dual_sim_hint">"Insira o número do SIM."</string>
+<string name="smart_dual_sim_number_null">"O número do SIM está vazio."</string>
+<string name="smart_dual_sim_summary">"Gerir o estado do SIM Duplo Smart"</string>
+<string name="smart_dual_sim_title">"SIM Duplo Smart"</string>
+<string name="smart_dual_sim_warning_message">"Ativar o SIM duplo inteligente?\nEm alguns fornecedores de serviço, esta função poderá não funcionar corretamente ou implicar custos."</string>
+<string name="smart_forwarding_show_dialog">"Não mostrar novamente"</string>
+<string name="turn_off_ims_error">"Não é possível desligar %s quando as chamadas por Wi-Fi estão ativas. Desligue primeiro as chamadas por Wi-Fi."</string>
+<string name="updating_settings">"A actualizar definições..."</string>
+<string name="uplmn_preference_title">"Preferência de UPLMN"</string>
+<string name="vt_resolution_setting">"Selecionar a resolução de vídeo VoLTE"</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>ਨੈਟਵਰਕ-ਪ੍ਰਦਾਨ ਕੀਤਾ ਸਮਾਂ ਪ੍ਰਯੋਗ ਕਰੋ</item>
+<item>"GPS-ਵੱਲੋਂ ਦਿੱਤਾ ਸਮਾਂ ਵਰਤੋ"</item>
+<item>ਬੰਦ</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>ਨੈਟਵਰਕ-ਪ੍ਰਦਾਨ ਕੀਤਾ ਸਮਾਂ ਪ੍ਰਯੋਗ ਕਰੋ</item>
+<item>ਬੰਦ</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 ਸੈਕਿੰਡ</item>
+<item>6 ਸੈਕਿੰਡ</item>
+<item>ਹਮੇਸ਼ਾ ਚਾਲੂ</item>
+<item>"ਹਮੇਸ਼ਾਂ ਬੰਦ ਕਰੋ"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>ਇਹ ਹੁਣ ਤੋਂ 1 ਮਿਨਟ ਤੋਂ ਘੱਟ ਸਮੇਂ ਲਈ ਸੈਟ ਹੈ।</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ਅਤੇ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ਅਤੇ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ਅਤੇ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, ਅਤੇ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>ਸਵੈਚਾਲਿਤ</item>
+<item>"ਆਪਟੀਮਾਈਜ਼ ਕਰੋ"</item>
+<item>"ਕੋਈ ਅਨੁਕੂਲ ਨਹੀਂ"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>ਸਵੈਚਾਲਿਤ</item>
+<item>ਸਕ੍ਰਿਅ ਕਰੋ</item>
+<item>ਅਸਕ੍ਰਿਅ ਕਰੋ</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>ਸਵੈਚਾਲਿਤ</item>
+<item>ਬੰਦ ਕਰੋ</item>
+<item>"ਬੰਦ ਨਾ ਕਰੋ"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"ਅਲਟ੍ਰਾ ਸੇਵਿੰਗ ਮੋਡ"</item>
+<item>"ਪਾਵਰ ਸੇਵਰ ਮੋਡ"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"ਪਾਵਰ ਸੇਵਰ ਮੋਡ"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"ਅਲਟ੍ਰਾ ਸੇਵਿੰਗ ਮੋਡ"</item>
+<item>"ਪਾਵਰ ਸੇਵਰ ਮੋਡ"</item>
+<item>"ਸਮਾਰਟ ਸੇਵਿੰਗ ਮੋਡ"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"ਪਾਵਰ ਸੇਵਰ ਮੋਡ"</item>
+<item>"ਸਮਾਰਟ ਸੇਵਿੰਗ ਮੋਡ"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"ਅੰਦਰੂਨੀ ਅਪਡੇਟ"</item>
+<item>"SD ਅਪਡੇਟ"</item>
+</string-array>
+</resources>

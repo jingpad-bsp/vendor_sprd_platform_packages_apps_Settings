@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"ពេលវេលាដែលបណ្ដាញផ្ដល់អោយ"</item>
+<item>ប្រើប្រាស់ពេលវេលាដែលផ្តល់ដោយGPS</item>
+<item>បិទ</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"ពេលវេលាដែលបណ្ដាញផ្ដល់អោយ"</item>
+<item>បិទ</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 វិនាទី"</item>
+<item>"6 វិនាទី"</item>
+<item>បើកប្រើជានិច្ច</item>
+<item>បិទចោលរហូត</item>
+</string-array>
+<string-array name="alarm_set">
+<item>វានឹងមានសុពលភាពមិនដល់១នាទីបន្ទាប់ពីការកំណត់។</item>
+<item>"នេះត្រូវបានកំណត់សម្រាប់ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ថ្ងៃពីពេលនេះតទៅ។"</item>
+<item>"នេះត្រុវបានកំណត់សម្រាប់ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>ម៉ោងពីពេលនេះទៅ"</item>
+<item>"នេះត្រុវបានកំណត់សម្រាប់ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>ថ្ងៃនិង <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ម៉ោង ពីពេលនេះទៅ។"</item>
+<item>"នេះត្រុវបានកំណត់សម្រាប់<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>នាទីចាប់ពីពេលនេះទៅ។"</item>
+<item>"នេះត្រុវបានកំណត់សម្រាប់ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> និង <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> នាទីពីពេលនេះទៅ។"</item>
+<item>"នេះត្រុវបានកំណត់សម្រាប់ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>និង  <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>នាទីពីពេលនេះទៅ។"</item>
+<item>"នេះត្រុវបានកំណត់សម្រាប់ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>ថ្ងៃ, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, និង <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> នាទីពីពេលនេះទៅ។"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>ស្វ័យប្រវត្តិ</item>
+<item>"បង្កើនប្រសិទ្ធភាព"</item>
+<item>"គ្មានការធ្វើឲ្យប្រសើរទេ"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>ស្វ័យប្រវត្តិ</item>
+<item>"បើក"</item>
+<item>"បើកដំណើរការ"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>ស្វ័យប្រវត្តិ</item>
+<item>បិទ</item>
+<item>"កុំ​បិទ"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"ទម្រង់​សន្សំ​សំចៃ​ខ្លាំង"</item>
+<item>"ទម្រង់​កម្មវិធី​សន្សំ​ថាមពល"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"​ទម្រង់​កម្មវិធី​សន្សំ​ថាមពល"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"ទម្រង់​សន្សំ​សំចៃ​ខ្លាំង"</item>
+<item>"ទម្រង់​កម្មវិធី​សន្សំ​ថាមពល"</item>
+<item>"ទម្រង់​នៃការ​សន្សំ​ឆ្លាត"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"ទម្រង់​កម្មវិធី​សន្សំ​ថាមពល"</item>
+<item>"ទម្រង់​នៃការ​សន្សំ​ឆ្លាត"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"ការធ្វើបច្ចុប្បន្នភាពខាងក្នុង"</item>
+<item>"ការធ្វើបច្ចុប្បន្នភាព SD"</item>
+</string-array>
+</resources>

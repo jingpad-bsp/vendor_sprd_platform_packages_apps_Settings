@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Mbetur %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Kur përdor njohjen e fytyrës, të lutem mbaj parasysh shënimet e mëposhtme:\n1. Telefoni yt celular mund të zhbllokohet nga një person ose objekt i ngjashëm me ty.\n2. Njohja e fytyrës ka siguri më të ulët sesa gjurma e gishtit, fjalëkalimi me model, kodet me numra dhe kodi alfanumerik i përcaktuar nga ty.\n3. Në kushte errësire, me dritë dhe ndriçim në sfond, niveli i suksesit i njohjes së fytyrës për zhbllokimin e ekranit do të zvogëlohet.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Për të përdorur më mirë njohjen e fytyrës, mbaj parasysh ato më poshtë:\n1. Në fazën e regjistrimit, shmang dritën e errët, dritën e fortë dhe ambientin me dritë në sfond, për të garantuar pastërtinë e imazhit të fytyrës. \n2. Pas regjistrimit me sukses, telefoni mund të zhbllokohet me anë të njohjes së fytyrës kur ekrani është i ndezur."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Modaliteti i gjallërisë"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Kur hapet, duhet të pulitësh sytë kur bën zhbllokim me Face ID, për të siguruar që je ti vetë dhe një fotografi apo objekt tjetër"</string>
+<string name="not_support_in_split_mode">"Nuk mbështet regjistrimin në modalitetin me ekran të ndarë"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"অৱশিষ্ট %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"মুখমণ্ডল চিনাক্তকৰণ ব্যৱহাৰ কৰে, অনুগ্ৰহ কৰি উল্লেখিত টোকাবোৰ মনত ৰাখিব:\n1. আপোনাৰ ম’বাইল ফোন আপোনাৰ সৈতে মিল থকা ব্যক্তি বা আইটেমৰ দ্বাৰা আনলক কৰা হ’ব পাৰে।\n2. মুখমণ্ডলৰ চিনান্তকৰণ আঙুলিৰছাপ, পেটাৰ্ণ পাছৱৰ্ড, ডিজিটেল সংকেতলিপি আৰু স্ব-নিৰ্ধাৰিত বৰ্ণসাংখ্যিক কোডতকৈ নিম্ন হয়।\n3. এন্ধাৰ, পোহৰ আৰু বেকলাইটিং অৱস্থাত আনলক কৰিবলৈ মুখমণ্ডলৰ সফলতাৰ হাৰ হ্ৰাস হয়।\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"মুখমণ্ডলৰ চিনাক্তকৰণক ভালদৰে ব্যৱহাৰ কৰিবলৈ, অনুগ্ৰহ কৰি তলত দিয়াবোৰ নোট কৰক:\n1. নামভৰ্তিৰ পৰ্যায়ত, স্পষ্টতা নিশ্চিত কৰিবলৈ গাঢ় ক\'লা পোহৰ, শক্তিশালী পোহৰ আৰু বেকলাইটিং পৰিৱেশ পৰিহাৰ কৰক। \n2. নামভৰ্তি সফল হ\'বলৈ, মুখমণ্ডলৰ চিনাক্তকৰণৰ মাধ্যমেৰে ফোনটো আনলক কৰিব পৰা যায়"</string>
+<string name="security_settings_face_settings_require_livenessmode">"লিভনেছ মোড"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"যেতিয়া খুলে, ফেচ id ৰ সৈতে আন-ল’ক কৰিবলৈ আপুনি আপোনাৰ চকুযুৰি জপাবলৈ প্ৰয়োজন হয়, এইয়া নিশ্চিত কৰিবলৈ যাতে অন্য ফটোসমূহ বা অন্য কোনো বস্তু নোহোৱাকৈ আপুনি সেইয়া নিজে হয়|"</string>
+<string name="not_support_in_split_mode">"স্প্লিট-স্ক্ৰীণ মোডত এনৰোলমেণ্ট সমৰ্থিত নহয়"</string>
+</resources>

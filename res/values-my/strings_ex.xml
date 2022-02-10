@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(ကျန်ရှိသောကြိမ်ရေ- \"<xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="cannot_disable_two_sim_card">"သင်သည် SIM ကတ်အားလုံးကို တချိန်တည်း ပိတ်၍ မရပါ"</string>
+<string name="cfu_is_on">"ဖုန်းလွှဲခြင်းကို အမြဲ ဖွင့်သည်"</string>
+<string name="confirm_data_dialog_message">"ဒေတာချိတ်ဆက်မှုသို့ ပြောင်းခြင်းဖြင့် LTE ဝန်ဆောင်မှုများအားလုံး ရပ်သွားပါမည်၊ သင် ဆက်လုပ်လိုပါသလား။"</string>
+<string name="confirm_data_dialog_title">"SIM <xliff:g id="d">%1$d</xliff:g> တွင် ဒေတာကို ရွေးချယ်ပေးပါ"</string>
+<string name="dialog_network_selection_message">"ကိုယ်တိုင်ရွေးချယ်မုဒ်တွင် မိုဘိုင်းဖုန်းသည် အခြားအော်ပရေတာများကို သင့်အတွက် ရွေးချယ်မည် မဟုတ်ပါ။ တစ်ခါတစ်ရံတွင် သင်က ကိုယ်တိုင် ရွေးချယ်ခြင်းလုပ်ရမည် သို့မဟုတ် ရွေးချယ်ထားသော အော်ပရေတာ၏ ဝန်ဆောင်မှုကို သင် မရသောအချိန်တွင် အလိုအလျောက် ရွေးချယ်မုဒ်သို့ ပြန်ပြောင်းပါ။ ကွန်ရက်ကို သင်က ကိုယ်တိုင်ရွေးချယ်လိုပါသလား။"</string>
+<string name="do_not_switch_default_data_subscription">"ဖုန်းခေါ်စဉ်အတွင်း ပုံသေ စာရင်းပေးသွင်းခြင်းကို ကူးပြောင်း၍ မရပါ"</string>
+<string name="edit_sim_name_disabled">"လေယာဉ်မုဒ်ကို ဦးစွာ ပိတ်ပေးပါ။"</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"လက်ရှိကွန်ရက်မုဒ်သည် 4G ကို ပံ့ပိုးမပေးပါ၊ စဖွင့်သုံးပြီးနောက် သင်သည် ဖုန်းများခေါ်ဆိုခြင်း၊ လက်ခံခြင်း ပြုလုပ်နိုင်မည် မဟုတ်ပါ၊ ဦးစားပေး ကွန်ရက်အမျိုးအစားကို 4G သို့ ပြောင်းပြီး ထပ်ကြိုးစားပါ"</string>
+<string name="exception_error">"ကွန်ယက် သို့မဟုတ် SIM ကဒ် အမှားပြနေသည်"</string>
+<string name="fdn_check_failure">"ဖုန်းအေပီပီနှင့် ချိတ်ဆက်ထားသည့်နံပါတ် ဆက်တင်ကိုဖွင့်ထားသည်။ အကျိုးရလဒ်အဖြစ် ဖုန်းနှင့် ပတ်သက်သည့် လက္ခဏာများ အလုပ်လုပ်နေမည်။"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN ပိတ်ထားသည်။"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN ဖွင့်ထားသည်။"</string>
+<string name="invalid_subscription_preference_setting">"မမှန်သော ဆက်တင်။"</string>
+<string name="mobile_data_always_online_dialog">"မိုဘိုင်းဒေတာသုံး၍ အွန်လိုင်းအမြဲဖွင့်ရန်ကို ပိတ်ခြင်းဖြင့် အချို့အပလီကေးရှင်းများတွင် ချိတ်ဆက်နိုင်စွမ်းပြဿနာများကို ဖြစ်စေနိုင်သည်။ အွန်လိုင်းဒေတာကို အပ်ဒိတ်လုပ်ရန် အပလီကေးရှင်းများထဲတွင် ကိုယ်တိုင် အသစ်မွမ်းမံ အင်္ဂါရပ်ကို သုံးပေးပါ။"</string>
+<string name="mobile_data_always_online_summary">"မိုဘိုင်းကွန်ရက်အချို့ပေါ်တွင် ဘက်ထရီအား ပိုသုံးသည်"</string>
+<string name="mobile_data_always_online_title">"မိုဘိုင်းဒေတာသုံး၍ အမြဲ အွန်လိုင်းဖွင့်ရန်"</string>
+<string name="mobile_data_not_allowed">"ကွန်ရက်ရှာဖွေမှုအတွင်း မိုဘိုင်းဒေတာကို သုံးမရနိုင်ပါ။"</string>
+<string name="mobile_select_default_voice_sim">"ပုံသေ အသံကတ်ကို ဦးစွာ ရွေးပေးပါ။"</string>
+<string name="network_2G_only">"2G သီးသန့်"</string>
+<string name="network_3G_auto">"3G/2G အော်တို"</string>
+<string name="network_3G_only">"3G သီးသန့်"</string>
+<string name="network_4G_2G">"4G/2G အော်တို"</string>
+<string name="network_4G_3G">"4G/3G အော်တို"</string>
+<string name="network_4G_only">"4G သီးသန့်"</string>
+<string name="network_4g_auto">"4G/3G/2G အော်တို"</string>
+<string name="network_5G">"5G/4G/3G/2G အော်တို"</string>
+<string name="network_5G_only">"5G သီးသန့်"</string>
+<string name="network_gsm_only">"GSM သီးသန့်"</string>
+<string name="network_mode_setting_prompt">"အသိပေးဘားမှ ကွန်ရက်ကူးပြောင်းရေးမုဒ်ကို ပိတ်ပြီးနောက် ၎င်းအား ဖွင့်-ပိတ်ရန် ခွင့်ပြုသည်။"</string>
+<string name="network_registration_fail">"ကွန်ရက်မှတ်ပုံတင်ခြင်း မအောင်မြင်ပါ၊ အလိုအလျောက် ရွေးချယ်သည့် လုပ်ဆောင်ချက်ကို ဖွင့်မလား။"</string>
+<string name="network_registration_fail_title">"ကွန်ရက်မှတ်ပုံတင်ခြင်း မအောင်မြင်ပါ"</string>
+<string name="network_wcdma_only">"WCDMA သီးသန့်"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM အော်တို"</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> နံပါတ်-"</string>
+<string name="preferred_data_roaming_all_networks">"ကွန်ရက် အားလုံး"</string>
+<string name="preferred_data_roaming_dialogtitle">"ပြည်ပကွန်ယက်သို့ ဝင်ရောက်ခြင်း"</string>
+<string name="preferred_data_roaming_disable">"မလုပ်ဆောင်နိုင်"</string>
+<string name="preferred_data_roaming_national">"ပြည်တွင်း ရွမ်းမင်း သီးသန့်"</string>
+<string name="preferred_data_roaming_summary">"ပြည်တွင်း ရွမ်းမင်း သီးသန့်"</string>
+<string name="preferred_data_roaming_title">"ပြည်ပကွန်ယက်သို့ ဝင်ရောက်ခြင်း"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"ဤဆက်တင်များကို မကြည့်ရှုခင် ရေဒီယိုကို ဖွင့်ပါ။"</string>
+<string name="reading_settings">"ဆက်တင်များ ဖတ်နေသည်..."</string>
+<string name="response_error">"ကွန်ယက်မှ မမျှော်လင့်ထားသော တုံ့ပြန်ချက်"</string>
+<string name="screen_split_not_support">"အကန့်ခွဲ စခရင်မုဒ်တွင် မိုဘိုင်းကွန်ရက်သည် အလုပ်မလုပ်နိုင်ပါ။"</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"ဖုန်းခေါ်နေစဉ်အတွင်း ဤဆောင်ရွက်မှုကို ခွင့်မပြုပါ။"</string>
+<string name="select_lte_prohibited">"လက်ရှိရွေးချယ်မှုကို တားမြစ်ထားသည်၊ 4G ကို ဖွင့်ပေးပါ။"</string>
+<string name="select_under_airplane_prohibited">"လေယာဉ်မုဒ်ကို ဦးစွာ ပိတ်ပေးပါ။"</string>
+<string name="sim_disable_prompt">"SIM ကို အသက်သွင်းခြင်း အခြေအနေ ပြောင်းပါလိမ့်မည်၊ ကျေးဇူးပြု၍ ဆက်လက်လုပ်ဆောင်ရန် အတည်ပြုမည်လား?"</string>
+<string name="sim_disabled">"ပိတ်ပြီး"</string>
+<string name="smart_dual_sim_hint">"SIM နံပါတ် ထည့်ပေးပါ။"</string>
+<string name="smart_dual_sim_number_null">"SIM နံပါတ် ဗလာဖြစ်သည်။"</string>
+<string name="smart_dual_sim_summary">"စမတ် SIM နှစ်ကတ် အခြေအနေကို စီမံပေးသည်"</string>
+<string name="smart_dual_sim_title">"စမတ် SIM နှစ်ကတ်"</string>
+<string name="smart_dual_sim_warning_message">"စမတ် SIM နှစ်ကတ်ကို ဖွင့်မလား။\nဤလုပ်ဆောင်ချက်သည် အချို့သော ဝန်ဆောင်မှုပေးသူများနှင့် အဆင်ပြေပြေ အလုပ်လုပ်မည် မဟုတ်ပါ သို့မဟုတ် သင့်အား ငွေကောက်ခံနိုင်သည်။"</string>
+<string name="smart_forwarding_show_dialog">"ဤအရာကို ထပ်မပြပါနှင့်"</string>
+<string name="turn_off_ims_error">"Wi-Fi ဖုန်းခေါ်ခြင်းကို ဖွင့်ထားချိန်တွင် %s ကို ပိတ်၍ မရပါ၊ Wi-Fi ဖုန်းခေါ်ခြင်းကို ဦးစွာ ပိတ်ပေးပါ။"</string>
+<string name="updating_settings">"ဆက်တင်များ အပ်ဒိတ်လုပ်နေသည်..."</string>
+<string name="uplmn_preference_title">"UPLMN ဦးစားပေး"</string>
+<string name="vt_resolution_setting">"VoLTE ဗီဒီယို ပုံချဲ့အားကို ရွေးချယ်ပေးပါ"</string>
+</resources>

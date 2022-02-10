@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Mga natitirang oras: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Pag-optimize ng power saving"</string>
+<string name="calling_enable_data_title">"Payagan ang pag-access sa mobile network habang tumatawag"</string>
+<string name="cannot_disable_two_sim_card">"Hindi ka maaaring mag-disable ng dalawang SIM card nang sabay"</string>
+<string name="cfu_is_on">"Ang tawag pasulong ay laging naka-ON"</string>
+<string name="confirm_data_dialog_message">"Pagbabago ng pag-akses ng datos ay nagpapahinto ang lahat ng LTE na mga serbisyo. Gusto mong magpatuloy?"</string>
+<string name="confirm_data_dialog_title">"Piliin ang Datos Sa SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Kapag naka-enable, ang SIM na walang data ay maaaring i-access ang Internet gamit ang sarili nitong koneksyon sa mobile data habang nasa mga VoLTE na pagtawag. Maaari itong magresulta sa mga karagdagang singil sa data."</string>
+<string name="dialog_network_selection_message">"Ang mobile phone ay hindi pipili ng iba pang operator para sa iyo sa mode na manual na pagpili. Paminsan-minsan, kailangan mong gawing muli ang manual na pagpili o bumalik sa mode na awtomatikong pagpili kapag nawala mo ang serbisyo o ang napiling operator. Gusto mo bang manual na pumili ng network?"</string>
+<string name="do_not_switch_default_data_subscription">"Huwag palitan ang default na subscription sa panahon ng tawag"</string>
+<string name="edit_sim_name_disabled">"I-off muna ang airplane mode."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Hindi sinusuportahan ng kasalukuyang network mode ang 4G, hindi ka na makakatawag at makakasagot ng tawag pagkatapos ng pag-activate, mangyaring gawing 4G ang gustong uri ng network at subukan ulit"</string>
+<string name="exception_error">"Error sa Network o SIM card."</string>
+<string name="fdn_check_failure">"Naka-on ang setting ng mga Fixed Dialing Number ng iyong app ng Telepono. Bilang resulta, hindi gumagana ang ilang tampok na nauugnay sa pagtawag."</string>
+<string name="fingerprint_settings_applock">"App lock"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> Na-disable ang PIN!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> Na-enable ang PIN!"</string>
+<string name="invalid_subscription_preference_setting">"Invalid na setting."</string>
+<string name="low_resolution_power_saving">"Mababang resolution na power saving"</string>
+<string name="low_resolution_power_saving_description">"Babaan ang resolution ng screen kung kinakailangan para makatulong na makatipid ng power"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Ang palaging di pagpagana sa online na mobile datos ay maging sanhi sa mga problema ng pagkokonekta sa ibang mga aplikasyon. Mangyari gamitin ang manwal na pagsasariwang katangian sa mga aplikasyon upang i-apdeyt ang online na datos."</string>
+<string name="mobile_data_always_online_summary">"Gumagamit ng mas maraming lakas ng baterya sa ibang mobile na mga network"</string>
+<string name="mobile_data_always_online_title">"Datos ng mobayl ay palaging naka-onlayn"</string>
+<string name="mobile_data_not_allowed">"Hindi available ang mobile data sa paghahanap sa network."</string>
+<string name="mobile_select_default_voice_sim">"Pakipili muna ang default na voice card."</string>
+<string name="network_2G_only">"2G lamang"</string>
+<string name="network_3G_auto">"3G/2G auto"</string>
+<string name="network_3G_only">"3G lang"</string>
+<string name="network_4G_2G">"4G/2G auto"</string>
+<string name="network_4G_3G">"4G/3G auto"</string>
+<string name="network_4G_only">"4G lamang"</string>
+<string name="network_4g_auto">"4G/3G/2G Auto"</string>
+<string name="network_5G">"5G/4G/3G/2G auto"</string>
+<string name="network_5G_only">"5G lang"</string>
+<string name="network_gsm_only">GSM lamang</string>
+<string name="network_mode_setting_prompt">"Pinapayagan itong mag-toggle pagkatapos na ma-off ang paglilipat ng mode ng network mula sa notification bar."</string>
+<string name="network_registration_fail">"Ang pagrehistro ng network ay bigo, kung bubuksan ang awtomatikong punsyon na pagpipilian?"</string>
+<string name="network_registration_fail_title">"Ang pagrehistro ng network ay bigo"</string>
+<string name="network_wcdma_only">WCDMA lamang</string>
+<string name="network_wcdma_pref">"WCDMA/GSM auto"</string>
+<string name="number_sim">"Numero ng <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> SIM:"</string>
+<string name="preferred_data_roaming_all_networks">Lahat ng network</string>
+<string name="preferred_data_roaming_dialogtitle">"Data roaming"</string>
+<string name="preferred_data_roaming_disable">"I-disable"</string>
+<string name="preferred_data_roaming_national">"Pambansang roming lamang"</string>
+<string name="preferred_data_roaming_summary">"Pambansang roming lamang"</string>
+<string name="preferred_data_roaming_title">"Data roaming"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"Mangyaring i-on ang radyo bago tingnan ang mga setting na ito."</string>
+<string name="reading_settings">"Mga seting sa pagbabasa..."</string>
+<string name="reset_networks_progress">"nagre-reset\u2026"</string>
+<string name="response_error">"Hindi inaasahang tugon mula sa network."</string>
+<string name="screen_split_not_support">"Maaaring hindi gumana sa split-screen ang mobile network."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"Hindi pinapayagan ang operasyong ito habang tumatawag."</string>
+<string name="select_lte_prohibited">"Ipinagbabawal ang kasalukuyang napili, paki-on ang 4G."</string>
+<string name="select_under_airplane_prohibited">"I-off muna ang airplane mode."</string>
+<string name="sim_calls_not_set_up">"Hindi naka-set up"</string>
+<string name="sim_disable_prompt">"Ang Sim na aktibasyon ay nagbago ng estado, mangyaring kumpirmahin kung magpapatuloy?"</string>
+<string name="sim_disabled">Di-gumagana</string>
+<string name="simsettings_forced_resizable">"Maaaring hindi gumana sa split-screen ang Mga Setting ng SIM."</string>
+<string name="smart_dual_sim_hint">"Paki-input ang numero ng SIM."</string>
+<string name="smart_dual_sim_number_null">"Walang laman ang numero ng SIM."</string>
+<string name="smart_dual_sim_summary">"Pamahalaan ang kalagayan ng Dual SIM na Smart"</string>
+<string name="smart_dual_sim_title">"Dual SIM na Smart"</string>
+<string name="smart_dual_sim_warning_message">"I-enable ang Smart Dual SIM?\nSa ilang provider ng serbisyo, maaaring hindi gumana nang maayos ang function na ito o maaaring magkaroon ng singilin sa pag-enable nito."</string>
+<string name="smart_forwarding_show_dialog">"Huwag ito ipakita muli"</string>
+<string name="turn_off_ims_error">"Hindi mao-off ang %s kapag naka-enable ang pagtawag sa pamamagitan ng Wi-Fi, paki-off muna ang pagtawag sa pamamagitan ng Wi-Fi."</string>
+<string name="updating_settings">"Nag-aapdeyt ng mga seting..."</string>
+<string name="uplmn_preference_title">"Kagustuhan sa UPLMN"</string>
+<string name="vt_resolution_setting">"Piliin ang resolution ng video ng VoLTE"</string>
+</resources>

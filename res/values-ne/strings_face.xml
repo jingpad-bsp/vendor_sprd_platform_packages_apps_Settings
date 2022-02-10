@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"बाँकी %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"अनुहार मान्यता प्रयोग गर्दछ, कृपया निम्नलाई ध्यान राख्नुहोस्:\n1. तपाईको मोबाइल फोन तपाई जस्तै व्यक्ति वा वस्तुले अनलक गर्न सक्नेछ।\n2. अनुहार मान्यता फिंगरप्रिन्ट, प्याटर्न पासवर्ड, डिजिटल सिफर र स्व-परिभाषित अल्फान्युमेरिक कोड भन्दा न्यून हुन्छ।\n3. अँध्यारो, उज्यालो र ब्याकलाइटिङ अवस्थाहरुमा, अनुहार मान्यताको सफलताको दर घट्नेछ।\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"अनुहार पहिचानको राम्रो प्रयोगको लागि, कृपया निम्न नोट गर्नुहोस्: \n1. ईन्रोलिंग चरण, गाढा बत्ती, कडा प्रकाश र ब्याकलाईटिंग वातावरणबाट बच्नुहोस्, इनपुट फेस छवि स्पष्टताको सुनिश्चित गर्न। \n2. भर्ना सफल भएपछि, फोन अनुहार पहिचान मार्फत अनलक गर्न सकिन्छ जब स्क्रिन खोल्दैछ। "</string>
+<string name="security_settings_face_settings_require_livenessmode">"जीवन्तता मोड"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"खुल्ला हुँदा, अनुहार आईडीद्वारा अनलक गर्न तपाईको फोटो वा अन्य वस्तुहरुको साटो तपाई आफै हो भनेर सुनिश्चित गर्न, तपाईले आफ्नो आँखा झिम्क्याउनुपर्छ"</string>
+<string name="not_support_in_split_mode">"स्प्लिट-स्क्रिन मोडमा नामांकनलाई समर्थन गर्दैन"</string>
+</resources>

@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="about_summary">"Android <xliff:g id="VERSION">%1$s</xliff:g>"</string>
+<string name="accessibility_display_title">"การแสดงผล"</string>
+<string name="accessibility_global_gesture_preference_description">"เมื่อเปิดคุณลักษณะนี้ คุณจะสามารถเปิดใช้งานคุณลักษณะการเข้าถึงได้อย่างรวดเร็วใน 2 ขั้นตอนนี้:\n\nขั้นตอนที่ 1: กดปุ่มเปิด/ปิดค้างไว้จนกว่าคุณจะได้ยินเสียงหรือมีการสั่น\n\nขั้นตอนที่ 2: ใช้ 2 นิ้วแตะค้างไว้จนกว่าคุณจะได้ยินการยืนยันด้วยเสียง\n\nหากอุปกรณ์นี้มีผู้ใช้หลายคน การใช้แป้นพิมพ์ลัดนี้บนหน้าจอล็อกจะเปิดใช้การเข้าถึงชั่วคราวจนกว่าจะมีการปลดล็อกอุปกรณ์"</string>
+<string name="accessibility_global_gesture_preference_summary_off">"ปิด"</string>
+<string name="accessibility_global_gesture_preference_summary_on">"เปิด"</string>
+<string name="accessibility_services_title">"บริการ"</string>
+<string name="accessibility_system_title">"ระบบ"</string>
+<string name="accessibility_toggle_speak_password_preference_title">"พูดรหัสผ่าน"</string>
+<string name="active_input_method_subtypes">"วิธีการป้อนข้อมูลที่ใช้งานอยู่"</string>
+<string name="agps_config_help_tailebar">ช่วยเหลือ AGPS</string>
+<string name="agps_config_help_text">การใช้ AGPS จะมีค่าธรรมเนียมโรมมิ่งระหว่างประเทศหากคุณเลือกเปิดเครือข่ายทั้งหมดใน AGPS ใช้งานเมื่อโทรศัพท์ของคุณเป็นโรมมิ่งระหว่างประเทศ</string>
+<string name="agps_enable_default_set_button">"การตั้งค่าเริ่มต้น"</string>
+<string name="agps_enable_default_set_text">"คลิกเพื่อเรียกคืนค่าเริ่มต้น."</string>
+<string name="agps_enable_option_all">ทุกเครือข่าย</string>
+<string name="agps_enable_option_none">"อย่าใช้ AGPS"</string>
+<string name="agps_enable_option_registered">ลงทะเบียนเครือข่าย</string>
+<string name="agps_enable_option_tailebar">ตัวเลือกเปิดใช้AGPS</string>
+<string name="alarm_alread_exist">"มีการตั้งเวลาเปิด/ปิดเครื่อง <xliff:g id="time">%s</xliff:g> อยู่แล้ว โปรดตั้งเวลาอื่น"</string>
+<string name="alarm_klaxon_service_desc">"บริการเล่นเสียงสำหรับการตั้งปลุกที่ตั้งไว้ใน DeskClock"</string>
+<string name="alarm_repeat">"ทำซ้ำ"</string>
+<string name="allow_auto_run">"ได้รับอนุญาต"</string>
+<string name="android_beam_disabled_summary">"ไม่สามารถใช้งานได้เนื่องจาก NFC ปิดอยู่"</string>
+<string name="apn_popup_change">"เปลี่ยน"</string>
+<string name="apn_popup_close">ปิด</string>
+<string name="apn_popup_summary">"เพื่อให้การเชื่อมต่อมีประสิทธิภาพ โปรดเลือกการตั้งค่าเริ่มต้นสำหรับอินเทอร์เน็ตSIMการ์ดของคุณ. โปรดทราบอาจมีเรียกเก็บค่าใช้จ่ายข้อมูลโดยผู้ประกอบการเมื่อมีการเชื่อมต่อข้อมูลที่ใช้งาน."</string>
+<string name="apn_popup_title">"กำหนดค่า APN"</string>
+<string name="app_allow">"อนุญาต"</string>
+<string name="app_as_close_success">"การเรียกใช้งานเสริมจากแอพ <xliff:g id="LABEL1">%1$s</xliff:g> สำหรับ <xliff:g id="LABEL1">%2$s</xliff:g> สำเร็จ"</string>
+<string name="app_as_launch">"แอพสำรองเริ่มทำงาน"</string>
+<string name="app_as_launch_count_boot">"จำนวนครั้งที่เรียกใช้หลังจากการบูต:  <xliff:g id="count">%1$s</xliff:g> ครั้ง เวลาที่เรียกใช้ครั้งล่าสุด: <xliff:g id="time">%2$s</xliff:g>"</string>
+<string name="app_as_launch_count_total">"จำนวนครั้งที่เรียกใช้รวม: <xliff:g id="count">%1$s</xliff:g> ครั้ง เวลาที่เรียกใช้ครั้งล่าสุด: <xliff:g id="time">%2$s</xliff:g>"</string>
+<string name="app_as_launch_detail_allow">"อนุญาตให้แอพพลิเคชั่นอื่นๆ เรียกใช้แอพพลิเคชั่นนี้ได้"</string>
+<string name="app_as_launch_detail_forbid">"ห้ามไม่ให้แอพพลิเคชั่นอื่นๆ เรียกใช้แอพพลิเคชั่นนี้"</string>
+<string name="app_as_launch_disable">"ห้ามไม่ให้ <xliff:g id="LABEL1">%2$s</xliff:g> เรียกใช้แอพพลิเคชั่น <xliff:g id="LABEL1">%1$s</xliff:g>"</string>
+<string name="app_as_launch_enable">"อนุญาตให้ <xliff:g id="LABEL1">%2$s</xliff:g> เรียกใช้แอพพลิเคชั่น <xliff:g id="LABEL1">%1$s</xliff:g> ได้"</string>
+<string name="app_as_lunch">"การเริ่มการทำงานของแอพระดับรอง"</string>
+<string name="app_as_lunch_optimization">"การเริ่มการทำงานของแอพระดับรอง"</string>
+<string name="app_as_no_records">"ไม่มีบันทึก"</string>
+<string name="app_as_record">"บันทึก"</string>
+<string name="app_as_warning_noselected">"ไม่มีแอพพลิเคชั่นที่เรียกใช้โดยแอพพลิเคชั่นอื่น"</string>
+<string name="app_as_warning_selected">"อนุญาตให้แอพพลิเคชั่นอื่นสามารถเรียกใช้แอพพลิเคชั่นได้ <xliff:g id="LABEL1">%1$s</xliff:g> แอพ ซึ่งอาจทำให้สิ้นเปลืองพลังงาน และทำให้โทรศัพท์ทำงานช้า และเกิดปัญหาอื่นๆ แนะนำให้ห้ามการเรียกใช้งานเสริมจากแอพ"</string>
+<string name="app_auto">"แอพแบบอัตโนมัติ"</string>
+<string name="app_auto_run_management">"การจัดการการเริ่มการทำงานอัตโนมัติ"</string>
+<string name="app_auto_run_optimization">"การเริ่มการทำงานอัตโนมัติสำหรับแอพ"</string>
+<string name="app_battery_saver_manager">"ตัวเพิ่มประสิทธิภาพแอปสแตนด์บาย"</string>
+<string name="app_battery_saving_setting">"การตั้งค่าแบตเตอรี่สำหรับแอพ"</string>
+<string name="app_data_usage">"การใช้ข้อมูลแอป"</string>
+<string name="app_disable_dlg_title">"ปิดใช้งานแอพที่ติดตั้งในระบบหรือไม่?"</string>
+<string name="app_disable_notifications_dlg_text">"หากคุณปิดการแจ้งเตือนสำหรับแอพนี้ คุณอาจพลาดการแจ้งเตือนและการอัพเดตที่สำคัญ"</string>
+<string name="app_forward_locked">"แอพมีการป้องกันการคัดลอก"</string>
+<string name="app_list">"รายการแอพ"</string>
+<string name="app_not_allow">"ไม่อนุญาต"</string>
+<string name="app_ops_settings">"App Ops"</string>
+<string name="app_optimized">"ปรับแอพให้เหมาะสมแล้ว"</string>
+<string name="app_optimized_summaryOff">"ปิดการปรับแอพให้เหมาะสมแล้ว"</string>
+<string name="app_optimized_summaryOn">"เปิดใช้การปรับแอพให้เหมาะสมแล้ว"</string>
+<string name="app_overlay_permission_preference">"วาดแอปด้วยสิทธิ์ระดับสูงสุด"</string>
+<string name="app_permissions_group_summary">"อนุญาต <xliff:g id="COUNT_0">%d</xliff:g> จาก <xliff:g id="COUNT_1">%d</xliff:g> แอปแล้ว"</string>
+<string name="app_special_disable_dlg_text">"หากคุณปิดใช้แอปนี้ แอปอื่นๆ อาจไม่ทำงานตามที่ควรจะเป็น และระบบจะลบข้อมูลของคุณออกด้วย"</string>
+<string name="app_special_disable_dlg_title">"ลบข้อมูลและปิดใช้งานแอพหรือไม่?"</string>
+<string name="app_standby_network_data">"ข้อมูลเครือข่ายขณะสแตนด์บาย"</string>
+<string name="app_standby_sleep_optimizaiton">"การปรับการพักการทำงานขณะสแตนด์บาย"</string>
+<string name="app_standby_wakeup_optimizaiton">"การปรับการกระตุ้นให้กลับมาทำงานขณะสแตนด์บาย"</string>
+<string name="applications_manager">"โปรแกรมจัดการแอพพลิเคชั่น"</string>
+<string name="assistant_app_category_title">"แอพ"</string>
+<string name="assistant_shortcut_back_title">"ย้อนกลับ"</string>
+<string name="assistant_shortcut_category_title">"ทางลัด"</string>
+<string name="assistant_shortcut_home_title">"บ้าน"</string>
+<string name="assistant_shortcut_menu_title">"เมนู"</string>
+<string name="assistant_shortcut_none_title">"ไม่มี"</string>
+<string name="assistant_shortcut_search_title">"ค้นหา"</string>
+<string name="assistant_title">"ผู้ช่วย"</string>
+<string name="audio_profiles">"โปรไฟล์เสียง"</string>
+<string name="auto_launch_title">"ไม่อนุญาตให้เริ่มการทำงานของแอพโดยอัตโนมัติ ซึ่งจะช่วยประหยัดไฟและหน่วยความจำได้"</string>
+<string name="auto_low_power">"การประหยัดไฟระดับต่ำ"</string>
+<string name="auto_run_applications">"ตัวจัดการการเริ่มต้นระบบ"</string>
+<string name="auto_run_setting">"การตั้งค่าการเริ่มการทำงานอัตโนมัติ"</string>
+<string name="automatic_contrast">"คอนทราสต์อัตโนมัติ"</string>
+<string name="automatic_contrast_summary">"ปรับคอนทราสต์ให้เหมาะกับสภาพแสง"</string>
+<string name="battery_history_days">"<xliff:g id="days">%1$d</xliff:g> วัน <xliff:g id="hours">%2$d</xliff:g> ชั่วโมง <xliff:g id="minutes">%3$d</xliff:g> นาที <xliff:g id="seconds">%4$d</xliff:g> วินาที"</string>
+<string name="battery_history_days_no_seconds">"<xliff:g id="DAYS">%1$d</xliff:g> วัน <xliff:g id="HOURS">%2$d</xliff:g> ชั่วโมง <xliff:g id="MINUTES">%3$d</xliff:g> นาที"</string>
+<string name="battery_history_hours">"<xliff:g id="hours">%1$d</xliff:g>ชั่วโมง <xliff:g id="minutes">%2$d</xliff:g> นาที <xliff:g id="seconds">%3$d</xliff:g> วินาที"</string>
+<string name="battery_history_hours_no_seconds">"<xliff:g id="HOURS">%1$d</xliff:g> ชั่วโมง <xliff:g id="MINUTES">%2$d</xliff:g> นาที"</string>
+<string name="battery_history_minutes">"<xliff:g id="minutes">%1$d</xliff:g> นาที <xliff:g id="seconds">%2$d</xliff:g> วินาที"</string>
+<string name="battery_history_minutes_no_seconds">"<xliff:g id="MINUTES">%1$d</xliff:g> นาที"</string>
+<string name="battery_history_seconds">"<xliff:g id="SECONDS">%1$d</xliff:g> วินาที"</string>
+<string name="battery_saver_desc_turn_on_auto_never">"ไม่ต้องเปิดโดยอัตโนมัติ"</string>
+<string name="battery_saver_desc_turn_on_auto_pct">"เปิดโดยอัตโนมัติเมื่อแบตเตอรี่อยู่ที่ระดับ %1$s"</string>
+<string name="battery_saver_manager">"ตัวจัดการแบตเตอรี่"</string>
+<string name="battery_saver_optimization">"การเพิ่มประสิทธิภาพการประหยัดพลังงาน"</string>
+<string name="battery_saving_setting">"การตั้งค่าการประหยัดแบตเตอรี่"</string>
+<string name="billing_cycle_summary">"รอบรายเดือนจะเริ่มในวันที่ <xliff:g id="ID_1">%1$s</xliff:g> ของทุกเดือน"</string>
+<string name="bluetooth_ask_enablement_and_start_broadcast" product="default">"<xliff:g id="APP_NAME">%1$s</xliff:g> ต้องการเปิดบลูทูธและการแพร่สัญญาณบลูทูธเพื่อสื่อสารกับอุปกรณ์อื่นที่อยู่ใกล้ คุณสามารถเปลี่ยนการตั้งค่านี้ภายหลังได้ในการตั้งค่าบลูทูธ"</string>
+<string name="bluetooth_ask_start_broadcast" product="default">"<xliff:g id="APP_NAME">%1$s</xliff:g> ต้องการเปิดการแพร่สัญญาณบลูทูธเพื่อสื่อสารกับอุปกรณ์อื่นที่อยู่ใกล้ คุณสามารถเปลี่ยนการตั้งค่านี้ภายหลังได้ในการตั้งค่าบลูทูธ"</string>
+<string name="bluetooth_auto_connect">"เชื่อมต่ออัตโนมัติ"</string>
+<string name="bluetooth_broadcasting_explaination" product="default">"เมื่อเปิดคุณลักษณะนี้ โทรศัพท์ของคุณจะสามารถสื่อสารกับอุปกรณ์อื่นๆ ที่อยู่ใกล้ได้\n\nการแพร่สัญญาณจะใช้สัญญาณบลูทูธที่ใช้พลังงานต่ำ"</string>
+<string name="bluetooth_disable_profile_message">"การดำเนินการนี้จะปิดใช้งาน: &lt;br>&lt;b><xliff:g id="profile_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b><xliff:g id="device_name">%2$s</xliff:g>&lt;/b>"</string>
+<string name="bluetooth_disable_profile_title">"ปิดใช้งานโปรไฟล์หรือไม่?"</string>
+<string name="bluetooth_discoverable_never_timeout">"การค้นพบได้ทาง Bluetooth ไม่มีการจำกัดเวลา"</string>
+<string name="bluetooth_discoverable_timeout">"สามารถค้นพบบลูทูธเป็นเวลา <xliff:g id="timeout_minutes">%1$d</xliff:g> นาที"</string>
+<string name="bluetooth_enable_discoverable">"สามารถค้นพบได้"</string>
+<string name="bluetooth_is_discoverable_always_ex">"อุปกรณ์บลูทูธใกล้เคียงทั้งหมดมองเห็นได้"</string>
+<string name="bluetooth_is_discoverable_ex">"อุปกรณ์บลูทูธใกล้เคียงทั้งหมดมองเห็นได้ (<xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>)"</string>
+<string name="bluetooth_permission_request">"คำขออนุญาตใช้บลูทูธ"</string>
+<string name="bluetooth_preference_found_devices">"อุปกรณ์ที่พบ"</string>
+<string name="bluetooth_preference_paired_devices">"อุปกรณ์ที่จับคู่ไว้"</string>
+<string name="bluetooth_preference_paired_dialog_name_label">"ชื่อ"</string>
+<string name="bluetooth_search_for_devices_ex">"ค้นหาอุปกรณ์"</string>
+<string name="bluetooth_stop_search">"หยุด"</string>
+<string name="bluetooth_talkback_bluetooth">"บลูทูธ"</string>
+<string name="bluetooth_talkback_computer">"คอมพิวเตอร์"</string>
+<string name="bluetooth_talkback_headphone">"หูฟัง"</string>
+<string name="bluetooth_talkback_headset">"ชุดหูฟัง"</string>
+<string name="bluetooth_talkback_imaging">"การถ่ายภาพ"</string>
+<string name="bluetooth_talkback_input_peripheral">"อุปกรณ์อินพุต"</string>
+<string name="bluetooth_talkback_phone">"โทรศัพท์"</string>
+<string name="bluetooth_tethering_available_subtext" product="default">"กำลังแบ่งปันการเชื่อมต่ออินเตอร์เน็ตของแท็บเล็ตนี้"</string>
+<string name="bluetooth_tethering_available_subtext" product="tablet">"กำลังแชร์การเชื่อมต่ออินเทอร์เน็ตของแท็บเล็ตนี้"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="default">"กำลังแบ่งปันการเชื่อมต่ออินเตอร์เน็ตของแท็บเล็ตนี้กับอุปกรณ์ 1 เครื่อง"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="tablet">"กำลังแชร์การเชื่อมต่ออินเทอร์เน็ตของแท็บเล็ตนี้กับอุปกรณ์ 1 เครื่อง"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="default">"กำลังแบ่งปันการเชื่อมต่ออินเตอร์เน็ตของแท็บเล็ตนี้กับอุปกรณ์ <xliff:g id="connectedDeviceCount">%1$d</xliff:g> เครื่อง"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="tablet">"กำลังแชร์การเชื่อมต่ออินเทอร์เน็ตของแท็บเล็ตนี้กับอุปกรณ์ <xliff:g id="CONNECTEDDEVICECOUNT">%1$d</xliff:g> เครื่อง"</string>
+<string name="bluetooth_tethering_errored_subtext">"ไม่ได้ปล่อยสัญญาณ"</string>
+<string name="bluetooth_tethering_off_subtext" product="default">"ไม่แบ่งปันการเชื่อมต่ออินเตอร์เน็ตของแท็บเล็ตนี้"</string>
+<string name="bluetooth_tethering_off_subtext" product="tablet">"ไม่แชร์การเชื่อมต่ออินเทอร์เน็ตของแท็บเล็ตนี้"</string>
+<string name="cancle_select_all">"ยกเลิกการเลือกทั้งหมด"</string>
+<string name="cannot_find_app">"ไม่พบแอพสำหรับจัดการกับการดำเนินการนี้"</string>
+<string name="capability_desc_receiveAccessibilityEvents">"รับการแจ้งเตือนเมื่อคุณกำลังโต้ตอบกับแอปหนึ่ง"</string>
+<string name="capability_title_receiveAccessibilityEvents">"สังเกตการทำงานของคุณ"</string>
+<string name="cell_warning_and_limit">"คำเตือนอินเทอร์เน็ต <xliff:g id="ID_1">%1$s</xliff:g>/ขีดจำกัดอินเทอร์เน็ต <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="cell_warning_only">"คำเตือนอินเทอร์เน็ต <xliff:g id="ID_1">%1$s</xliff:g>"</string>
+<string name="cfu_is_on">"จะต้องเรียกไปข้างหน้า"</string>
+<string name="charge_exit_low_power_mode">"ออกจากโหมดประหยัดพลังงานเมื่อชาร์จ"</string>
+<string name="charging_out_low_power">"ออกจากโหมดกำลังไฟต่ำเมื่อชาร์จ"</string>
+<string name="choice_dialog_title">"โปรดเลือกพาธของแพ็กเกจการอัปเดต"</string>
+<string name="choose_assist_title">"เลือกแอปผู้ช่วย"</string>
+<string name="choose_battery_saver">"เลือกตัวประหยัดแบตเตอรี่"</string>
+<string name="choose_navigation_bar_style">"โปรดเลือกปุ่มนำทางแบบรวมกัน"</string>
+<string name="clear_data_failed">"ไม่สามารถล้างข้อมูลแอปได้"</string>
+<string name="clear_failed_dlg_title">"ล้างข้อมูล"</string>
+<string name="close">"ปิด"</string>
+<string name="close_all_app">"ทั้งหมด"</string>
+<string name="close_app_title">"การปิดแอปเบื้องหลังหลังจากหน้าจอล็อกจะช่วยประหยัดพลังงาน แต่คุณอาจไม่ได้รับข้อความใหม่จากแอปอีเมล การรับส่งข้อความ และโซเชียลเน็ตเวิร์กหลังจากปิดแอปเหล่านี้\n\nแอปที่เลือกไว้ที่นี่จะปิดหลังจากหน้าจอล็อก"</string>
+<string name="close_screen_bright_automode">"โปรดปิดฟังก์ชั่นปรับความสว่างของหน้าจออัตโนมัติ"</string>
+<string name="cmupdate_settings_title">"การอัปเดตระบบ"</string>
+<string name="color_cool">"เย็น"</string>
+<string name="color_standard">"มาตรฐาน"</string>
+<string name="color_temperature_disabled_toast">"ไม่สามารถปรับอุณหภูมิสีในโหมดสบายตาได้"</string>
+<string name="color_warm">"อบอุ่น"</string>
+<string name="colors_contrast_title">"สีและคอนทราสต์"</string>
+<string name="condition_hotspot_summary">"Wi-Fi ฮอตสปอตแบบพกพา <xliff:g id="ID_1">%1$s</xliff:g> ทำงานอยู่ Wi-Fi ของอุปกรณ์เครื่องนี้ปิดอยู่"</string>
+<string name="confirm_fingerprint_icon_content_description">"ใช้ลายนิ้วมือของคุณเพื่อดำเนินการต่อ"</string>
+<string name="confirm_reset_shortcut_manager_throttling_message">"รีเซ็ตตัวนับการจำกัดอัตราของ ShortcutManager ไหม"</string>
+<string name="confirm_reset_shortcut_manager_throttling_title">"รีเซ็ตการจำกัดอัตราของ ShortcutManager ไหม"</string>
+<string name="connected_devices_dashboard_no_cast_summary">"บลูทูธ, NFC"</string>
+<string name="connected_devices_dashboard_no_nfc_no_cast_summary">"บลูทูธ"</string>
+<string name="contrast_title">"ความต่างของแสง"</string>
+<string name="credentials_configure_lock_screen_hint">"คุณต้องตั้ง PIN, รูปแบบ หรือรหัสผ่านสำหรับการล็อกหน้าจอก่อนจึงจะสามารถใช้ที่เก็บข้อมูลรับรองได้"</string>
+<string name="credentials_enabled">"เปิดใช้งานที่จัดเก็บใบรับรองแล้ว"</string>
+<string name="credentials_old_password">"รหัสผ่านปัจจุบัน:"</string>
+<string name="credentials_password_too_short">"รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัว"</string>
+<string name="credentials_reset_warning">"รหัสผ่านไม่ถูกต้อง คุณมีโอกาสอีกหนึ่งครั้งก่อนที่ที่จัดเก็บใบรับรองจะถูกล้าง"</string>
+<string name="credentials_reset_warning_plural">"รหัสผ่านไม่ถูกต้อง คุณมีโอกาสอีก <xliff:g id="number" example="5">%1$d</xliff:g> ครั้งก่อนที่ที่จัดเก็บใบรับรองจะถูกล้าง"</string>
+<string name="credentials_unlock_hint">"พิมพ์รหัสผ่านสำหรับที่จัดเก็บใบรับรอง"</string>
+<string name="credentials_wrong_password">"รหัส PIN ไม่ถูกต้อง"</string>
+<string name="current_label_phone">"โทรศัพท์"</string>
+<string name="customize_power_saving_mode">"โหมดประหยัดไฟแบบกำหนดเอง"</string>
+<string name="data_popup_disable">ปิด</string>
+<string name="data_popup_enable">"เปลี่ยน"</string>
+<string name="data_popup_summary">"การเชื่อมต่อข้อมูลมือถือเปิดใช้งานค่าเริ่มต้น. การเปิดใช้งานการเชื่อมต่อข้อมูลบนมือถืออาจต้องเสียค่าใช้จ่ายเพิ่มเติมจากผู้ประกอบการ}ถ้าคุณไม่ได้มีแผนข้อมูลที่ใช้ได้แบบไม่จำกัด ."</string>
+<string name="data_popup_title">"บริการข้อมูล"</string>
+<string name="data_usage_menu_cellular_networks">"เครือข่ายมือถือ"</string>
+<string name="date_time_auto_summaryOff">"ใช้เวลาที่ระบุโดยเครือข่าย"</string>
+<string name="date_time_auto_summaryOn">"ใช้เวลาที่ระบุโดยเครือข่าย"</string>
+<string name="date_time_set_date">"ตั้งวันที่"</string>
+<string name="date_time_set_time">"ตั้งเวลา"</string>
+<string name="day">"1 วัน"</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> วัน"</string>
+<string name="default_assist_none">"ไม่มี"</string>
+<string name="default_camera_title">"แอปกล้องถ่ายรูป"</string>
+<string name="default_email_title">"แอพอีเมล"</string>
+<string name="default_gallery_title">"แอพแกลเลอรี"</string>
+<string name="default_music_title">"แอพเพลง"</string>
+<string name="default_storage_location">"ดิสก์ที่เขียนตามค่าเริ่มต้น"</string>
+<string name="details_title">"ใช้รายละเอียด"</string>
+<string name="developer_density_summary">"<xliff:g id="ID_1">%d</xliff:g> dp"</string>
+<string name="device_admin_title">"การดูแลอุปกรณ์"</string>
+<string name="device_info_settings" product="default">"สถานะของโทรศัพท์"</string>
+<string name="device_info_settings" product="tablet">"สถานะของแท็บเล็ต"</string>
+<string name="device_memory_available">"ใช้งานได้"</string>
+<string name="device_reset_title">"รีเซ็ตอุปกรณ์"</string>
+<string name="device_system_memory">"ระบบ"</string>
+<string name="device_total_size">"พื้นที่ทั้งหมด"</string>
+<string name="dialog_restore_default_apn">"APN ทั้งหมดที่คุณเพิ่มจะถูกลบ และ APN ที่เหลือจะถูกรีเซ็ตเป็นค่าเริ่มต้น คุณแน่ใจว่าต้องการทำต่อหรือไม่?"</string>
+<string name="disabled">"ปิดใช้งานแล้ว"</string>
+<string name="display_auto_rotate_rotate">"หมุนเนื้อหาของหน้าจอ"</string>
+<string name="display_auto_rotate_stay_in_current">"ใช้การวางแนวเดิม"</string>
+<string name="display_auto_rotate_stay_in_landscape">"ใช้มุมมองแนวนอน"</string>
+<string name="display_auto_rotate_stay_in_portrait">"ใช้มุมมองแนวตั้ง"</string>
+<string name="display_auto_rotate_title">"เมื่อหมุนอุปกรณ์"</string>
+<string name="display_font_size_label">"ขนาดตัวอักษร:"</string>
+<string name="display_preview_label">"ดูตัวอย่าง:"</string>
+<string name="display_summary_off">"ปรับความสว่างอัตโนมัติปิดอยู่"</string>
+<string name="display_summary_on">"ปรับความสว่างอัตโนมัติเปิดอยู่"</string>
+<string name="dlg_close">"ปิด"</string>
+<string name="dlg_switch">"เปลี่ยน"</string>
+<string name="do_not_close">"ไม่ต้องปิด"</string>
+<string name="double_tap_volumeup_for_camera_summary">"กดปุ่มเพิ่มเสียงสองครั้งเพื่อเปิดกล้องอย่างรวดเร็ว ใช้ได้เมื่อหน้าจอปิดอยู่"</string>
+<string name="downlink_rate">"อัตราการดาวน์ลิงค์ตามทฤษฎี: <xliff:g id="maxdownrate">%s</xliff:g> อัตราการดาวน์ลิงค์ปัจจุบัน: <xliff:g id="downrate">%s</xliff:g> ต่อวินาที"</string>
+<string name="draw_overlay_title">"แอปที่สามารถวาดทับแอปอื่นๆ"</string>
+<string name="easy_answer">"รับโทรศัพท์ง่าย"</string>
+<string name="easy_answer_summary">"หยิบอุปกรณ์ขึ้นเพื่อรับสายเรียกเข้า"</string>
+<string name="easy_bell">"เสียงกริ่งอย่างง่าย"</string>
+<string name="easy_bell_summary">"หยิบตัวเครื่องขณะที่กำลังเรียกเข้า เสียงกริ่งลดลงหรือสั่น"</string>
+<string name="easy_clear_memory">"ลบหน่วยความจำอย่างง่าย"</string>
+<string name="easy_clear_memory_summary">"เขย่าเครื่องสองครั้งอย่างต่อเนื่องเมื่อไม่ได้ล็อคหน้าจอ คุณสามารถลบหน่วยความจำได้"</string>
+<string name="easy_dial">"โทรง่าย"</string>
+<string name="easy_dial_summary">"หยิบอุปกรณ์เพื่อโทรหารายชื่อติดต่อที่ปรากฏบนหน้าจอ"</string>
+<string name="easy_start">"เริ่มต้นอย่างง่าย"</string>
+<string name="easy_start_summary">"ดับเบิลคลิกฝาครอบหลังโทรศัพท์เพื่อเริ่มต้นกล้อง"</string>
+<string name="edit_sim_lang">"ภาษาใน SIM การ์ด"</string>
+<string name="edit_sim_lang_more">"แก้ไขภาษาใน SIM การ์ด"</string>
+<string name="empty_list_msg">"คุณไม่ได้ติดตั้งแอปของบุคคลที่สามไว้เลย"</string>
+<string name="encrypt_dont_require_password">"ไม่เป็นไร"</string>
+<string name="encrypt_dont_require_pattern">"ไม่เป็นไร"</string>
+<string name="encrypt_dont_require_pin">"ไม่เป็นไร"</string>
+<string name="encrypt_require_password">"ต้องมีรหัสผ่านเพื่อเริ่มใช้งานอุปกรณ์"</string>
+<string name="encrypt_require_pattern">"ต้องมีรูปแบบเพื่อเริ่มใช้งานอุปกรณ์"</string>
+<string name="encrypt_require_pin">"ต้องมี PIN เพื่อเริ่มใช้งานอุปกรณ์"</string>
+<string name="every_day">"ทุกวัน"</string>
+<string name="exception_error">"ข้อผิดพลาดของเครือข่ายหรือซิมการ์ด"</string>
+<string name="factory_dialog_title">"ถาม"</string>
+<string name="failed_to_open_app_settings_toast">"ไม่สามารถเปิดการตั้งค่าของ <xliff:g id="spell_application_name">%1$s</xliff:g>"</string>
+<string name="fdn_check_failure">"เนื่องจากมีการเปิดใช้การตั้งค่าการจำกัดหมายเลขโทรออกของแอปโทรศัพท์ จึงเป็นผลให้ฟีเจอร์ที่เกี่ยวกับการโทรบางอย่างไม่ทำงาน"</string>
+<string name="filter_notif_hide_notifications_apps">"ไม่แสดงบนหน้าจอล็อก"</string>
+<string name="filter_notif_priority_apps">"ลบล้างการห้ามรบกวน"</string>
+<string name="filter_notif_sensitive_apps">"ไม่แสดงเนื้อหาละเอียดอ่อนบนหน้าจอล็อก"</string>
+<string name="filter_notif_silent">"แสดงโดยไม่ส่งเสียง"</string>
+<string name="filter_with_domain_urls_apps">"ที่มี URL โดเมน"</string>
+<string name="fingerprint_not_recognized">"ไม่รู้จัก"</string>
+<string name="finish_button_label">"เสร็จสิ้น"</string>
+<string name="gadget_bluetooth">"บลูทูธ"</string>
+<string name="gadget_brightness_state_auto">"อัตโนมัติ"</string>
+<string name="gadget_brightness_state_full">"เต็ม"</string>
+<string name="gadget_brightness_state_half">"ครึ่งหนึ่ง"</string>
+<string name="gadget_brightness_state_off">"ปิด"</string>
+<string name="gadget_brightness_template">"ความสว่าง <xliff:g name="state" example="half">%1$s</xliff:g>"</string>
+<string name="gadget_location">"ตำแหน่ง"</string>
+<string name="gadget_state_off">"ปิด"</string>
+<string name="gadget_state_on">"เปิด"</string>
+<string name="gadget_state_template">"<xliff:g name="feature" example="Wi\u2011Fi">%1$s</xliff:g> <xliff:g name="state"  example="off">%2$s</xliff:g>"</string>
+<string name="gadget_state_turning_off">"กำลังปิด"</string>
+<string name="gadget_state_turning_on">"กำลังเปิด"</string>
+<string name="gadget_sync">"ซิงค์"</string>
+<string name="gadget_title">"การควบคุมพลังงาน"</string>
+<string name="gadget_toggle_bluetooth">"กำลังอัพเดตการตั้งค่าบลูทูธ"</string>
+<string name="gadget_toggle_wifi">"กำลังอัพเดตการตั้งค่า Wi\u2011Fi"</string>
+<string name="gadget_wifi">"Wi\u2011Fi"</string>
+<string name="global_change_warning" product="default">"การตั้งค่านี้จะมีผลกับผู้ใช้โทรศัพท์นี้ทุกราย"</string>
+<string name="global_change_warning" product="tablet">"การตั้งค่านี้จะมีผลกับผู้ใช้แท็บเล็ตนี้ทุกราย"</string>
+<string name="global_locale_change_title">"เปลี่ยนภาษา"</string>
+<string name="gps_time_sync_attention_gps_off">"การใช้งานGPSให้เวลาคุณต้องเปิดใช้งานGPSครั้งแรก. ก็แล้วใช้เวลามากที่สุด 1 นาทีที่จะได้รับโปรแกรมแก้ไขGPS. นอกเหนือจากGPSอาจจะล้มเหลวเพื่อให้เวลาที่เนื่องจากสัญญาณอ่อนแอสิ่งแวดล้อม. \n\n คุณแน่ใจหรือว่าจะเปิดใช้งานGPSในขณะนี้และ รอให้GPSให้เวลาที่ "</string>
+<string name="gps_time_sync_attention_gps_on">"มันต้องใช้เวลามากที่สุด 1 นาทีที่จะได้รับโปรแกรมแก้ไขGPS. นอกเหนือจากGPSอาจจะล้มเหลวเพื่อให้เวลาต่อสัญญาณที่อ่อน. \n\nคุณแน่ใจที่จะใช้จีพีเอสให้เวลาที่"</string>
+<string name="handsfree_switch">"ปุ่มแฮนด์ฟรี"</string>
+<string name="handsfree_switch_summary">"หยิบโทรศัพท์มาที่หูในขณะที่พูดคุยแบบแฮนด์ฟรี สลับไปที่โหมดโทรศัพท์มือถือ"</string>
+<string name="haptic_feedback_enable_title">"สั่นเมื่อแตะ"</string>
+<string name="hardware_power_usage">"ฮาร์ดแวร์"</string>
+<string name="header_category_access">"การเข้าถึง"</string>
+<string name="header_category_connections">"การเชื่อมต่อ"</string>
+<string name="header_category_device">"อุปกรณ์"</string>
+<string name="header_category_personal">"ส่วนตัว"</string>
+<string name="hide_navigation_bar_title">"แถบนำทาง"</string>
+<string name="home_app_uninstall_button">"ถอนการติดตั้งแอพพลิเคชั่นนี้"</string>
+<string name="home_settings">"บ้าน"</string>
+<string name="hour">"1 ชั่วโมง"</string>
+<string name="hours">"<xliff:g id="hours">%s</xliff:g>ชั่วโมง"</string>
+<string name="ime_security_warning">"การป้อนข้อมูลด้วยวิธีนี้อาจสามารถเก็บรวบรวมข้อความทั้งหมดที่คุณพิมพ์ รวมถึงข้อมูลส่วนบุคคล เช่น รหัสผ่านและหมายเลขบัตรเครดิต โดยมาจากแอพ <xliff:g id="ime_application_name">%1$s</xliff:g> ใช้วิธีการป้อนข้อมูลนี้หรือไม่?"</string>
+<string name="importance_reset">"รีเซ็ต"</string>
+<string name="increased_contrast">"เพิ่มคอนทราสต์แล้ว"</string>
+<string name="increased_contrast_summary">"เพิ่มคอนทราสต์ของจอแสดงผลแล้ว"</string>
+<string name="install_unknown_applications">"อนุญาตให้ติดตั้งแอพจากแหล่งที่มาที่ไม่รู้จัก"</string>
+<string name="install_unknown_applications_title">"อนุญาตให้คุณติดตั้งแอปจากแหล่งต่างๆ นอกเหนือจาก Google Play"</string>
+<string name="internal_storage_sentence">"ที่เก็บข้อมูลภายใน"</string>
+<string name="join_many_items_first">"<xliff:g id="FIRST_ITEM">%1$s</xliff:g>, <xliff:g id="ALL_BUT_FIRST_AND_LAST_ITEM">%2$s</xliff:g>"</string>
+<string name="join_many_items_last">"<xliff:g id="all_but_last_item">%1$s</xliff:g> และ <xliff:g id="last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_middle">"<xliff:g id="ADDED_ITEM">%1$s</xliff:g>, <xliff:g id="REST_OF_ITEMS">%2$s</xliff:g>"</string>
+<string name="keywords_default_phone_app">"โทรศัพท์, แป้นโทรศัพท์, ค่าเริ่มต้น"</string>
+<string name="keywords_emergency_app">"ฉุกเฉิน, ICE, แอป, ค่าเริ่มต้น"</string>
+<string name="keywords_home">"ตัวเรียกใช้งาน"</string>
+<string name="keywords_location_mode">"ความแม่นยำ"</string>
+<string name="keywords_more_default_sms_app">"ข้อความตัวอักษร, การส่งข้อความ, ข้อความ, การรับส่งข้อความ"</string>
+<string name="large_font">"ใหญ่"</string>
+<string name="location_disabled_toast_info">"อุปกรณ์ไม่รองรับตำแหน่งที่ตั้ง"</string>
+<string name="location_gps_config">ตัวเลือกเปิดใช้AGPS</string>
+<string name="location_gps_config_summary">เปิดใช้งาน AGPS เครือข่ายที่แตกต่างกัน</string>
+<string name="location_menu_scanning">"การสแกน"</string>
+<string name="location_mode_battery_saving_description">"ใช้ Wi\u2011Fi, บลูทูธ หรือเครือข่ายมือถือเพื่อระบุตำแหน่ง"</string>
+<string name="location_mode_battery_saving_title">"ประหยัดแบตเตอรี่"</string>
+<string name="location_mode_high_accuracy_description">"ใช้ GPS, Wi\u2011Fi และเครือข่ายมือถือเพื่อหาตำแหน่ง"</string>
+<string name="location_mode_high_accuracy_title">"ความแม่นยำสูง"</string>
+<string name="location_mode_location_off_title">"ตำแหน่งปิดอยู่"</string>
+<string name="location_mode_screen_title">"โหมดตำแหน่ง"</string>
+<string name="location_mode_sensors_only_description">"ใช้ GPS เพื่อระบุตำแหน่ง"</string>
+<string name="location_mode_sensors_only_title">"อุปกรณ์เท่านั้น"</string>
+<string name="location_mode_title">"โหมด"</string>
+<string name="location_off_summary">"ปิด"</string>
+<string name="location_on_summary">"เปิด"</string>
+<string name="lock_music_switch">"เปลี่ยนเพลงเมื่อล็อค"</string>
+<string name="lock_music_switch_summary">"เพลงกำลังเล่นเมื่อหน้าจอล็อค เขย่าเครื่องเพื่อเปลี่ยนเพลง"</string>
+<string name="lock_profile_wipe_attempts">"ลองอีกครั้ง ความพยายามครั้งที่ <xliff:g id="CURRENT_ATTEMPTS">%1$d</xliff:g> จาก <xliff:g id="TOTAL_ATTEMPTS">%2$d</xliff:g>"</string>
+<string name="lock_profile_wipe_content">"ใช้ความพยายามหลายครั้งเกินไป ระบบจะนำโปรไฟล์งานของคุณและข้อมูลที่เชื่อมโยงออกจากอุปกรณ์นี้"</string>
+<string name="lock_profile_wipe_dismiss">"ปิด"</string>
+<string name="lock_profile_wipe_warning_content_password">"หากคุณป้อนรหัสผ่านการทำงานที่ไม่ถูกต้องในความพยายามครั้งนี้ ระบบจะนำโปรไฟล์งานของคุณและข้อมูลที่เชื่อมโยงออกจากอุปกรณ์นี้"</string>
+<string name="lock_profile_wipe_warning_content_pattern">"หากคุณป้อนรูปแบบการทำงานที่ไม่ถูกต้องในความพยายามครั้งนี้ ระบบจะนำโปรไฟล์งานของคุณและข้อมูลที่เชื่อมโยงออกจากอุปกรณ์นี้"</string>
+<string name="lock_profile_wipe_warning_content_pin">"หากคุณป้อน PIN การทำงานที่ไม่ถูกต้องในความพยายามครั้งนี้ ระบบจะนำโปรไฟล์งานของคุณและข้อมูลที่เชื่อมโยงออกจากอุปกรณ์นี้"</string>
+<string name="lock_profile_wipe_warning_title">"การลองครั้งสุดท้าย"</string>
+<string name="lock_screen_battery_save">"ปิดแอพหลังจากล็อคหน้าจอ"</string>
+<string name="lock_screen_notifications_summary_disable_profile">"ไม่ต้องแสดงการแจ้งเตือนงานเลย"</string>
+<string name="lockpassword_choose_your_password_header">"เลือกรหัสผ่านของคุณ"</string>
+<string name="lockpassword_choose_your_pattern_header">"เลือกรูปแบบของคุณ"</string>
+<string name="lockpassword_choose_your_pin_header">"เลือก PIN ของคุณ"</string>
+<string name="lockpassword_ok_label">"ตกลง"</string>
+<string name="lockpassword_password_too_long">"รหัสผ่านต้องยาวไม่เกิน <xliff:g id="number" example="17">%d</xliff:g> ตัว"</string>
+<string name="lockpassword_password_too_short">"รหัสผ่านจะต้องเป็นอักขระอย่างน้อย %d ตัว"</string>
+<string name="lockpassword_pin_too_long">"PIN ต้องยาวไม่เกิน <xliff:g id="number" example="17">%d</xliff:g> หลัก"</string>
+<string name="lockpassword_pin_too_short">"PIN ต้องเป็นตัวเลขอย่างน้อย %d หลัก"</string>
+<string name="lockpassword_strong_auth_required_reason_restart_device_password">"ป้อนรหัสผ่านอุปกรณ์เพื่อดำเนินการต่อ ต้องทำหลังจากอุปกรณ์รีสตาร์ท"</string>
+<string name="lockpassword_strong_auth_required_reason_restart_device_pattern">"ใช้รูปแบบของอุปกรณ์เพื่อดำเนินการต่อ ต้องทำหลังจากอุปกรณ์รีสตาร์ท"</string>
+<string name="lockpassword_strong_auth_required_reason_restart_device_pin">"ป้อน PIN ของอุปกรณ์เพื่อดำเนินการต่อ ต้องทำหลังจากอุปกรณ์รีสตาร์ท"</string>
+<string name="lockpassword_strong_auth_required_reason_restart_work_password">"ป้อนรหัสผ่านของที่ทำงานเพื่อดำเนินการต่อ ต้องทำหลังจากอุปกรณ์รีสตาร์ท"</string>
+<string name="lockpassword_strong_auth_required_reason_restart_work_pattern">"ใช้รูปแบบของที่ทำงานเพื่อดำเนินการต่อ ต้องทำหลังจากอุปกรณ์รีสตาร์ท"</string>
+<string name="lockpassword_strong_auth_required_reason_restart_work_pin">"ป้อน PIN ของที่ทำงานเพื่อดำเนินการต่อ ต้องทำหลังจากอุปกรณ์รีสตาร์ท"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts">"ดำเนินการไม่ถูกต้องหลายครั้งเกินไป ลองอีกครั้งใน <xliff:g id="NUMBER">%d</xliff:g> วินาที"</string>
+<string name="low_power_battery_saver">"ประหยัดไฟเมื่อแบตเตอรี่เหลือน้อย"</string>
+<string name="low_power_mode">"โหมดใช้พลังงานต่ำ"</string>
+<string name="low_power_mode_summary">"จำกัดการใช้กำลังไฟ แนะนำให้ใช้เมื่อแบตเตอรี่เหลือน้อย"</string>
+<string name="low_power_mode_switch">"เปลี่ยนโหมดของแบตเตอรี่เมื่อกำลังไฟต่ำ"</string>
+<string name="manage_device_admin_summary">"ดูหรือปิดใช้งานผู้ดูแลอุปกรณ์"</string>
+<string name="master">"มาสเตอร์"</string>
+<string name="master_clear_level">"พลังงานแบตเตอรี่เหลือน้อยกว่า 30% รีเซ็ตโทรศัพท์ต่อใหม่หรือไม่?"</string>
+<string name="master_slave_mode">"โหมดบลูทูธ"</string>
+<string name="medium_font">"ปานกลาง"</string>
+<string name="mem_state_subtitle">"สถานะหน่วยความจำ"</string>
+<string name="mem_use_free_type">"รวมภาพแบบอิสระ"</string>
+<string name="mem_use_kernel_cache_type">"แคชของเคอร์เนล"</string>
+<string name="mem_use_kernel_type">"เคอร์เนล"</string>
+<string name="mem_use_native_type">"ในเครื่อง"</string>
+<string name="mem_use_subtitle">"การใช้หน่วยความจำ"</string>
+<string name="mem_use_total">"รวม"</string>
+<string name="mem_use_zram_type">"การสลับ ZRam"</string>
+<string name="menu_kill_apps_services">"ปิดแอพพลิเคชั่นทั้งหมด"</string>
+<string name="minute">"1 นาที"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> นาที"</string>
+<string name="missing_app">"ไม่พบแอปสำหรับการทำงานนี้"</string>
+<string name="model_number">"หมายเลขรุ่น"</string>
+<string name="more_title">"อื่นๆ"</string>
+<string name="move_app_failed_dlg_text">"ไม่สามารถย้ายแอป <xliff:g id="REASON">%1$s</xliff:g>"</string>
+<string name="moving">"กำลังย้าย"</string>
+<string name="music_switch">"เปลี่ยนเพลง"</string>
+<string name="music_switch_summary">"เมื่อกำลังเล่นเพลง เขย่าเครื่องเพื่อเปลี่ยนเพลง"</string>
+<string name="mute_alarms">"ปิดเสียงการตั้งปลุก"</string>
+<string name="mute_alarms_summary">"พลิกโทรศัพท์เพื่อปิดเสียงสัญญาณเตือน"</string>
+<string name="mute_incoming_calls">"ปิดเสียงสายเรียกเข้า"</string>
+<string name="mute_incoming_calls_summary">"พลิกอุปกรณ์เพื่อปิดสายเรียกเข้า"</string>
+<string name="name_too_long">"ชื่อยาวเกินไป ต้องไม่เกิน 50 ตัวอักษร"</string>
+<string name="navibar_settings">"การตั้งค่าแถบการแจ้งเตือน"</string>
+<string name="navigation_bar_title">"แถบนำทาง"</string>
+<string name="never">"ไม่เลย"</string>
+<string name="not_allow_all_app">"ทั้งหมด"</string>
+<string name="not_allow_auto_run">"จำกัด"</string>
+<string name="notification_close">"ปิดใช้งาน"</string>
+<string name="notification_importance_max">"แสดงชั่วครู่เสมอ และรบกวนแบบเต็มหน้าจอได้ แสดงที่ด้านบนของรายการแจ้งเตือน"</string>
+<string name="notification_importance_none">"ไม่ได้ตั้งค่า"</string>
+<string name="notification_open">"เปิดใช้งาน"</string>
+<string name="number_sim1">"หมายเลขซิม 1:"</string>
+<string name="number_sim2">"หมายเลขซิม 2:"</string>
+<string name="only_one_home_message">"การตั้งค่าหน้าหลักจะถูกซ่อนไว้จนกว่าคุณจะติดตั้งแอพพลิเคชั่นหน้าหลักอื่น"</string>
+<string name="os_string_array_value_none">"ไม่มี"</string>
+<string name="performence_mode">"โหมดเน้นประสิทธิภาพ"</string>
+<string name="performence_mode_summary">"ปรับ GPU และเครือข่ายเล็กน้อย แนะนำให้ใช้เมื่อเล่นเกมและวิดีโอ"</string>
+<string name="phone_name_dialog_title">"โปรดป้อนชื่อโทรศัพท์ของคุณ"</string>
+<string name="phone_name_title">"ชื่อโทรศัพท์ของฉัน"</string>
+<string name="phone_ram">"RAM"</string>
+<string name="phone_storage">"ความจุทั้งหมดของที่จัดเก็บข้อมูลของโทรศัพท์"</string>
+<string name="photo_frame">"กรอบรูป"</string>
+<string name="photo_table">"ตารางรูปภาพ"</string>
+<string name="play_control">"ควบคุมการเล่น"</string>
+<string name="play_control_summary">"เมื่อกำลังเล่นเพลงหรือวิดีโอ พลิกโทรศัพท์เพื่อหยุดชั่วคราว พลิกอีกครั้งเพื่อเล่นต่อ"</string>
+<plurals name="domain_urls_apps_summary">
+<item quantity="zero">"ไม่มีแอพใดที่สามารถเปิดลิงค์สนับสนุนใดๆ ได้"</item>
+<item quantity="one">"1 แอปสามารถเปิดลิงก์ที่สนับสนุนของตัวเอง"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> แอปสามารถเปิดลิงก์ที่สนับสนุนของตัวเอง"</item>
+</plurals>
+<plurals name="high_power_count">
+<item quantity="one">"1 แอปได้รับอนุญาตให้ละเว้นการเพิ่มประสิทธิภาพแบตเตอรี่"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> แอปได้รับอนุญาตให้ละเว้นการเพิ่มประสิทธิภาพแบตเตอรี่"</item>
+</plurals>
+<plurals name="print_settings_title">
+<item quantity="one">"1 งานพิมพ์"</item>
+<item quantity="other">"%d งานพิมพ์"</item>
+</plurals>
+<string name="pocket_mode">"โหมดกระเป๋า"</string>
+<string name="pocket_mode_summary">"ควบคุมอัจฉริยะเมื่ออุปกรณ์อยู่ในกระเป๋า"</string>
+<string name="pointer_settings_category">"เมาส์/แทร็กแพด"</string>
+<string name="power_consumer_type_GPS">"ใช้ GPS เป็นเวลานาน"</string>
+<string name="power_consumer_type_alarm">"ปลุกระบบบ่อยครั้ง"</string>
+<string name="power_consumer_type_wakelock">"หยุดไม่ให้ระบบพักการทำงานเป็นเวลานาน"</string>
+<string name="power_intensive">"ใช้พลังงาน\nสูง"</string>
+<string name="power_intensive_apps">"แอปที่ใช้พลังงานสูง"</string>
+<string name="power_intensive_land">"เน้นกำลังไฟ"</string>
+<string name="power_intensive_title">"แอปพลิเคชันที่ทำเครื่องหมายว่าใช้พลังงานมากจะแสดงเป็นเพียงมีกิจกรรมบ่อยครั้งในโหมดสแตนด์บาย"</string>
+<string name="power_off">"ปิดเครื่อง"</string>
+<string name="power_on">"เปิดเครื่อง"</string>
+<string name="power_saving">"ประหยัดพลังงาน"</string>
+<string name="power_saving_mode">"โหมดใช้พลังงานต่ำ"</string>
+<string name="power_saving_mode_summary">"ให้ความสำคัญกับการประหยัดไฟ แนะนำให้ใช้เมื่อต้องการยืดเวลาสแตนด์บายให้นานขึ้น"</string>
+<string name="power_saving_summary">"ปิดบลูทูธและการค้นหา Wi-Fi อัตโนมัติเพื่อประหยัดพลังงาน"</string>
+<string name="power_usage_list_summary_all">"การใช้แบตเตอรี่หลังจากชาร์จเต็มแล้ว (<xliff:g id="time">^1</xliff:g> ที่แล้ว)"</string>
+<string name="power_usage_list_summary_title">"การใช้แบตเตอรี่หลังจากชาร์จเต็มแล้ว"</string>
+<string name="power_usage_ranking">"ระดับการใช้ไฟ"</string>
+<string name="pref_title_lang_selection">"ค่ากำหนดภาษา"</string>
+<string name="privacy_settings">"การสำรองข้อมูลและการรีเซ็ต"</string>
+<string name="prompt_notification_settings">"การแจ้งเตือน"</string>
+<string name="prompt_section_header">"ถาม"</string>
+<string name="protected_app_title">"แอปพลิเคชันที่มีการป้องกัน"</string>
+<string name="provider_label">"การสมัครรับข้อมูลแบบ Push"</string>
+<string name="public_volumes_permission">"ผู้ใช้งานปัจจุบันไม่ได้รับอนุญาตให้เข้าถึง"</string>
+<string name="pull_down_notification_bar">"เปิดแผงการแจ้งเตือน"</string>
+<string name="query_hint_text">"การตั้งค่าการค้นหา"</string>
+<string name="quick_browse">"ดูอย่างรวดเร็ว"</string>
+<string name="quick_browse_summary">"เขย่าเครื่องเพื่อสลับอีเมลก่อนหน้าหรือถัดไป"</string>
+<string name="radioInfo_menu_getPDP">"รับรายการ PDP"</string>
+<string name="radio_controls_title">"อื่นๆ"</string>
+<string name="radio_info_dcrtinfo_label">"รายละเอียดการเชื่อมต่อข้อมูลแบบเรียลไทม์:"</string>
+<string name="radio_info_neighboring_location_label">"ข้อมูลมือถือใกล้เคียง (ยกเลิกการสนับสนุนแล้ว):"</string>
+<string name="radio_off_error">"เปิดวิทยุก่อนดูการตั้งค่าเหล่านี้"</string>
+<string name="reading_settings">"ตั้งค่าการอ่าน ..."</string>
+<string name="recovery_no_package">"ไม่มีไฟล์แพ็กเกจการอัพเดตในการ์ด SD"</string>
+<string name="recovery_no_update_package">"ไม่มีไฟล์แพ็กเกจการอัปเดตในการ์ด SD หรือในเนื้อที่เก็บข้อมูลภายใน"</string>
+<string name="recovery_sdacrd_status">"ไม่มีการ์ด SD"</string>
+<string name="recovery_update_level">"พลังงานแบตเตอรี่เหลือน้อยกว่า 35% ไม่สามารถเริ่มการอัพเกรดได้ โปรดชาร์จแบตเตอรี่"</string>
+<string name="recovery_update_message">"การปรับปรุงระบบมีความเสี่ยงด้านความปลอดภัย อาจทำให้ข้อมูลส่วนบุคคลรั่วไหล ข้อมูลสูญหายและสูญเสียทรัพย์สิน ตลอดจนถึงปัญหาความปลอดภัยอื่นๆ คุณได้เลือกการปรับปรุงซอฟต์แวร์ภายในอุปกรณ์ และระบบจะทำการปรับปรุงซอฟต์แวร์ของคุณด้วยการติดตั้ง update.zip ในการ์ด SD ในการยืนยันการปรับปรุง โปรดคลิกที่ \'OK\' หากไม่ต้องการดำเนินการปรับปรุงต่อ ให้คลิก \'CANCEL\'"</string>
+<string name="recovery_update_title">"การปรับปรุงซอฟต์แวร์ภายในอุปกรณ์"</string>
+<string name="recovery_updatefile_status">"ไม่พบไฟล์ซิปปรับปรุง"</string>
+<string name="regulatory_information">"ข้อมูลเกี่ยวกับกฎระเบียบ"</string>
+<string name="reset_networks_progress">"กำลังรีเซ็ต\u2026"</string>
+<string name="response_error">"พบการตอบกลับที่ไม่คาดหมายจากเครือข่าย"</string>
+<string name="revert">"เปลี่ยนกลับ"</string>
+<string name="ringtone_title1">"เสียงเรียกเข้าโทรศัพท์ซิม 1"</string>
+<string name="ringtone_title2">"เสียงเรียกเข้าโทรศัพท์ซิม 2"</string>
+<string name="rules_name_too_long">"ชื่อที่ป้อนยาวเกินไป"</string>
+<string name="schedule_mode">"วางกำหนดการการประหยัดไฟ"</string>
+<string name="schedule_power_mode">"โหมดของแบตเตอรี่ในระหว่างช่วงเวลานี้"</string>
+<string name="schedule_time_exist">"เวลาเริ่มต้นและเวลาสิ้นสุดต้องไม่ตรงกัน โปรดตั้งเวลาใหม่"</string>
+<string name="schedule_turn_off_time">"เวลาสิ้นสุด"</string>
+<string name="schedule_turn_on_time">"เวลาเริ่ม"</string>
+<string name="screen_pinning_description_low_memory">"เมื่อเปิดการตั้งค่านี้แล้ว คุณสามารถใช้การตรึงหน้าจอเพื่อให้เห็นหน้าจอปัจจุบันได้ตลอดจนกว่าคุณจะเลิกตรึง\n\nวิธีใช้การตรึงหน้าจอ:\n\n1. ดูว่าคุณเปิดใช้การตรึงหน้าจอแล้ว\n\n2. เปิดหน้าจอที่คุณต้องการตรึง\n\n3. แตะ \"ภาพรวม\"\n\n4. เลื่อนขึ้น แล้วแตะไอคอนตรึง"</string>
+<string name="screensaver_notification">"ไม่สามารถโหลดภาพในที่จัดเก็บข้อมูลภายนอกให้สำเร็จได้"</string>
+<string name="sd_card_storage" product="default">"ที่จัดเก็บข้อมูลการ์ด SD"</string>
+<string name="sd_card_storage" product="nosdcard">"ที่จัดเก็บข้อมูล USB"</string>
+<string name="search_menu">"การตั้งค่าการค้นหา"</string>
+<string name="search_recents_queries_label">"การค้นหาล่าสุด"</string>
+<string name="search_results_label">"ผลลัพธ์"</string>
+<string name="search_settings_summary">"จัดการการตั้งค่าการค้นหาและประวัติ"</string>
+<string name="second_launch_title">"ไม่อนุญาตให้เริ่มการทำงานของแอพระดับรอง ซึ่งจะช่วยประหยัดไฟและหน่วยความจำ และยังอาจมีผลกระทบต่อการทำงานของแอพพลิเคชั่นที่เกี่ยวข้องด้วย"</string>
+<string name="security_settings_billing_desc">"แอพนี้อาจมีค่าใช้จ่าย:"</string>
+<string name="security_settings_desc" product="default">"แอพนี้สามารถเข้าถึงสิ่งต่อไปนี้ในโทรศัพท์ของคุณ:"</string>
+<string name="security_settings_desc" product="tablet">"แอพนี้สามารถเข้าถึงสิ่งต่อไปนี้ในแท็บเล็ตของคุณ:"</string>
+<string name="security_settings_desc_multi" product="default">"แอพนี้สามารถเข้าถึงสิ่งต่อไปนี้ในโทรศัพท์ของคุณ เพื่อปรับปรุงประสิทธิภาพและลดปริมาณการใช้หน่วยความจำ การอนุญาตบางอย่างเหล่านี้จะมีอยู่ใน <xliff:g id="base_app_name">%1$s</xliff:g> เนื่องจากแอพทำงานในลักษณะเดียวกับ <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="security_settings_desc_multi" product="tablet">"แอพนี้สามารถเข้าถึงสิ่งต่อไปนี้ในแท็บเล็ตของคุณ เพื่อปรับปรุงประสิทธิภาพและลดปริมาณการใช้หน่วยความจำ การอนุญาตบางอย่างเหล่านี้จะมีอยู่ใน <xliff:g id="base_app_name">%1$s</xliff:g> เนื่องจากแอพทำงานในลักษณะเดียวกับ <xliff:g id="additional_apps_list">%2$s</xliff:g>:"</string>
+<string name="security_settings_premium_sms_desc">"ส่ง SMS พรีเมียม"</string>
+<string name="see_all">"ดูทั้งหมด"</string>
+<string name="selinux_status">"สถานะของ SELinux"</string>
+<string name="selinux_status_disabled">"ปิดใช้งานแล้ว"</string>
+<string name="selinux_status_enforcing">"บังคับใช้"</string>
+<string name="selinux_status_permissive">"อนุญาต"</string>
+<string name="set_alarm">"ตั้งปลุก"</string>
+<string name="set_alarm_off">"ตั้งเวลาปิดเครื่อง"</string>
+<string name="set_alarm_on">"ตั้งเวลาเปิดเครื่อง"</string>
+<string name="set_low_power_value">"ตั้งค่าสำหรับกำลังไฟต่ำ"</string>
+<string name="settings_other">อื่น</string>
+<string name="setup_fingerprint_enroll_finish_message">"เพียงแตะที่เซ็นเซอร์ลายนิ้วมือเพื่อให้หน้าจอเปิดขึ้นและปลดล็อกอุปกรณ์ของคุณ"</string>
+<string name="setup_fingerprint_enroll_finish_message_secondary">"เมื่อเห็นไอคอนนี้ คุณสามารถใช้ลายนิ้วมือได้"</string>
+<string name="setup_fingerprint_enroll_finish_secondary_message">"ในการเปลี่ยนแปลงการตั้งค่า โปรดไปที่การตั้งค่า &gt; ความปลอดภัย &gt; ลายนิ้วมือ"</string>
+<string name="setup_lock_settings_picker_fingerprint_message">"ลายนิ้วมืออาจมีความปลอดภัยน้อยกว่าการใช้รูปแบบ, PIN หรือรหัสผ่านที่เดายาก โปรดตั้งค่าล็อกหน้าจอสำรองเพื่อให้ปลอดภัยยิ่งขึ้น"</string>
+<string name="setup_wifi_nfc_tag">"ตั้งค่าแท็ก NFC สำหรับ Wi-Fi"</string>
+<string name="shake_to_switch">"เขย่าเพื่อเปลี่ยน"</string>
+<string name="shake_to_switch_summary">"เขย่าโทรศัพท์เพื่อเปลี่ยนวอลล์เปเปอร์ถัดไปหรือก่อนหน้า เมื่อไม่ได้ล็อคหน้าจอ"</string>
+<string name="show_silently">"แสดงโดยไม่ส่งเสียง"</string>
+<string name="show_silently_summary">"ไม่ส่งเสียงเตือน สั่น หรือแสดงชั่วครู่ในมุมมองหน้าจอปัจจุบันสำหรับการแจ้งเตือนเหล่านี้"</string>
+<string name="sim_calls_not_set_up">"ไม่ได้ตั้งค่า"</string>
+<string name="sim_change_data_empty">"โมฆะ"</string>
+<string name="sim_disable_prompt">"สถานะยืนยันการใช้งานซิมจะมีการเปลี่ยนแปลงโปรดยืนยันว่าจะต่อหรือไม่?"</string>
+<string name="sim_disabled">ปิด</string>
+<string name="slave">"สเลฟ"</string>
+<string name="small_font">"เล็ก"</string>
+<string name="smart_bell">"เสียงกริ่งอัจฉริยะ"</string>
+<string name="smart_bell_summary">"เสียงเรียกเข้าสูงสุดอัตโนมัติและสั่น"</string>
+<string name="smart_call_forward_error">"ข้อผิดพลาดของเครือข่ายหรือซิมการ์ด"</string>
+<string name="smart_call_recorder">"เครื่องบันทึกการโทรอัจฉริยะ"</string>
+<string name="smart_call_recorder_summary">"ครั้งแรกเขย่าเครื่องในขณะโทร จากนั้นเริ่มการบันทึก"</string>
+<string name="smart_call_title">"โทรอัจฉริยะ"</string>
+<string name="smart_controls">"ควบคุมอัจริยะ"</string>
+<string name="smart_dual_sim_hint">"กรุณาใส่หมายเลขซิม"</string>
+<string name="smart_dual_sim_number_null">"จำนวนซิมเป็นที่ว่างเปล่า. ท่านหมายเลขซิมการป้อนข้อมูล"</string>
+<string name="smart_dual_sim_summary">"จัดการสถานะสมาร์ท สองซิม"</string>
+<string name="smart_dual_sim_title">"สมาร์ท ซิมคู่"</string>
+<string name="smart_dual_sim_warning_message">"เปิดใช้ซิมคู่แบบสมาร์ทหรือไม่\nสำหรับผู้ให้บริการบางราย ฟังก์ชันนี้อาจไม่สามารถใช้งานได้ หรืออาจมีการคิดค่าใช้จ่ายจากคุณ"</string>
+<string name="smart_forwarding_show_dialog">"อย่าแสดงข้อความนี้อีก"</string>
+<string name="smart_motion">"Smart motion"</string>
+<string name="smart_motion_summary">"หยิบขึ้น พลิกหรือเขย่าอุปกรณ์เพื่อควบคุมแอปพลิเคชันที่เกี่ยวข้อง"</string>
+<string name="smart_ok">"ตกลง"</string>
+<string name="smart_play_title">"เล่นเสียงและวิดีโออัจฉริยะ"</string>
+<string name="smart_power_saving_mode">"โหมดประหยัดแบบชาญฉลาด"</string>
+<string name="smart_power_saving_mode_summary">"สามารถใช้ข้อมูล, การโทร และข้อความได้ แนะนำให้ใช้ในชีวิตประจำวัน"</string>
+<string name="smart_wake">"ปลุกอัจฉริยะ"</string>
+<string name="smart_wake_summary">"เลือกอุปกรณ์และดับเบิลคลิกที่ใดก็ได้บนหน้าจอเพื่อเปิดอุปกรณ์"</string>
+<string name="software_power_usage">"ซอฟต์แวร์"</string>
+<string name="software_revision">"เวอร์ชันของซอฟต์แวร์"</string>
+<string name="sound_category_sound_title">"ทั่วไป"</string>
+<string name="sound_category_system_title">"ระบบ"</string>
+<string name="standard">"มาตรฐาน"</string>
+<string name="standard_summary">"คอนทราสต์จะคงที่"</string>
+<string name="status_awaiting_tap">"แตะแท็กเพื่อเขียน..."</string>
+<string name="status_failed_to_write">"ไม่สามารถเขียนข้อมูลลงแท็ก NFC ได้ หากยังคงมีปัญหา โปรดลองใช้แท็กอื่น"</string>
+<string name="status_invalid_password">"รหัสผ่านไม่ถูกต้อง โปรดลองอีกครั้ง"</string>
+<string name="status_network_type">"ประเภทเครือข่ายมือถือ"</string>
+<string name="status_tag_not_writable">"แท็ก NFC ไม่สามารถเขียนได้ โปรดใช้แท็กอื่น"</string>
+<string name="status_unavailable">"ไม่พร้อมใช้งาน"</string>
+<string name="status_wimax_mac_address">"ที่อยู่ MAC สำหรับระบบ 4G"</string>
+<string name="status_write_success">"สำเร็จ!"</string>
+<string name="storage_location_internal">"ที่เก็บข้อมูลภายใน"</string>
+<string name="storage_location_otg">"ที่จัดเก็บข้อมูล OTG"</string>
+<string name="storage_location_sdcard">"การ์ด SD"</string>
+<string name="storage_wizard_format_confirm_body_ex">"ต้องฟอร์แมต <xliff:g id="name" example="SD card">^1</xliff:g> เพื่อความปลอดภัย \n\nหลังจากฟอร์แมตแล้ว <xliff:g id="name" example="SD card">^1</xliff:g>นี้จะทำงานเฉพาะในอุปกรณ์นี้เท่านั้น \n\n&lt;b>การฟอร์แมตจะลบข้อมูลทั้งหมดที่เก็บไว้ใน <xliff:g id="name" example="SD card">^1</xliff:g>&lt;/b> เพื่อหลีกเลี่ยงไม่ให้ข้อมูลสูญหาย ควรสำรองข้อมูลไว้ \n\nหมายเหตุ: การ์ด SD ที่ฟอร์แมตแล้วจะบันทึกข้อมูลสำคัญของคุณ โปรดสำรองข้อมูลเป็นระยะๆ เผื่อในกรณีที่การ์ด SD เสียหาย ข้อมูลสำคัญที่จัดเก็บไว้ในการ์ด SD จะได้ไม่สูญหายไปอย่างถาวร"</string>
+<string name="super_power_saving_mode">"โหมดประหยัดไฟระดับสูง"</string>
+<string name="super_power_saving_mode_summary">"สามารถใช้การโทรและข้อความได้ แนะนำให้ใช้เมื่อแบตเตอรี่เหลือน้อย"</string>
+<string name="super_resolution_settings">"ความละเอียดหน้าจอ"</string>
+<string name="super_resolution_settings_summary">"การปรับความละเอียดหน้าจอช่วยประหยัดพลังงานได้ แต่บางแอปพลิเคชันอาจถูกปิด"</string>
+<string name="swtichmachine">"ตั้งเวลา เปิด/ปิด เครื่อง"</string>
+<string name="system_alert_window_off">"ไม่"</string>
+<string name="system_alert_window_on">"ใช่"</string>
+<string name="tasks_manager">"โปรแกรมจัดการงาน"</string>
+<string name="tethering_footer_info_no_wcn">"ใช้การกระจายสัญญาณเพื่อให้อุปกรณ์เครื่องอื่นๆ ใช้อินเทอร์เน็ตได้ผ่านการเชื่อมต่อข้อมูลมือถือ"</string>
+<string name="time">"เวลา"</string>
+<string name="time_power_off">"เวลาปิดเครื่อง"</string>
+<string name="time_power_on">"เวลาเปิดเครื่อง"</string>
+<string name="time_repeat">"ทำซ้ำ"</string>
+<string name="timer_power_summary">"เปิดเครื่อง, ปิดเครื่อง"</string>
+<string name="timerpower_afternoon">"PM"</string>
+<string name="timerpower_morning">"AM"</string>
+<string name="total_rate">"ข้อมูลที่ส่ง: <xliff:g id="maxSend">%s</xliff:g>, ข้อมูลที่ได้รับ: <xliff:g id="maxReceive">%s</xliff:g>"</string>
+<string name="touch_disable">"ปิดระบบสัมผัส"</string>
+<string name="touch_disable_summary">"ป้องกันการใช้ผิดพลาดเมื่อโทรศัพท์อยู่ในกระเป๋า"</string>
+<string name="touch_light_timeout">"ไฟแบบสัมผัส"</string>
+<string name="touch_light_timeout_summary">"หลังจากไม่มีการใช้งาน <xliff:g id="timeout_description">%1$s</xliff:g> วินาที"</string>
+<string name="touch_light_timeout_title">"ช่วงเวลาที่ไฟจะสว่างเมื่อแตะ"</string>
+<string name="tts_reset_speech_rate_summary">"รีเซ็ตความเร็วในการพูดข้อความเป็นระดับปกติ"</string>
+<string name="tts_reset_speech_rate_title">"รีเซ็ตความเร็วในการพูด"</string>
+<string name="unisoc_dark_ui_mode_disabled_summary_dark_theme_off">"เปิดชั่วคราวเนื่องจากเครื่องมือประหยัดแบตเตอรี่"</string>
+<string name="unisoc_dark_ui_mode_disabled_summary_dark_theme_on">"เปิด / ปิดใช้งานชั่วคราวจากเครื่องมือประหยัดแบตเตอรี่"</string>
+<string name="unisoc_style_suggestion_title">"ปรับแต่งโทรศัพท์"</string>
+<string name="untitled_apn">"ไม่มีชื่อ"</string>
+<string name="update_choice_dialog_ok">"ตกลง"</string>
+<string name="updating_settings">"ตั้งค่าการอัปเดต ..."</string>
+<string name="uplink_rate">"อัตราการอัพลิงค์ตามทฤษฎี: <xliff:g id="maxuprate">%s</xliff:g> อัตราการอัพลิงค์ปัจจุบัน: <xliff:g id="uprate">%s</xliff:g> ต่อวินาที"</string>
+<string name="usb_charge_only">"ชาร์จอย่างเดียว"</string>
+<string name="usb_charge_only_summary">"ใช้โหมดชาร์จอย่างเดียวเมื่อมีการเชื่อมต่อ USB"</string>
+<string name="usb_pc_back">"ย้อนกลับ"</string>
+<string name="usb_pc_cancel">"ยกเลิก"</string>
+<string name="usb_pc_choose_os">"โปรดเลือกระบบปฏิบัติการ"</string>
+<string name="usb_pc_guide">"1.เปิดเครือข่ายคอมพิวเตอร์ที่ใช้ Windows \n\n2.เปิดเครือข่ายที่คุณต้องการใช้ร่วมกันคลิกขวาและเลือก คุณสมบัติ \n\n3.คลิกตัวเลือกขั้นสูง เลือก \'อนุญาตให้ผู้ใช้เครือข่ายคนอื่นแบ่งปันอินเทอร์เน็ตกับคอมพิวเตอร์เครื่องนี้เพื่อเชื่อมต่อ \'(ถ้าตัวเลือกเครือข่ายภายในบ้านของคุณปรากฏ ให้เลือกการเชื่อมต่อเครือข่าย USB ใหม่)"</string>
+<string name="usb_pc_internet_share">"การแชร์อินเทอร์เน็ต USB-PC"</string>
+<string name="usb_pc_internet_share_active_subtext">"ฟังก์ชั่นการเข้าถึงอินเทอร์เน็ต USB PC เปิดอยู่"</string>
+<string name="usb_pc_internet_share_available_subtext">"เชื่อมต่อ USB แล้ว ตรวจสอบเพื่อแชร์อินเทอร์เน็ต USB-PC"</string>
+<string name="usb_pc_internet_share_errored_subtext">"ข้อผิดพลาดการแชร์อินเทอร์เน็ต USB-PC"</string>
+<string name="usb_pc_internet_share_storage_active_subtext">"ไม่สามารถแชร์อินเทอร์เน็ตเมื่ออุปกรณ์จัดเก็บข้อมูล USB มีการใช้งาน"</string>
+<string name="usb_pc_next">"ถัดไป"</string>
+<string name="usb_pc_ok">"ตกลง"</string>
+<string name="usb_storage">"ที่จัดเก็บข้อมูล USB"</string>
+<string name="usb_storage_summary">"เปิดใช้งานที่จัดเก็บข้อมูลจำนวนมากแบบ USB"</string>
+<string name="usb_tethering_active_subtext">"ปล่อยสัญญาณแล้ว"</string>
+<string name="usb_tethering_available_subtext">"เชื่อมต่อ USB แล้ว ตรวจสอบเพื่อปล่อยสัญญาณ"</string>
+<string name="usb_tethering_errored_subtext">"ข้อผิดพลาดในการปล่อยสัญญาณ USB"</string>
+<string name="usb_tethering_storage_active_subtext">"ไม่สามารถเชื่อมต่อได้หากใช้ที่เก็บข้อมูล USB อยู่"</string>
+<string name="usb_tethering_turnon_subtext">"เชื่อมต่อเพื่อเปิด"</string>
+<string name="usb_tethering_unavailable_subtext">"ไม่ได้เชื่อมต่อ USB"</string>
+<string name="usb_use_power_only_desc">"จ่ายไฟไปยังอุปกรณ์อื่นๆ ที่เชื่อมต่ออยู่"</string>
+<string name="usb_virtual_drive">"เสมือนไดรฟ์ USB"</string>
+<string name="usb_virtual_drive_summary">"เปิดใช้งานไดร์ฟ USB เสมือนจริง"</string>
+<string name="use_system_language_to_select_input_method_subtypes">"ใช้ภาษาของระบบ"</string>
+<string name="user_add_on_lockscreen_menu_summary">"เมื่ออุปกรณ์ล็อก"</string>
+<string name="user_summary">"ลงชื่อเข้าใช้เป็น <xliff:g id="USER_NAME">%1$s</xliff:g>"</string>
+<string name="voice_category">"คำพูด"</string>
+<string name="voice_trigger">"ทริกเกอร์ด้วยเสียง"</string>
+<string name="vowifi_connected_checkbox_text">"ไม่ต้องแสดงอีก"</string>
+<string name="vowifi_connected_continue">"ทำต่อ"</string>
+<string name="vowifi_connected_disable">"ปิดใช้งาน"</string>
+<string name="vowifi_connected_message">"ไม่สามารถโทรฉุกเฉินผ่านการโทร Wi-Fi ได้ อุปกรณ์เปลี่ยนไปใช้เครือข่ายเซลลูลาร์ (2G/3G) โดยอัตโนมัติเพื่อโทรออกฉุกเฉิน คุณต้องการใช้บริการโทรผ่าน Wi-Fi ต่อไป หรือต้องการปิดใช้การโทรผ่าน Wi-Fi"</string>
+<string name="vowifi_connected_title">"การโทรฉุกเฉินโดยใช้การโทรผ่าน Wi-Fi"</string>
+<string name="vowifi_service_volte_open_auto_synchronously">"เพื่อรักษาคุณภาพในการโทร ระบบจะเปิดโหมด %s ไปพร้อมกัน"</string>
+<string name="vowifi_service_volte_open_synchronously">"เพื่อให้แน่ใจได้ถึงคุณภาพของการโทร โหมด 4G LTE ขั้นสูงจะเปิดขึ้นในเวลาเดียวกัน"</string>
+<string name="vpn_always_on_active">"แบบเปิดตลอดเวลาใช้งานอยู่"</string>
+<string name="vpn_replace_always_on_vpn_message">"คุณเชื่อมต่อกับเครือข่าย VPN หนึ่งอยู่แล้ว หากคุณจะเชื่อมต่อกับอีกเครือข่ายหนึ่ง ระบบจะแทนที่ VPN ที่มีอยู่"</string>
+<string name="vpn_replace_always_on_vpn_title">"แทนที่ VPN ที่มีอยู่?"</string>
+<string name="wifi_assistant_title">"Wi\u2011Fi Assistant"</string>
+<string name="wifi_automatically_connect_summary">"ให้ตัวช่วย Wi\u2011Fi เชื่อมต่อโดยอัตโนมัติเพื่อเปิดเครือข่ายที่กำหนดไว้เป็นแบบคุณภาพสูง"</string>
+<string name="wifi_automatically_connect_title">"ใช้ Wi\u2011Fi แบบเปิดโดยอัตโนมัติ"</string>
+<string-array name="wifi_calling_mode_choices">
+<item>"ต้องการใช้ Wi-Fi"</item>
+<item>"ใช้เครือข่ายมือถือก่อน"</item>
+<item>"Wi-Fi เท่านั้น"</item>
+</string-array>
+<string-array name="wifi_calling_mode_choices_with_wifionly_with_lteonly">
+<item>"LTE เท่านั้น"</item>
+<item>"ต้องการใช้ Wi-Fi"</item>
+<item>"ใช้เครือข่ายมือถือก่อน"</item>
+<item>"Wi-Fi เท่านั้น"</item>
+</string-array>
+<string-array name="wifi_calling_mode_choices_without_wifi_only">
+<item>"ต้องการใช้ Wi-Fi"</item>
+<item>"ใช้เครือข่ายมือถือก่อน"</item>
+</string-array>
+<string name="wifi_configure_titlebar">"กำหนดค่า Wi\u2011Fi"</string>
+<string name="wifi_connect_failed_message" product="default">"โทรศัพท์ไม่สามารถเชื่อมต่อกับเครือข่าย Wi\u2011Fi นี้"</string>
+<string name="wifi_connect_failed_message" product="device">"อุปกรณ์ไม่สามารถเชื่อมต่อกับเครือข่าย Wi\u2011Fi นี้ได้"</string>
+<string name="wifi_connect_failed_message" product="tablet">"แท็บเล็ตไม่สามารถเชื่อมต่อกับเครือข่าย Wi\u2011Fi นี้"</string>
+<string name="wifi_dont_skip">"ย้อนกลับ"</string>
+<string name="wifi_hotspot_checkbox_text_summary">"ใช้การเชื่อมต่อมือถือในการจัดเตรียมเครือข่าย Wi\u2011Fi"</string>
+<string name="wifi_menu_wps_pbc">"ปุ่มกด WPS"</string>
+<string name="wifi_menu_wps_pin">"รายการ Pin ของ WPS"</string>
+<string name="wifi_menu_write_to_nfc">"เขียนไปยังแท็ก NFC"</string>
+<string name="wifi_other_network">"เพิ่มเครือข่ายอื่น"</string>
+<string name="wifi_saved_access_points_titlebar">"เครือข่ายที่บันทึกไว้"</string>
+<string name="wifi_select_assistant_dialog_title">"เลือกตัวช่วย"</string>
+<string name="wifi_setup_add_network">"เพิ่มเครือข่าย"</string>
+<string name="wifi_setup_back">"ย้อนกลับ"</string>
+<string name="wifi_setup_cancel">"ยกเลิก"</string>
+<string name="wifi_setup_connect">"เชื่อมต่อ"</string>
+<string name="wifi_setup_description_connected">"แตะ &lt;b>ถัดไป&lt;/b> เพื่อตั้งค่าต่อไป\n\nแตะ &lt;b>กลับ&lt;/b> เพื่อเชื่อมต่อกับเครือข่าย Wi\u2011Fi อื่น"</string>
+<string name="wifi_setup_description_connecting">"การเชื่อมต่ออาจใช้เวลาสักครู่\u2026"</string>
+<string name="wifi_setup_eap_not_supported">"คุณไม่สามารถกำหนดค่าการเชื่อมต่อ EAP Wi\u2011Fi ในขณะตั้งค่าได้ หลังจากการตั้งค่า คุณสามารถกำหนดค่าการเชื่อมต่อนี้ได้ในการตั้งค่า &gt; ระบบไร้สายและเครือข่าย"</string>
+<string name="wifi_setup_forget">"ไม่จำ"</string>
+<string name="wifi_setup_next">"ถัดไป"</string>
+<string name="wifi_setup_not_connected">"ไม่ได้เชื่อมต่อ"</string>
+<string name="wifi_setup_refresh_list">"รีเฟรชรายการ"</string>
+<string name="wifi_setup_save">"บันทึก"</string>
+<string name="wifi_setup_skip">"ข้าม"</string>
+<string name="wifi_setup_status_connecting">"กำลังเชื่อมต่อ\u2026"</string>
+<string name="wifi_setup_status_eap_not_supported">"ไม่สนับสนุน EAP"</string>
+<string name="wifi_setup_status_edit_network">"พิมพ์การกำหนดค่าเครือข่าย"</string>
+<string name="wifi_setup_status_existing_network">"เชื่อมต่อกับเครือข่ายที่มีอยู่"</string>
+<string name="wifi_setup_status_new_network">"เชื่อมต่อกับเครือข่ายใหม่"</string>
+<string name="wifi_setup_status_proceed_to_next">"ไปที่ขั้นตอนถัดไป"</string>
+<string name="wifi_setup_status_scanning">"กำลังสแกนเครือข่าย\u2026"</string>
+<string name="wifi_setup_status_select_network">"แตะเครือข่ายเพื่อเชื่อมต่อ"</string>
+<string name="wifi_setup_status_unsecured_network">"เชื่อมต่อกับเครือข่ายที่ไม่ปลอดภัย"</string>
+<string name="wifi_setup_title">"การตั้งค่า Wi\u2011Fi"</string>
+<string name="wifi_setup_title_add_network">"เพิ่มเครือข่าย"</string>
+<string name="wifi_setup_title_connected_network">"เชื่อมต่อกับเครือข่าย Wi\u2011Fi <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g> แล้ว"</string>
+<string name="wifi_setup_title_connecting_network">"กำลังเชื่อมต่อกับเครือข่าย Wi\u2011Fi <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>\u2026"</string>
+<string name="wifi_setup_title_editing_network">"เชื่อมต่อกับเครือข่าย Wi\u2011Fi <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="wifi_setup_wizard_title">"เลือกเครือข่าย Wi\u2011Fi"</string>
+<string name="wifi_skip_anyway">"ข้าม"</string>
+<string name="wifi_skipped_message" product="default">"คำเตือน: โทรศัพท์จะไม่สามารถตรวจสอบได้ว่าซอฟต์แวร์ของคุณทันสมัยหรือไม่จนกว่าคุณจะเชื่อมต่ออินเตอร์เน็ต"</string>
+<string name="wifi_skipped_message" product="device">"คำเตือน: โทรศัพท์จะไม่สามารถตรวจสอบได้ว่าซอฟต์แวร์ของคุณทันสมัยหรือไม่จนกว่าคุณจะเชื่อมต่ออินเตอร์เน็ต"</string>
+<string name="wifi_skipped_message" product="tablet">"คำเตือน: โทรศัพท์จะไม่สามารถตรวจสอบได้ว่าซอฟต์แวร์ของคุณทันสมัยหรือไม่จนกว่าคุณจะเชื่อมต่ออินเตอร์เน็ต"</string>
+<string name="wifi_speed">"ความเร็วในการเชื่อมโยง"</string>
+<string name="wifi_tether_checkbox_text">"ฮอตสปอต Wi\u2011Fi แบบพกพา"</string>
+<string name="wifi_tether_configure_subtext">"ฮอตสปอต Wi\u2011Fi แบบพกพา <xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g>"</string>
+<string name="wifi_wps_complete">"WPS สำเร็จแล้ว กำลังเชื่อมต่อกับเครือข่าย\u2026"</string>
+<string name="wifi_wps_connected">"เชื่อมต่อกับเครือข่าย Wi\u2011Fi <xliff:g id="network_name">%s</xliff:g> แล้ว"</string>
+<string name="wifi_wps_failed_auth">"การตรวจสอบสิทธิ์ล้มเหลว โปรดลองอีกครั้ง"</string>
+<string name="wifi_wps_failed_generic">"WPS ล้มเหลว โปรดลองอีกครั้งหลังในอีก 2-3 นาที"</string>
+<string name="wifi_wps_failed_overlap">"ตรวจพบเซสชัน WPS อีกเซสชันหนึ่ง โปรดลองอีกครั้งในอีก 2-3 นาที"</string>
+<string name="wifi_wps_failed_tkip">"ไม่สนับสนุนการตั้งค่าความปลอดภัยของเราเตอร์แบบไร้สาย (TKIP)"</string>
+<string name="wifi_wps_failed_wep">"ไม่สนับสนุนการตั้งค่าความปลอดภัยของเราเตอร์แบบไร้สาย (WEP)"</string>
+<string name="wifi_wps_in_progress">"WPS กำลังอยู่ระหว่างดำเนินการ และอาจใช้เวลาถึงสองนาทีจึงจะเสร็จสิ้น"</string>
+<string name="wifi_wps_nfc_enter_password">"ป้อนรหัสผ่านเครือข่าย"</string>
+<string name="wifi_wps_onstart_pbc">"กดปุ่ม \"ตั้งค่าการป้องกัน Wi\u2011Fi\" บนเราเตอร์ของคุณ ปุ่มนี้อาจมีชื่อว่า \"WPS\" หรือมีสัญลักษณ์นี้กำกับอยู่ด้วย:"</string>
+<string name="wifi_wps_onstart_pin">"ป้อน PIN <xliff:g id="number">%1$s</xliff:g> บนเราเตอร์ Wi\u2011Fi ของคุณ การตั้งค่าอาจใช้เวลาถึงสองนาทีจึงจะเสร็จสิ้น"</string>
+<string name="wifi_wps_setup_msg">"กำลังเริ่ม WPS\u2026"</string>
+<string name="wifi_wps_setup_title">"ตั้งค่าการป้องกัน Wi\u2011Fi"</string>
+<string name="work_mode_summary">"อนุญาตให้โปรไฟล์งานทำงาน ซึ่งรวมถึงแอป การซิงค์ในพื้นหลัง และคุณลักษณะที่เกี่ยวข้อง"</string>
+<string name="write_settings_preference">"สิทธิ์ของแอปในการแก้ไขการตั้งค่าระบบ"</string>
+<string name="write_tag">"เขียน"</string>
+<string name="zen_mode_all_messages">"ข้อความทั้งหมด"</string>
+<string name="zen_mode_all_visual_interruptions">"ปิด"</string>
+<string name="zen_mode_configure_rule">"กำหนดค่ากฎ"</string>
+<string name="zen_mode_no_visual_interruptions">"เมื่อหน้าจอเปิดหรือปิดอยู่"</string>
+<string name="zen_mode_priority_settings_title">"อนุญาตเฉพาะเรื่องสำคัญ"</string>
+<string name="zen_mode_rule_type">"ประเภทของกฎ"</string>
+<string name="zen_mode_screen_off_visual_interruptions">"เมื่อหน้าจอปิดอยู่"</string>
+<string name="zen_mode_screen_on_visual_interruptions">"เมื่อหน้าจอเปิดอยู่"</string>
+<string name="zen_mode_selected_callers">"ผู้โทรที่เลือกไว้"</string>
+<string name="zen_mode_selected_messages">"ข้อความที่เลือก"</string>
+<string name="zone_auto">"เขตเวลาอัตโนมัติ"</string>
+<string name="zone_auto_summaryOff">"ใช้เขตเวลาที่เครือข่ายระบุ"</string>
+<string name="zone_auto_summaryOn">"ใช้เขตเวลาที่เครือข่ายระบุ"</string>
+<string name="zone_list_menu_sort_alphabetically">"เรียงตามลำดับตัวอักษร"</string>
+<string name="zone_list_menu_sort_by_timezone">"เรียงตามเขตเวลา"</string>
+</resources>

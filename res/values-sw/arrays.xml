@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"Tumia muda uliotolewa na mtandao"</item>
+<item>"Tumia saa inyotolewa na GPS"</item>
+<item>Zima</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"1.5 seconds"</item>
+<item>"Sekunde 6"</item>
+<item>"Ikae ikiwa imewashwa"</item>
+<item>"Kila wakati funga"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"Hii imewekwa chini ya dakika 1 kutoka sasa."</item>
+<item>"Hii imewekwa <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> kuanzia sasa"</item>
+<item>"Hii imewekwa <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> kuanzia sasa"</item>
+<item>"Hii imewekwa<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> na <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>kuanzia sasa"</item>
+<item>"Hii imewekwa <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>kuanzia sasa"</item>
+<item>"Hii imewekwa <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> na <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>kuanzia sasa"</item>
+<item>"Hii imewekwa <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> na <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>kuanzia sasa"</item>
+<item>"Hii imewekwa <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, na <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>  kuanzia sasa"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>Kiotomati</item>
+<item>"Boresha"</item>
+<item>"Hakuna Usadifishaji"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>Kiotomati</item>
+<item>"Washa"</item>
+<item>"Lemaza"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>Kiotomati</item>
+<item>"Funga"</item>
+<item>"Usifunge"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Modi ya kuhifadhi kabisa"</item>
+<item>"Modi ya kihifadhi nishati"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Modi ya kihifadhi nishati"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Modi ya kuhifadhi kabisa"</item>
+<item>"Modi ya kihifadhi nishati"</item>
+<item>"Modi mahiri ya kuhifadhi"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Modi ya kihifadhi nishati"</item>
+<item>"Modi mahiri ya kuhifadhi"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"usasisho wa ndani"</item>
+<item>"usasisho wa SD"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Tumia muda uliotolewa na mtandao"</item>
+<item>Zima</item>
+</string-array>
+</resources>

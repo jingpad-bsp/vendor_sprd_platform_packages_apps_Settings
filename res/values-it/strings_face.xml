@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d %% rimanenti"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Se usi il riconoscimento facciale, tieni presente i seguenti punti:\n1. Il tuo telefono cellulare può essere sbloccato da una persona o riproduzione che ti somigliano.\n2. Il riconoscimento facciale è meno sicuro di impronta digitale, password a disegno, cifratura digitale e codice alfanumerico definito in proprio.\n3. Al buio e in condizioni di luce eccessiva e controluce, la percentuale di successo dello sblocco con riconoscimento facciale diminuisce.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Per usare meglio il riconoscimento facciale, ti preghiamo di notare quanto segue:\n1. Fase di registrazione: per assicurare la chiarezza di immagine del volto da registrare, evita le condizioni di luce buie e gli ambienti molto illuminati o con retroilluminazione. \n2. Una volta che la registrazione è avvenuta con successo, il telefono può essere sbloccato mediante riconoscimento facciale quando lo schermo viene attivato."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Modalità vitalità"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Quando attivata, devi battere le palpebre durante lo sblocco con l\'identificazione facciale per provare al sistema di essere una persona e non una foto o altre riproduzioni"</string>
+<string name="not_support_in_split_mode">"Registrazione non supportata in modalità a schermo diviso"</string>
+</resources>

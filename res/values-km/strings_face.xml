@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"នៅសល់%d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"ប្រើមុខងារស្គាល់ផ្ទៃមុខ សូមចងចាំក្នុងចិត្តនូវកំណត់សម្គាល់ដូចតទៅនេះ៖\n1. ទូរសព្ទចល័តរបស់អ្នកអាចនឹងត្រូវបានដោះសោដោយមនុស្ស ឬធាតុដែលស្រដៀងគ្នាទៅនឹងអ្នក។\n2. មុខងារស្គាល់ផ្ទៃមុខគឺមានសុវត្ថិភាពទាបជាងស្នាមក្រយៅដៃ ពាក្យសម្ងាត់គំរូ អក្សរសម្ងាត់ឌីជីថល និងកូដជាអក្ខរក្រមលេខស្វ័យកំណត់។\n3. នៅក្នុងលក្ខខណ្ឌងងឹត ភ្លឺ និងមានពន្លឺពីខាងក្រោយ អត្រាជោគជ័យក្នុងការដោះសោដោយប្រើមុខងារស្គាល់ផ្ទៃមុខនឹងថយចុះ។\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"ដើម្បីប្រើប្រាស់មុខងារចំណាំមុខឲ្យបានប្រសើរឡើង សូមកត់សម្គាល់អ្វីៗដូចខាងក្រោម៖\n1. ដំណាក់កាលចុះឈ្មោះ ចៀសវាងបរិស្ថានពន្លឺងងឹត ពន្លឺខ្លាំង និងពន្លឺពីខាងក្រោយ ដើម្បីធានានូវភាពច្បាស់នៃរូបភាពមុខដែលបញ្ចូល។ \n2. ក្រោយការចុះឈ្មោះបានជោគជ័យហើយ ទូរសព្ទអាចត្រូវបានដោះសោតាមរយៈការចំណាំមុខបាននៅពេលអេក្រង់កំពុងបើក។"</string>
+<string name="security_settings_face_settings_require_livenessmode">"ម៉ូដរស់រវើក"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"ពេលត្រូវបានបើក អ្នកត្រូវតែធ្មេចភ្នែករបស់អ្នក នៅពេលដោះសោតាម Face ID ដើម្បីប្រាកដថា អ្នកមានលក្ខណៈជាខ្លួនឯងជាជាងរូបថត ឬវត្ថុផ្សេងទៀត"</string>
+<string name="not_support_in_split_mode">"មិនគាំទ្រការចុះឈ្មោះនៅក្នុងម៉ូដអេក្រង់បំបែកទេ"</string>
+</resources>

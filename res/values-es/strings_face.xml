@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d restantes %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Utiliza reconocimiento facial; tenga en cuenta lo siguiente:\n1. Su teléfono móvil puede ser desbloqueado por la persona o el elemento que sea similar a usted.\n2. El reconocimiento facial es menos seguro que la huella digital, la contraseña con patrón, el cifrado digital y el código alfanumérico autodefinido.\n3. En las condiciones de oscuridad, de mucha luz y de retroiluminación, disminuirá el porcentaje de éxito de reconocimiento facial para desbloquear.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Para usar mejor el reconocimiento facial, tenga en cuenta lo siguiente:\n1. En la fase de inscripción, evite la luz oscura, la luz fuerte y entornos retroiluminados para garantizar que la imagen de entrada se vea con claridad. \n2. Una vez finalizado correctamente el procedo, el teléfono puede desbloquearse con reconocimiento facial cuando se enciende la pantalla."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Modo Semejanza"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Si este modo está activado, deberá parpadear al desbloquear el teléfono con su Face ID para verificar que se trata de usted y no de una foto u otros objetos"</string>
+<string name="not_support_in_split_mode">"No admitir registro en modo de pantalla dividida"</string>
+</resources>

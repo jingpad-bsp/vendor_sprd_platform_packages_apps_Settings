@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(ശേഷിക്കുന്ന സമയം: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"പവ്വർ സേവിംഗിന്റെ ഒപ്റ്റിമൈസേഷൻ"</string>
+<string name="calling_enable_data_title">"കോൾ നടക്കുമ്പോൾ മൊബൈൽ നെറ്റുവർക്ക് അക്സസ് ചെയ്യാൻ അനുവദിക്കുക"</string>
+<string name="cannot_disable_two_sim_card">"ഒരേ സമയം നിങ്ങൾക്ക് രണ്ട് SIM കാർഡുകൾ അപ്രാപ്തമാക്കാൻ കഴിയില്ല"</string>
+<string name="cfu_is_on"> "എപ്പോഴും കോള്‍ ഫോര്‍വേഡ് ഓണ്‍ ആണ്"</string>
+<string name="confirm_data_dialog_message">"ഡാറ്റ ആക്സസ്സ് മാറ്റുന്നത്, എല്ലാ LTE സേവനങ്ങളെയും നിർത്തലാക്കുന്നതാണ്. നിങ്ങൾക്ക് തുടരണോ?"</string>
+<string name="confirm_data_dialog_title">"<xliff:g id="d">%1$d</xliff:g> SIM ൽ ഡാറ്റ തിരഞ്ഞെടുക്കുക;"</string>
+<string name="data_enabled_during_calls_dialog_msg">"പ്രാപ്തമാക്കുകയാണെങ്കിൽ, VoLTE കോളുകളുടെ സമയത്ത് സ്വന്തം ഡേറ്റാ കണക്ഷൻ ഉപയോഗിച്ച് ഡേറ്റേതര SIM -ന് ഇന്റർനെറ്റ് അക്സസ് ചെയ്യാൻ കഴിയും. പുറമെയുള്ള ഡേറ്റാ ചാർജ്ജുകൾക്ക് ഇത് കാരണമാകാം."</string>
+<string name="dialog_network_selection_message">"മാന്വല്‍ തിരഞ്ഞെടുപ്പ് മോഡില്‍ നിങ്ങള്‍ക്ക് വേണ്ടി മറ്റ് ദാതാക്കളെ ഈ മൊബൈല്‍ ഫോണ്‍ തിരഞ്ഞെടുക്കുകയില്ല. തിരഞ്ഞെടുത്ത ഓപ്പറേറ്റ്റുടെ സേവനം നഷ്ടമാകുമ്പോള്‍ നിങ്ങള്‍ക്ക് വീണ്ടും മാന്വല്‍ തിരഞ്ഞെടുപ്പ് ചെയ്യേണ്ടിവരുന്നതാണ് അല്ലെങ്കില്‍ ആട്ടോമാറ്റിക് തിരഞ്ഞെടുപ്പിലേക്ക് തിരികെ മാറ്റേണ്ടിവരുന്നതാണ്. നെറ്റ്‌വര്‍ക്ക് നിങ്ങള്‍ക്ക് മാന്വലായി തിരഞ്ഞെടുക്കണോ?"</string>
+<string name="do_not_switch_default_data_subscription">"കോൾ നടക്കുമ്പോൾ, ഡിഫോൾട്ട് ആയ സബ്സ്ക്രിപ്ഷൻ ദയവായി ഓഫ് ചെയ്യരുത്"</string>
+<string name="edit_sim_name_disabled">"ആദ്യം എയർപ്ലെയ്ൻ മോഡ് ഓഫ് ചെയ്യുക"</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"നിലവിലെ നെറ്റുവർക്ക് മോഡ് 4G സപ്പോർട്ട് ചെയ്യുകയില്ല, ആക്ടിവേഷൻ കഴിയുമ്പോൾ കോളുകൾ നടത്താനും സ്വീകരിക്കാനും നിങ്ങൾക്ക് കഴിയില്ല, ഇഷ്ടപ്പെട്ട നെറ്റുവർക്കായി 4G തിരഞ്ഞെടുത്തശേഷം, ദയവായി വീണ്ടും ശ്രമിക്കൂ"</string>
+<string name="exception_error">"നെറ്റ്വര്‍ക്ക് അഥവാ SIM കാര്‍ഡ് പ്രശ്നം."</string>
+<string name="fdn_check_failure">"ഫോണ്‍ അപ്ലിക്കേഷനിലെ ഫിക്സഡ് ഡയലിംഗ് നമ്പര്‍ ക്രമീകരണം ഓണ്‍ ആണ്. അതുകൊണ്ട്, ചില കോള്‍ സംബന്ധിത ഫീച്ചറുകള്‍ പ്രവര്‍ത്തിക്കില്ല."</string>
+<string name="fingerprint_settings_applock">"ആപ് ലോക്ക്"</string>
+<string name="icc_pin_disabled">"സിം <xliff:g id="card_number">%1$d</xliff:g> പിൻ ഡിസേബിൾ ചെയ്തിരിക്കുന്നു!"</string>
+<string name="icc_pin_enabled">"സിം <xliff:g id="card_number">%1$d</xliff:g> പിൻ എണേബിൾ ചെയ്തിരിക്കുന്നു!"</string>
+<string name="invalid_subscription_preference_setting">"സെറ്റിങ് സാധുവല്ല"</string>
+<string name="low_resolution_power_saving">"താഴ്ന്ന റെസൊലൂഷനിലുള്ള പവ്വർ സേവിംഗ്"</string>
+<string name="low_resolution_power_saving_description">"പവ്വർ സേവ് ചെയ്യാൻ ആവശ്യമായിരിക്കുന്നതുകൊണ്ട് സ്ക്രീൻ റെസൊലൂഷൻ കുറയ്ക്കുക"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"എപ്പോഴും ഓണ്‍ലൈന്‍ മൊബൈല്‍ ഡാറ്റ ഡിസേബിള്‍ ചെയ്യുന്നത് ചില ആപ്ലിക്കേഷനുകളില്‍ കണക്ടിവിറ്റി പ്രശ്നങ്ങള്‍ക്ക് കാരണമാകും. കാലികമാക്കാന്‍ ആപ്ലിക്കേഷനുകളില്‍ മാന്വല്‍ റീഫ്രഷ് ഫീച്ചര്‍ ദയവായി ഉപയോഗിക്കുക"</string>
+<string name="mobile_data_always_online_summary">"ചില മൊബൈല്‍ നെറ്റ്വര്‍ക്കുകളില്‍ കൂടുതല്‍ ബാറ്ററി പവര്‍ ഉപയോഗിക്കും"</string>
+<string name="mobile_data_always_online_title">"മൊബൈൽ ഡാറ്റ എല്ലായ്പ്പോഴും ഓൺലൈനാണ്"</string>
+<string name="mobile_data_not_allowed">"നെറ്റ് വർക്ക് തെരെയുമ്പോൾ മൊബൈൽ ഡാറ്റ ലഭ്യമാകുന്നതല്ല"</string>
+<string name="mobile_select_default_voice_sim">"ആദ്യം ഡിഫോൾട്ട് ആയ വോയ്സ് കാർഡ് ദയവായി തിരഞ്ഞെടുക്കുക"</string>
+<string name="network_2G_only">"2G മാത്രം"</string>
+<string name="network_3G_auto">"3G/2G (ഓട്ടോ)"</string>
+<string name="network_3G_only">"3G മാത്രം"</string>
+<string name="network_4G_2G">"4G/3G/2G (ഓട്ടോ)"</string>
+<string name="network_4G_3G">"4G/3G/2G (ഓട്ടോ)"</string>
+<string name="network_4G_only">"4G മാത്രം"</string>
+<string name="network_4g_auto">"4G/3G/2G ഓട്ടോ"</string>
+<string name="network_5G">"5G/4G/3G/2G ഓട്ടോ"</string>
+<string name="network_5G_only">"5G മാത്രം"</string>
+<string name="network_gsm_only">"GSM മാത്രം"</string>
+<string name="network_mode_setting_prompt">"നോട്ടിഫിക്കേഷൻ ബാറിൽനിന്നും നെറ്റുവർക്ക് മോഡ് മാറ്റുന്നത് ഓഫാക്കിയശേഷം ടോഗിൾ ചെയ്യാൻ അനുവദിക്കുന്നു."</string>
+<string name="network_registration_fail">"നെറ്റ്വര്‍ക്ക് രജിസ്ട്രേഷന്‍ പരാജയം, ഓട്ടോമാറ്റിക് സെലക്ഷന്‍ ഫങ്ങ്ഷന്‍ തുറക്കട്ടെ?"</string>
+<string name="network_registration_fail_title">"നെറ്റ്വര്‍ക്ക് രജിസ്ട്രേഷന്‍ പരാജയം"</string>
+<string name="network_wcdma_only">"WCDMA മാത്രം"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM ഓട്ടോ"</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> നമ്പർ:"</string>
+<string name="preferred_data_roaming_all_networks">"എല്ലാ നെറ്റ്വര്‍ക്കുകളും"</string>
+<string name="preferred_data_roaming_dialogtitle">"ഡാറ്റ റോമിങ്ങ്"</string>
+<string name="preferred_data_roaming_disable">"പ്രവര്‍ത്തനരഹിതമാക്കുക"</string>
+<string name="preferred_data_roaming_national">"നാഷണൽ റോമിംഗ് മാത്രം"</string>
+<string name="preferred_data_roaming_summary">"നാഷണൽ റോമിംഗ് മാത്രം"</string>
+<string name="preferred_data_roaming_title">"ഡാറ്റ റോമിങ്ങ്"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"ഈ ക്രമീകരണങ്ങള്‍ നോക്കുന്നതിനു മുമ്പ് റേഡിയോ ഓഫ് ചെയ്യുക."</string>
+<string name="reading_settings">"സജ്ജീകരണങ്ങള്‍ റീഡ് ചെയ്യുന്നു..."</string>
+<string name="reset_networks_progress">"റീസെറ്റ് ചെയ്യുന്നു..."</string>
+<string name="response_error">"നെറ്റ്വര്‍ക്കില്‍നിന്ന് ആകസ്മികമായ പ്രതികരണം."</string>
+<string name="screen_split_not_support">"സ്പ്ലിറ്റ് സ്ക്രീനിൽ മൊബൈൽ നെറ്റുവർക്ക് ചിലപ്പോൾ പ്രവർത്തിക്കില്ല."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"കോൾ സമയത്ത് ഈ പ്രവൃത്തി അനുവദനീയമല്ല."</string>
+<string name="select_lte_prohibited">"ഇപ്പോഴത്തെ സെലക്ഷൻ വിലക്കപ്പെട്ടിരിക്കുന്നു, ദയവായി 4G ഓൺ ചെയ്യുക."</string>
+<string name="select_under_airplane_prohibited">"ആദ്യം എയർപ്ലെയ്ൻ മോഡ് ഓഫ് ചെയ്യുക"</string>
+<string name="sim_calls_not_set_up">"സെറ്റ് ചെയ്തില്ല"</string>
+<string name="sim_disable_prompt">"Simആക്ടിവേഷന്‍ സ്ഥിതി മാറ്റം വരുന്നതാണ്,ദയവായി തുടരണോ എന്ന് ഉറപ്പിക്കുക?"</string>
+<string name="sim_disabled">"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+<string name="simsettings_forced_resizable">"സ്പ്ലിറ്റ് സ്ക്രീനിൽ SIM ക്രമീകരണങ്ങൾ ചിലപ്പോൾ പ്രവർത്തിക്കുകയില്ല."</string>
+<string name="smart_dual_sim_hint">"ദയവായി SIM നമ്പർ ഇൻപുട്ട് ചെയ്യുക."</string>
+<string name="smart_dual_sim_number_null">"SIM നമ്പർ ശൂന്യമാണ്."</string>
+<string name="smart_dual_sim_summary">"സ്മാര്‍ട്ട് ഡ്യുവല്‍ SIM സ്റ്റാറ്റസ് മാനേജ് ചെയ്യൂ"</string>
+<string name="smart_dual_sim_title">"സ്മാര്‍ട്ട് ഡ്യുവല്‍ SIM"</string>
+<string name="smart_dual_sim_warning_message">"Smart Dual SIM പ്രവർത്തിപ്പിക്കുകയാണോ?\nചില സേവന ദാതാക്കളിൽ ഈ പ്രവർത്തനം ശരിയായി നടക്കാതിരിക്കുകയോ താങ്കൾക്ക് ചാർജ്ജ് നൽകേണ്ടി വരുകയോ ചെയ്യാം."</string>
+<string name="smart_forwarding_show_dialog">"ഇത് വീണ്ടും കാട്ടരുത്"</string>
+<string name="turn_off_ims_error">"Wi-Fi കോളിംഗ് പ്രവർത്തനക്ഷമം ആയിരിക്കുമ്പോൾ %s ഓഫ് ചെയ്യാൻ കഴിയില്ല, ദയവായി ആദ്യം Wi-Fi കോളിംഗ് ഓഫ് ചെയ്യുക."</string>
+<string name="updating_settings">"സജ്ജീകരണങ്ങള്‍ കാലികമാക്കുന്നു..."</string>
+<string name="uplmn_preference_title">"UPLMN ഇഷ്ടങ്ങൾ"</string>
+<string name="vt_resolution_setting">"VoLTE വീഡിയോ റെസല്യൂഷൻ തിരഞ്ഞെടുക്കുക"</string>
+</resources>

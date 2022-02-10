@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Залишилося стільки разів: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Оптимізація економії електроенергії"</string>
+<string name="calling_enable_data_title">"Дозволити доступ до мобільної мережі під час виклику"</string>
+<string name="cannot_disable_two_sim_card">"Ви не можете одночасно вимкнути обидві SIM-карти"</string>
+<string name="cfu_is_on">"Переадресація виклику включена"</string>
+<string name="confirm_data_dialog_message">"Зміна доступу до даних зупинить всі служби LTE. Хочете продовжити?"</string>
+<string name="confirm_data_dialog_title">"Вибрати дані на SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Коли цю функцію увімкнено, SIM-картка без мобільного трафіку може отримувати доступ до Інтернету під час викликів VoLTE, використовуючи власне підключення до мобільних даних. За послугу може стягуватися додаткова плата."</string>
+<string name="dialog_network_selection_message">"Мобільний телефон не вибиратиме інших операторів у режимі ручного вибору. Коли втрачено доступ до послуг вибраного оператора, іноді треба знову вибрати його вручну або переключитися в режим автоматичного вибору. Вибрати мережу вручну?"</string>
+<string name="do_not_switch_default_data_subscription">"Не перемикайтеся із заданої за замовчуванням SIM-картки під час виклику"</string>
+<string name="edit_sim_name_disabled">"Спочатку вимкніть режим \"У літаку\"."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"У поточному режимі мережі не підтримується 4G-зв’язок. Після активації ви не зможете здійснювати чи приймати дзвінки. Виберіть 4G як пріоритетний тип мережі й повторіть спробу."</string>
+<string name="exception_error">"Помилка мережі чи SIM-карти."</string>
+<string name="fdn_check_failure">"Настройки номерів фіксованого набору програми \"Телефон\" увімкнено. Унаслідок цього деякі функції, пов’язані з викликами, не працюють."</string>
+<string name="fingerprint_settings_applock">"Блокування програм"</string>
+<string name="icc_pin_disabled">"PIN-код для SIM <xliff:g id="card_number">%1$d</xliff:g> вимкнено."</string>
+<string name="icc_pin_enabled">"PIN-код для SIM <xliff:g id="card_number">%1$d</xliff:g> увімкнено."</string>
+<string name="invalid_subscription_preference_setting">"Неприпустимий параметр."</string>
+<string name="low_resolution_power_saving">"Економія електроенергії завдяки зменшенню роздільної здатності"</string>
+<string name="low_resolution_power_saving_description">"За потреби ви можете заощадити електроенергію, знизивши роздільну здатність екрана"</string>
+<string name="main_card_slot">"осн."</string>
+<string name="mobile_data_always_online_dialog">"Відключення завжди активних мобільних даних може привести до виникнення проблем з підключенням для деяких додатків. Будь ласка, використовуйте в додатках функцію оновлення вручну для того, щоб оновити дані через Інтернет."</string>
+<string name="mobile_data_always_online_summary">"При роботі з деякими мобільними мережами, витрачається більше енергії батареї"</string>
+<string name="mobile_data_always_online_title">"Мобільні дані завжди онлайн"</string>
+<string name="mobile_data_not_allowed">"Мобільний Інтернет під час пошуку по мережі недоступний."</string>
+<string name="mobile_select_default_voice_sim">"Спочатку виберіть типову SIM-картку для голосових дзвінків."</string>
+<string name="network_2G_only">"Тільки 2G"</string>
+<string name="network_3G_auto">"Автоматичний режим 3G/2G"</string>
+<string name="network_3G_only">"Тільки 3G"</string>
+<string name="network_4G_2G">"Автоматичний режим 4G/2G"</string>
+<string name="network_4G_3G">"Автоматичний режим 4G/3G"</string>
+<string name="network_4G_only">"Тільки 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G автоматично"</string>
+<string name="network_5G">"5G/4G/3G/2G автоматично"</string>
+<string name="network_5G_only">"Лише 5G"</string>
+<string name="network_gsm_only">"GSM тільки"</string>
+<string name="network_mode_setting_prompt">"Можна переключатися після вимкнення режиму комутованої мережі на панелі сповіщень."</string>
+<string name="network_registration_fail">"Реєстрація в мережі не виконана. Запустити функцію автоматичного вибору?"</string>
+<string name="network_registration_fail_title">"Реєстрація в мережі не виконана"</string>
+<string name="network_wcdma_only">"WCDMA тільки"</string>
+<string name="network_wcdma_pref">"Автоматичний режим WCDMA/GSM"</string>
+<string name="number_sim">"Номер SIM-картки <xliff:g id="SIM_NUMER" example="1">%d</xliff:g>:"</string>
+<string name="preferred_data_roaming_all_networks">"всі мережі"</string>
+<string name="preferred_data_roaming_dialogtitle">"Роумінг даних"</string>
+<string name="preferred_data_roaming_disable">"Вимкнути"</string>
+<string name="preferred_data_roaming_national">"Тільки національний роумінг"</string>
+<string name="preferred_data_roaming_summary">"Тільки національний роумінг"</string>
+<string name="preferred_data_roaming_title">"Роумінг даних"</string>
+<string name="primary_sub_summary">"осн."</string>
+<string name="radio_off_error">"Увімкніть радіо перед переглядом цих налаштувань."</string>
+<string name="reading_settings">"Зчитування параметрів ..."</string>
+<string name="reset_networks_progress">"скидання налаштувань\u2026"</string>
+<string name="response_error">"Неочікувана відповідь від мережі"</string>
+<string name="screen_split_not_support">"Мобільна мережа може не підтримувати розділений екран."</string>
+<string name="secondary_card_slot">"др."</string>
+<string name="secondary_sub_summary">"др."</string>
+<string name="select_during_call_prohibited">"Ця операція неприпустима під час виклику."</string>
+<string name="select_lte_prohibited">"Поточний варіант вибору заборонений – увімкніть 4G."</string>
+<string name="select_under_airplane_prohibited">"Спочатку вимкніть режим \"У літаку\"."</string>
+<string name="sim_calls_not_set_up">"Не налаштовано"</string>
+<string name="sim_disable_prompt">"активація sim буде змінена. Продовжити?"</string>
+<string name="sim_disabled">"Вимкнено"</string>
+<string name="simsettings_forced_resizable">"Налаштування SIM-картки можуть не підтримувати розділений екран."</string>
+<string name="smart_dual_sim_hint">"Введіть номер SIM-картки."</string>
+<string name="smart_dual_sim_number_null">"Номер SIM-картки пустий."</string>
+<string name="smart_dual_sim_summary">"Управління статусом  інтелектуальної подвійної SIM"</string>
+<string name="smart_dual_sim_title">"інтелектуальна подвыйна SIM"</string>
+<string name="smart_dual_sim_warning_message">"Увімкнути Smart Dual SIM?\nЦя функція може не підтримуватися оператором або бути платною."</string>
+<string name="smart_forwarding_show_dialog">"Більше не показувати це повідомлення"</string>
+<string name="turn_off_ims_error">"%s не вимикається, якщо увімкнено дзвінки через Wi-Fi – спочатку вимкніть Wi-Fi."</string>
+<string name="updating_settings">"Оновлення налаштувань ..."</string>
+<string name="uplmn_preference_title">"Параметри UPLMN"</string>
+<string name="vt_resolution_setting">"Виберіть роздільну здатність відео VoLTE"</string>
+</resources>

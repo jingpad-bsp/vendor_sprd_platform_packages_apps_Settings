@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"ජාලයෙන්-සැපයූ වේලාව භාවිතා කරන්න"</item>
+<item>"GPS-සපයන ලද වේලාව භාවිත කරන්න"</item>
+<item>"ක්‍රියාවිරහිතයි"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"ජාලයෙන්-සැපයූ වේලාව භාවිතා කරන්න"</item>
+<item>"ක්‍රියාවිරහිතයි"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>"තත්පර 1.5"</item>
+<item>"තත්පර 6"</item>
+<item>"සැම විටම ක්‍රියාත්මකයි"</item>
+<item>"සැමවිට වසන්න"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"මෙය දැන් සිට මිනිත්තු 1කට අඩුවෙන් සකසා ඇත."</item>
+<item>"මෙය දැන් සිට <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>කට සකසා ඇත."</item>
+<item>"මෙය දැන් සිට <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>කට සකසා ඇත."</item>
+<item>"මෙය දැන් සිට <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> සහ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> කට සකසා ඇත."</item>
+<item>"මෙය දැන් සිට <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>කට සකසා ඇත."</item>
+<item>"මෙය දැන් සිට <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> සහ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> කට සකසා ඇත."</item>
+<item>"මෙය දැන් සිට <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> සහ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> කට සකසා ඇත."</item>
+<item>"මෙය දැන් සිට <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, සහ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> කට සකසා ඇත."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"ස්වයං"</item>
+<item>"ප්‍රශස්ත කරන්න"</item>
+<item>"ප්‍රශස්ත කර නැත"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"ස්වයං"</item>
+<item>"සක්‍රිය කරන්න"</item>
+<item>"අක්‍රිය කරන්න"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"ස්වයං"</item>
+<item>"වසන්න"</item>
+<item>"වහන්න එපා"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"වැඩිපුර සුරකීමේ ප්‍රකාරය"</item>
+<item>"බල සුරැකුම් ප්‍රකාරය"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"බල සුරැකුම් ප්‍රකාරය"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"වැඩිපුර සුරකීමේ ප්‍රකාරය"</item>
+<item>"බල සුරැකුම් ප්‍රකාරය"</item>
+<item>"ස්මාර්ට් සුරැකි ප්‍රකාරය"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"බල සුරැකුම් ප්‍රකාරය"</item>
+<item>"ස්මාර්ට් සුරැකි ප්‍රකාරය"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"අභ්‍යන්තර යාවත්කාලය"</item>
+<item>"SD යාවත්කාලය"</item>
+</string-array>
+</resources>

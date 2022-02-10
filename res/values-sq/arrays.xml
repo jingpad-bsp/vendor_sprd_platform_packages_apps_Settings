@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>Përdor orën e ofruar nga rrjeti</item>
+<item>Përdor kohën e dhënë nga GPS</item>
+<item>Joaktive</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>Përdor orën e ofruar nga rrjeti</item>
+<item>Joaktive</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 sekonda</item>
+<item>6 sekonda</item>
+<item>Gjithmonë aktive</item>
+<item>Mbyll gjithmonë</item>
+</string-array>
+<string-array name="alarm_set">
+<item>Ky është vendosur për më pak se 1 minutë nga tani.</item>
+<item>"Ky është vendosur për <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> nga tani."</item>
+<item>"Ky është vendosur për <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> nga tani."</item>
+<item>"Ky është vendosur për <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dhe <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>  nga tani."</item>
+<item>"Ky është vendosur për <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> nga tani."</item>
+<item>"Ky është vendosur për <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dhe <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> nga tani."</item>
+<item>"Ky është vendosur për <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dhe <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> nga tani."</item>
+<item>"Ky është vendosur për <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, dhe <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> nga tani."</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Modaliteti i kursimit të energjisë"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"Përditësim i brendshëm"</item>
+<item>"Përditësim i SD"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Modaliteti Kursim i energjisë"</item>
+<item>"Modaliteti Kursim inteligjent"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Modaliteti Ultra kursim"</item>
+<item>"Modaliteti Kursim i energjisë"</item>
+<item>"Modaliteti Kursim inteligjent"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Modaliteti Ultra kursim"</item>
+<item>"Modaliteti Kursim i energjisë"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"Auto"</item>
+<item>"Mbyll"</item>
+<item>"Mos e mbyll"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"Auto"</item>
+<item>"Optimizo"</item>
+<item>"Asnjë optimizim"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"Auto"</item>
+<item>"Aktivizo"</item>
+<item>"Çaktivizo"</item>
+</string-array>
+</resources>

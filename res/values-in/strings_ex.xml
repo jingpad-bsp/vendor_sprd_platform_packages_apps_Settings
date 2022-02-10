@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Sisa waktu: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Pengoptimalan penghematan daya"</string>
+<string name="calling_enable_data_title">"Izinkan untuk mengakses jaringan seluler saat melakukan panggilan"</string>
+<string name="cannot_disable_two_sim_card">"Anda tidak bisa menonaktifkan dua kartu SIM secara bersamaan"</string>
+<string name="cfu_is_on">"Selalu melanjutkan panggilan diaktifkan"</string>
+<string name="confirm_data_dialog_message">"Mengubah akses data akan menghendikan semua pelayanan LTE. Apakah anda akan melanjutkan?"</string>
+<string name="confirm_data_dialog_title">"Memilih data pada SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Jika diaktifkan, SIM non-data dapat mengakses Internet menggunakan koneksi data seluler selama panggilan VoLTE. Hal ini mungkin mengenakan biaya data tambahan."</string>
+<string name="dialog_network_selection_message">"Telepon seluler tidak akan memilihkan operator lain jika Anda menggunakan mode pemilihan manual. Terkadang Anda harus melakukan pemilihan manual lagi atau mengubah kembali ke mode pemilihan otomatis ketika layanan operator terpilih hilang. Apakah Anda ingin memilih jaringan secara manual?"</string>
+<string name="do_not_switch_default_data_subscription">"Jangan alihkan pelangganan bawaan selama panggilan"</string>
+<string name="edit_sim_name_disabled">"Matikan dahulu mode pesawat udara."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Mode jaringan saat ini tidak mendukung 4G. Setelah aktivasi, Anda tidak akan bisa membuat dan menerima panggilan. Alihkan jenis jaringan yang disukai ke 4G dan cobalah lagi"</string>
+<string name="exception_error">"Kesalahan jaringan atau kartu SIM."</string>
+<string name="fdn_check_failure">"Setelan Nomor Panggilan Tetap aplikasi Ponsel Anda diaktifkan. Akibatnya, beberapa fitur yang terkait dengan panggilan tidak bekerja."</string>
+<string name="fingerprint_settings_applock">"Penguncian aplikasi"</string>
+<string name="icc_pin_disabled">"PIN <xliff:g id="card_number">%1$d</xliff:g> SIM Dinonaktifkan!"</string>
+<string name="icc_pin_enabled">"PIN <xliff:g id="card_number">%1$d</xliff:g> SIM Diaktifkan!"</string>
+<string name="invalid_subscription_preference_setting">"Pengaturan tidak valid."</string>
+<string name="low_resolution_power_saving">"Penghematan daya resolusi rendah"</string>
+<string name="low_resolution_power_saving_description">"Turunkan resolusi layar seperlunya untuk membantu penghematan daya"</string>
+<string name="main_card_slot">"KARTU UTAMA. "</string>
+<string name="mobile_data_always_online_dialog">"Menonaktifkan selalu data telepon online akan mengakibatkan masalah koneksi di beberapa aplikasi. Silahkan menggunakan fitur menyegarkan secara manual di aplikasi untuk memperbarui data online."</string>
+<string name="mobile_data_always_online_summary">"Memerlukan banyak daya baterai di beberapa koneksi telepon"</string>
+<string name="mobile_data_always_online_title">"Data telepon selalu online"</string>
+<string name="mobile_data_not_allowed">"Data seluler tidak tersedia selama pencarian jaringan."</string>
+<string name="mobile_select_default_voice_sim">"Pilih dahulu kartu SIM suara bawaan."</string>
+<string name="network_2G_only">"Hanya 2G"</string>
+<string name="network_3G_auto">"3G/2G otomatis"</string>
+<string name="network_3G_only">"Hanya 3G"</string>
+<string name="network_4G_2G">"4G/2G otomatis"</string>
+<string name="network_4G_3G">"4G/3G otomatis"</string>
+<string name="network_4G_only">"Hanya 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G Otomatis"</string>
+<string name="network_5G">"5G/4G/3G/2G otomatis"</string>
+<string name="network_5G_only">"5G saja"</string>
+<string name="network_gsm_only">HAnya GSM</string>
+<string name="network_mode_setting_prompt">"Anda dapat beralih setelah menonaktifkan mode pengalihan jaringan dari bilah notifikasi."</string>
+<string name="network_registration_fail">"Pendaftaran jaringan gagal, apakah untuk membuka fungsi memilih otomatis?"</string>
+<string name="network_registration_fail_title">"Jaringan pendaftaran gagal"</string>
+<string name="network_wcdma_only">Hanya WCDMA</string>
+<string name="network_wcdma_pref">"WCDMA/GSM otomatis"</string>
+<string name="number_sim">"Nomor <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> SIM:"</string>
+<string name="preferred_data_roaming_all_networks">Semua jaringan</string>
+<string name="preferred_data_roaming_dialogtitle">"Data roaming"</string>
+<string name="preferred_data_roaming_disable">"Nonaktifkan"</string>
+<string name="preferred_data_roaming_national">"Hanya roaming Nasional"</string>
+<string name="preferred_data_roaming_summary">"Hanya roaming Nasional"</string>
+<string name="preferred_data_roaming_title">"Data roaming"</string>
+<string name="primary_sub_summary">"KARTU UTAMA. "</string>
+<string name="radio_off_error">"Hidupkan radio sebelum melihat setelan ini."</string>
+<string name="reading_settings">"Membaca pengaturan..."</string>
+<string name="reset_networks_progress">"mereset\u2026"</string>
+<string name="response_error">"Tanggapan tak terduga dari jaringan."</string>
+<string name="screen_split_not_support">"Jaringan seluler mungkin tidak berfungsi pada layar terpisah."</string>
+<string name="secondary_card_slot">"KARTU KEDUA. "</string>
+<string name="secondary_sub_summary">"KARTU KEDUA. "</string>
+<string name="select_during_call_prohibited">"Operasi ini tidak dapat dilakukan saat dalam panggilan."</string>
+<string name="select_lte_prohibited">"Pilihan saat ini terlarang, aktifkan 4G"</string>
+<string name="select_under_airplane_prohibited">"Matikan dahulu mode pesawat udara."</string>
+<string name="sim_calls_not_set_up">"Tidak disiapkan"</string>
+<string name="sim_disable_prompt">"Kedudukan aktifasi Sim akan berubah, silahkan memastikan apakah mau melanjutkan?" </string>
+<string name="sim_disabled">Nonaktifkan</string>
+<string name="simsettings_forced_resizable">"Setelan SIM mungkin tidak berfungsi pada layar terpisah."</string>
+<string name="smart_dual_sim_hint">"Masukkan nomor SIM."</string>
+<string name="smart_dual_sim_number_null">"Nomor SIM kosong."</string>
+<string name="smart_dual_sim_summary">"Mengatur status Fungsi Ganda SIM"</string>
+<string name="smart_dual_sim_title">"Fungsi Ganda SIM"</string>
+<string name="smart_dual_sim_warning_message">"Aktifkan Smart Dual SIM?\nnDengan beberapa operator layanan, fungsi ini bisa tidak berfungsi atau Anda mungkin dikenai biaya."</string>
+<string name="smart_forwarding_show_dialog">"Jangan menampikan ini lagi"</string>
+<string name="turn_off_ims_error">"Tidak dapat mematikan %s apabila panggilan Wi-Fi diaktifkan, matikan dahulu panggilan Wi-Fi."</string>
+<string name="updating_settings">"Memperbarui pengaturan..."</string>
+<string name="uplmn_preference_title">"Preferensi UPLMN"</string>
+<string name="vt_resolution_setting">"Pilih resolusi video VoLTE"</string>
+</resources>

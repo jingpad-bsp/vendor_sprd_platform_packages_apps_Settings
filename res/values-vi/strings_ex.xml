@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Số lần còn lại: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Tối ưu tiết kiệm pin"</string>
+<string name="calling_enable_data_title">"Cho phép truy cập mạng di động khi đang có cuộc gọi"</string>
+<string name="cannot_disable_two_sim_card">"Bạn không được tắt cùng lúc hai thẻ SIM"</string>
+<string name="cfu_is_on">"Cuộc gọi chuyển tiếp luôn bật"</string>
+<string name="confirm_data_dialog_message">"Thay đổi truy cập dữ liệu sẽ ngừng tất cả dịch vụ LTE. Bạn muốn tiếp tục không?"</string>
+<string name="confirm_data_dialog_title">"Chọn dữ liệu Trong SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Khi được bật, SIM phi dữ liệu có thể truy cập Internet bằng kết nối dữ liệu di động của riêng nó khi có cuộc gọi qua VoLTE. Thao tác này có thể yêu cầu bạn phải trả thêm phí dữ liệu."</string>
+<string name="dialog_network_selection_message">"Điện thoại di động sẽ không chọn các nhà mạng khác cho bạn khi ở chế độ lựa chọn thủ công. Đôi khi bạn phải chọn lại theo cách thủ công hoặc đổi về chế độ lựa chọn tự dộng khi bạn mất dịch vụ của nhà mạng đã chọn. Bạn muốn chọn mạng theo cách thủ công?"</string>
+<string name="do_not_switch_default_data_subscription">"Không chuyển thuê bao mặc định trong khi thực hiện cuộc gọi"</string>
+<string name="edit_sim_name_disabled">"Tắt chế độ máy bay trước."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"Chế độ mạng hiện tại không hỗ trợ 4G, sau khi kích hoạt, bạn sẽ không thể thực hiện và nhận cuộc gọi, vui lòng chuyển loại mạng ưa thích sang 4G và thử lại"</string>
+<string name="exception_error">"Lỗi mạng hoặc thẻ SIM."</string>
+<string name="fdn_check_failure">"Cài đặt Số quay định sẵn trên ứng dụng điện thoại được bật. Do đó, một số tính năng có liên quan đến cuộc gọi không hoạt động."</string>
+<string name="fingerprint_settings_applock">"Khóa ứng dụng"</string>
+<string name="icc_pin_disabled">"Đã tắt mã PIN SIM <xliff:g id="card_number">%1$d</xliff:g>!"</string>
+<string name="icc_pin_enabled">"Đã bật mã PIN SIM <xliff:g id="card_number">%1$d</xliff:g>!"</string>
+<string name="invalid_subscription_preference_setting">"Cài đặt không hợp lệ."</string>
+<string name="low_resolution_power_saving">"Độ phân giải thấp tiết kiệm pin"</string>
+<string name="low_resolution_power_saving_description">"Giảm độ phân giải màn hình khi cần sẽ giúp tiết kiệm pin"</string>
+<string name="main_card_slot">"CHÍNH "</string>
+<string name="mobile_data_always_online_dialog">"Luôn luôn vô hiệu hóa dữ liệu di động trực tuyến sẽ gây ra các vấn đề kết nối trong một số ứng dụng. Vui lòng sử dụng các tính năng làm mới hướng dẫn trong các ứng dụng để cập nhật dữ liệu trực tuyến."</string>
+<string name="mobile_data_always_online_summary">"Tiêu hao pin  nhiều hơn trên một số mạng di động"</string>
+<string name="mobile_data_always_online_title">"Dữ liệu di động luôn luôn trực tuyến"</string>
+<string name="mobile_data_not_allowed">"Dữ liệu di động không khả dụng khi tìm kiếm mạng."</string>
+<string name="mobile_select_default_voice_sim">"Vui lòng chọn thẻ SIM thoại mặc định trước."</string>
+<string name="network_2G_only">"Chỉ riêng 2G"</string>
+<string name="network_3G_auto">"3G/2G tự động"</string>
+<string name="network_3G_only">"Chỉ 3G"</string>
+<string name="network_4G_2G">"4G/2G tự động"</string>
+<string name="network_4G_3G">"4G/3G tự động"</string>
+<string name="network_4G_only">"Chỉ 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G Tự động"</string>
+<string name="network_5G">"5G/4G/3G/2G tự động"</string>
+<string name="network_5G_only">"Chỉ 5G"</string>
+<string name="network_gsm_only">"Chỉ GSM"</string>
+<string name="network_mode_setting_prompt">"Cho phép bật sau khi tắt chế độ chuyển đổi mạng từ thanh thông báo."</string>
+<string name="network_registration_fail">"Đăng ký mạng thất bại, cho dù để mở chức năng tự động lựa chọn?"</string>
+<string name="network_registration_fail_title">"Đăng ký mạng thất bại"</string>
+<string name="network_wcdma_only">"Chỉ WCDMA"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM tự động"</string>
+<string name="number_sim">"Số SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g>:"</string>
+<string name="preferred_data_roaming_all_networks">Tất cả mạng</string>
+<string name="preferred_data_roaming_dialogtitle">"Chuyển vùng dữ liệu"</string>
+<string name="preferred_data_roaming_disable">"Tắt"</string>
+<string name="preferred_data_roaming_national">"Chỉ dùng mạng trong nước"</string>
+<string name="preferred_data_roaming_summary">"Chỉ dùng mạng trong nước"</string>
+<string name="preferred_data_roaming_title">"Chuyển vùng dữ liệu"</string>
+<string name="primary_sub_summary">"CHÍNH "</string>
+<string name="radio_off_error">"Hãy bật radio trước khi xem những cài đặt này."</string>
+<string name="reading_settings">"Đọc sách thiết lập …"</string>
+<string name="reset_networks_progress">"đang thiết lập lại\u2026"</string>
+<string name="response_error">"Phản hồi không mong muốn từ mạng."</string>
+<string name="screen_split_not_support">"Mạng di động có thể không hoạt động ở chế độ chia màn hình."</string>
+<string name="secondary_card_slot">"PHỤ"</string>
+<string name="secondary_sub_summary">"PHỤ"</string>
+<string name="select_during_call_prohibited">"Không thực hiện thao tác này khi đang có cuộc gọi."</string>
+<string name="select_lte_prohibited">"Lựa chọn hiện tại bị cấm, vui lòng bật 4G."</string>
+<string name="select_under_airplane_prohibited">"Tắt chế độ máy bay trước."</string>
+<string name="sim_calls_not_set_up">"Chưa thiết lập"</string>
+<string name="sim_disable_prompt">"Trạng thái kích hoạt sim sẽ bị thay đổi, vui lòng xác nhận tiếp tục hay không?"</string>
+<string name="sim_disabled">Tắt</string>
+<string name="simsettings_forced_resizable">"Cài đặt SIM có thể không hoạt động với chế độ chia màn hình."</string>
+<string name="smart_dual_sim_hint">"Hãy nhập số SIM."</string>
+<string name="smart_dual_sim_number_null">"Số SIM trống."</string>
+<string name="smart_dual_sim_summary">"Quản lý tình trạng hai thẻ thông minh" </string>
+<string name="smart_dual_sim_title">"Hai thẻ thông minh"</string>
+<string name="smart_dual_sim_warning_message">"Bật chức năng hai SIM thông minh?\nVới một số nhà cung cấp dịch vụ, chức năng này có thể không hoạt động chính xác hoặc bạn có thể phải trả phí."</string>
+<string name="smart_forwarding_show_dialog">"Không hiện lại lần nữ"a</string>
+<string name="turn_off_ims_error">"Không thể tắt %s khi cuộc gọi Wi-Fi bật, vui lòng tắt cuộc gọi Wi-Fi trước."</string>
+<string name="updating_settings">"Cài đặt cập nhật …"</string>
+<string name="uplmn_preference_title">"Tùy chọn UPLMN"</string>
+<string name="vt_resolution_setting">"Chọn độ phân giải video qua VoLTE"</string>
+</resources>

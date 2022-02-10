@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(Fennmaradó alkalmak: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"Energiatakarékosság optimalizálása"</string>
+<string name="calling_enable_data_title">"Hozzáférés engedélyezése a mobilhálózathoz hívás közben"</string>
+<string name="cannot_disable_two_sim_card">Nem tilthat le egyszerre két SIM-kártyát</string>
+<string name="cfu_is_on">"Az állandó hívástovábbítás bekapcsolva"</string>
+<string name="confirm_data_dialog_message">"Az adathozzáférés megváltoztatása leállítja az összes LTE szolgáltatást. Folytatja?"</string>
+<string name="confirm_data_dialog_title">"Válassza ki az adatokat a SIM-en <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"Ha be van kapcsolva, a nem adat-SIM hozzáférhet az internethez saját adatkapcsolatán keresztül VoLTE hívások közben. Ez adatforgalmi díjakkal járhat."</string>
+<string name="dialog_network_selection_message">A mobiltelefon manuális kiválasztási módban nem fog más szolgáltatókat kiválasztani. Bizonyos esetekben ismét manuális kiválasztást kell végezni, vagy vissza kell váltani automatikus kiválasztási módra, amikor a kiválasztott szolgáltató szolgáltatása elveszik. Szeretné manuálisan kiválasztani a hálózatot?</string>
+<string name="do_not_switch_default_data_subscription">"Ne váltson alapértelmezett előfizetést hívás közben"</string>
+<string name="edit_sim_name_disabled">"Először kapcsolja ki a repülőgép üzemmódot."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"A jelenlegi hálózati mód nem támogatja a 4G kapcsolatot, az aktiválást követően nem lesz képes hívásokat kezdeményezni vagy fogadni, kérjük váltson 4G előnyben részesített hálózatra, és próbálja újra."</string>
+<string name="exception_error">"Hiba a hálózatban vagy a SIM-kártyánál."</string>
+<string name="fdn_check_failure">"Telefonja alkalmazásának Fix hívószámok beállítása be van kapcsolva. Ennek eredményeként bizonyos hívásfunkciók nem működnek."</string>
+<string name="fingerprint_settings_applock">Alkalmazás-zárolás</string>
+<string name="icc_pin_disabled"><xliff:g id="card_number">%1$d</xliff:g> SIM-kártya PIN-kód letiltva!</string>
+<string name="icc_pin_enabled"><xliff:g id="card_number">%1$d</xliff:g> SIM-kártya PIN-kód engedélyezve!</string>
+<string name="invalid_subscription_preference_setting">"Érvénytelen beállítás."</string>
+<string name="low_resolution_power_saving">"Alacsony felbontású energiatakarékosság"</string>
+<string name="low_resolution_power_saving_description">"Csökkentse a képernyő-felbontást szükség szerint, hogy takarékoskodjon az energiával"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"Az adatforgalom állandó kikapcsolása csatlakozási problémákat okozhat egyes alkalmazásokban. Kérem, használja a kézi frissítési funkciót az alkalmazásokban az online adatok frissítéséhez."</string>
+<string name="mobile_data_always_online_summary">"Több akkumulátort használ néhány mobilhálózaton"</string>
+<string name="mobile_data_always_online_title">"A mobiladat mindig online"</string>
+<string name="mobile_data_not_allowed">"Hálózatkeresés közben a mobiladatforgalom nem érhető el."</string>
+<string name="mobile_select_default_voice_sim">"Kérjük, először válassza ki az alapértelmezett hanghívás kártyát."</string>
+<string name="network_2G_only">"Csak 2G"</string>
+<string name="network_3G_auto">3G/2G Auto.</string>
+<string name="network_3G_only">Csak 3G</string>
+<string name="network_4G_2G">Automatikus 4G/2G</string>
+<string name="network_4G_3G">Automatikus 4G/3G</string>
+<string name="network_4G_only">"Csak 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G Auto"</string>
+<string name="network_5G">"5G/4G/3G/2G auto"</string>
+<string name="network_5G_only">"Csak 5G"</string>
+<string name="network_gsm_only">"Csak GSM"</string>
+<string name="network_mode_setting_prompt">"Módosítható a hálózatváltás üzemmód kikapcsolása után az értesítési sávról."</string>
+<string name="network_registration_fail">"A hálózati regisztráció sikertelen, megnyitja az automatikus kiválasztási funkciót?"</string>
+<string name="network_registration_fail_title">"A hálózati regisztráció sikertelen"</string>
+<string name="network_wcdma_only">"Csak WCDMA"</string>
+<string name="network_wcdma_pref">Automatikus WCDMA/GSM</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> szám:"</string>
+<string name="preferred_data_roaming_all_networks">Minden hálózat</string>
+<string name="preferred_data_roaming_dialogtitle">"Adatroaming"</string>
+<string name="preferred_data_roaming_disable">"Kikapcsolás"</string>
+<string name="preferred_data_roaming_national">"Csak országos roaming"</string>
+<string name="preferred_data_roaming_summary">"Csak országos roaming"</string>
+<string name="preferred_data_roaming_title">"Adatroaming"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"Kapcsolja be a rádiót a beállítások megtekintése előtt."</string>
+<string name="reading_settings">"Olvasási beállítások..."</string>
+<string name="reset_networks_progress">visszaállítás\u2026</string>
+<string name="response_error">"Nem várt válasz a hálózattól."</string>
+<string name="screen_split_not_support">"A mobilhálózat nem működik osztott képernyővel."</string>
+<string name="secondary_card_slot">"MP"</string>
+<string name="secondary_sub_summary">"MP"</string>
+<string name="select_during_call_prohibited">"Ez a művelet nem használható hívás közben."</string>
+<string name="select_lte_prohibited">"A jelenlegi választás le van tiltva, kérjük, kapcsolja be a 4G-t."</string>
+<string name="select_under_airplane_prohibited">"Először kapcsolja ki a repülőgép üzemmódot."</string>
+<string name="sim_calls_not_set_up">"Nincs beállítva"</string>
+<string name="sim_disable_prompt">"A SIM aktiválási állapot megváltozik. Folytatja?"</string>
+<string name="sim_disabled">"Letiltva"</string>
+<string name="simsettings_forced_resizable">"A SIM-beállítás nem működik osztott képernyővel."</string>
+<string name="smart_dual_sim_hint">"Adja meg a SIM-számot."</string>
+<string name="smart_dual_sim_number_null">"A SIM-szám üres."</string>
+<string name="smart_dual_sim_summary">"Az okos kettős SIM állapotának kezelése"</string>
+<string name="smart_dual_sim_title">"Okos kettős SIM"</string>
+<string name="smart_dual_sim_warning_message">"Dupla SIM engedélyezése?\nElőfordulhat, hogy bizonyos szolgáltatóknál ez a funkció nem működik megfelelően, vagy díjat számítanak fel érte."</string>
+<string name="smart_forwarding_show_dialog">"Ne mutassa újra"</string>
+<string name="turn_off_ims_error">"A(z) %s nem kapcsolható ki, amikor engedélyezve van a Wi-Fi hívás, kérjük, először kapcsolja ki a Wi-Fi hívást."</string>
+<string name="updating_settings">"Frissítési beállítások..."</string>
+<string name="uplmn_preference_title">"UPLMN beállítás"</string>
+<string name="vt_resolution_setting">"Válassza ki a VoLTE videofelbontást"</string>
+</resources>

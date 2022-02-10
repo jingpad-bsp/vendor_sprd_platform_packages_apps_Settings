@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="hotspot_mode">
+<item>"ନର୍ମାଲ୍ ମୋଡ୍"</item>
+<item>"ହ୍ୱାଇଟ୍ ଲିଷ୍ଟ ମୋଡ୍"</item>
+</string-array>
+<string-array name="soft_ap_sleep_policy_entries">
+<item>"ସବୁବେଳେ"</item>
+<item>"5 ମିନିଟ୍ ପାଇଁ କୌଣସି ପ୍ରକାର କାମ କରୁ ନ ଥିଲେ ବନ୍ଦ କରନ୍ତୁ"</item>
+<item>"10 ମିନିଟ୍ ପାଇଁ କୌଣସି ପ୍ରକାର କାମ କରୁ ନ ଥିଲେ ବନ୍ଦ କରନ୍ତୁ"</item>
+</string-array>
+<string-array name="hotspot_wps_mode">
+<item>"WPS ବଟନ୍"</item>
+<item>"WPS ପିନ୍"</item>
+</string-array>
+<string-array name="wifi_ap_channel">
+<item>"ଆପେ"</item>
+<item>"1"</item>
+<item>"2"</item>
+<item>"3"</item>
+<item>"4"</item>
+<item>"5"</item>
+<item>"6"</item>
+<item>"7"</item>
+<item>"8"</item>
+<item>"9"</item>
+<item>"10"</item>
+<item>"11"</item>
+</string-array>
+</resources>

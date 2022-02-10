@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"%d %% restante"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Para usar o recoñecemento facial, lembre as seguintes indicacións:\n1. O seu teléfono móbil pode desbloquealo unha persoa ou obxecto que se pareza a vostede.\n2. O recoñecemento facial é menos efectivo que a impresión dixital, o contrasinal por patrón, o cifrado dixital ou un código alfanumérico definido por vostede.\n3. En condicións de escuridade, moita luz ou contraluz, o recoñecemento facial será menos efectivo.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Para optimizar o uso do recoñecemento facial, teña en conta o seguinte:\n1. No momento do rexistro, evite ambientes de pouca luz, moita luz ou contraluz, para asegurar que a súa cara se rexistre con claridade. \n2. Unha vez realizado correctamente o rexistro, o teléfono pode desbloquearse por medio do recoñecemento facial cando se está acendendo a pantalla."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Modo Liveness"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Para desbloquear con ID de Cara con esta función, deberá pestanexar para confirmar que se trata de vostede e non unha foto ou outro obxecto"</string>
+<string name="not_support_in_split_mode">"Non é posible o rexistro en modo de pantalla dividida"</string>
+</resources>

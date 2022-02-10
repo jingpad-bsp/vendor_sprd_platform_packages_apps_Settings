@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Inasalia %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Hutuma utambuaji wa uso, tafadhalikumbuka vidokezo vinavyofuata:\n1. Simu yako ya mkononi inaweza kufunguliwa na mtu au kitu kinachofanana nawe.\n2. Usalama wa utambuaji wa uso ni duni kuliko alama ya kidole, nenosiri la mchoro, msimbo dijitaji na msimbo wako mwenyewe wa alfabeti na nambari.\n3. Katika mandhari ya giza, mwangaza na mwangaza wa nyuma, kiwango cha ufunguaji wa utambuaji wa uso hupungua.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"IIli uweze kutumia vizuri utambuzi wa uso, tafadhali kumbuka yafuatayo:\n1. Awamu ya uandikishaji, epuka mwangaza hafifu, mwangaza mkubwa na mazingira yenye taa za nyuma, ili kuhakikisha uwazi wa picha inayoingizwa ya uso. \n2. Baada ya kufanikiwa kuandikisha, simu inaweza kufunguliwa kupitia utambuzi wa uso wakati skrini inawaka."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Modi ya Uhai"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Ikifunguliwa unahitaji kupepesa macho yako wakati unafungua na Utambulisho wa Uso, ili uhakikishe kwamba ni wewe mtu halisi bada ya picha au vipengele vingine"</string>
+<string name="not_support_in_split_mode">"Haikubali uandikishaji katika hali ya skrini iliyogawanywa"</string>
+</resources>

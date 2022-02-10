@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(ඉතිරි වේලාවන්: <xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"බල සුරැකුම ප්‍රශස්තකරණය"</string>
+<string name="calling_enable_data_title">"ඇමතුම අතරතුර ජංගම ජාලයට පිවිසීමට ඉඩ දෙන්න"</string>
+<string name="cannot_disable_two_sim_card">"ඔබට එකම අවස්ථාවේදී SIM කාඩ් දෙකක් අක්‍රිය කළ නොහැක"</string>
+<string name="cfu_is_on">"සැමවිට ඇමතුම ප්‍රතියොමු කිරීම ක්‍රියාත්මකයි"</string>
+<string name="confirm_data_dialog_message">"දත්ත ප්‍ර වේශය වෙනස් කිරීම සියලු LTE සේවා නතර කරනු ඇත. ඔබට දිගටම කර ගෙන යාමට අවශ්‍යද?"</string>
+<string name="confirm_data_dialog_title">"SIM <xliff:g id="d">%1$d</xliff:g>හි දත්ත තෝරන්න"</string>
+<string name="data_enabled_during_calls_dialog_msg">"සක්‍රීය කළ විට, VoLTE ඇමතුම් අතරතුර දත්ත නොවන SIM හට එහි ජංගම දත්ත සම්බන්ධතාව භාවිතා කර අන්තර්ජාලයට පිවිසිය හැකිය. මෙය අමතර දත්ත ගාස්තු අයවීමට හේතු විය හැකිය."</string>
+<string name="dialog_network_selection_message">"හස්තීය තේරීම් ප්‍රකාරයේ ඇති විට ජංගම දුරකථනය අනෙකුත් මෙහෙරුම්කරුවන් තේරීම සිදු නොකරයි.තෝරාගත් මෙහෙයුම්කරුගේ සේවාව නැති වූ අවස්ථාවේදී සමහරක් අවස්ථාවන්වලදී නැවත ඔබට හස්තීය තේරීම  සිදුකිරීමට සිදුවීම හෝ නැවත ස්වයංක්‍රිය තේරීම් අවස්ථාවට මාරුවීම සිදුකලයුතුයි. ඔබට ජාලය හස්තීයව තේරීමට අවශ්‍යද?"  </string>
+<string name="do_not_switch_default_data_subscription">"ඇමතුම අතරතුර පෙරනිමි දායකත්වය ක්‍රියා විරහිත නොකරන්න"</string>
+<string name="edit_sim_name_disabled">"ගුවන්යානා මාදිලිය පළමුව ක්‍රියා විරහිත කරන්න."</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"වත්මන් ජාල මාදිලිය 4G සඳහා ආධාරක නොවේ, සක්‍රීය කළ පසුව ඔබට ඇමතුම් ලබා ගැනීමට හෝ දීමට නොහැකි වනු ඇත, කරුණාකර වඩා කැමති ජාල මාදිලිය 4G ලෙසට වෙනස් කර නැවත උත්සාහ කරන්න"</string>
+<string name="exception_error">"ජාලයේ හෝ SIM කාඩ්පතේ දෝෂයක්."</string>
+<string name="fdn_check_failure">"ඔබගේ දුරකථන යෙදුමේ ස්ථාවර ඇමතුම් අංක පසුතලය සක්‍රිය කර ඇත. එහි ප්‍රතිඵලයක් ලෙස, සමහර ඇමතුම්-සම්බන්ධ විශේෂාංග ක්‍රියාත්මක නොවේ."</string>
+<string name="fingerprint_settings_applock">"යෙදුම් අගුලුදමීම"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN අක්‍රියයි!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN සක්‍රියයි!"</string>
+<string name="invalid_subscription_preference_setting">"වැරදි සැකසුම්."</string>
+<string name="low_resolution_power_saving">"අඩු රෙසලූෂන් බල සුරැකුම"</string>
+<string name="low_resolution_power_saving_description">"බල සුරැකුමට උපකාර පිණිස අවශ්‍ය පරිදි තිර රෙසලූෂන් එක අඩු කරන්න"</string>
+<string name="main_card_slot">"PRI. "</string>
+<string name="mobile_data_always_online_dialog">"සැමවිට සබැඳි ජංගම දත්ත අබල කිරීම ඇතැම් යෙදුම්වල සබැඳුම් දෝෂවලට හේතු වනු ඇත. කරුණාකර සබැඳි දත්ත යාවත්කාලීන කිරීමට යෙදුම්වල අතින් කරන නැවුම් කිරීමේ විශේෂාංගය භාවිත කරන්න."</string>
+<string name="mobile_data_always_online_summary">"ඇතැම් ජංගම ජාල මත වැඩි බැටරි බලයක් භාවිත කරයි"</string>
+<string name="mobile_data_always_online_title">"ජංගම දත්ත සැමවිට සබැඳිය"</string>
+<string name="mobile_data_not_allowed">"ජාල සෙවීම අතරතුර ජංගම දත්ත නොමැත."</string>
+<string name="mobile_select_default_voice_sim">"කරුණාකර පළමුව පෙරනිමි හඬ කාඩ්පත තෝරන්න."</string>
+<string name="network_2G_only">"2G පමණයි"</string>
+<string name="network_3G_auto">"3G/2G ස්වයංක්‍රිය"</string>
+<string name="network_3G_only">"3G පමණයි"</string>
+<string name="network_4G_2G">"4G/2G ස්වයංක්‍රිය"</string>
+<string name="network_4G_3G">"4G/3G ස්වයංක්‍රිය"</string>
+<string name="network_4G_only">"4G පමණයි"</string>
+<string name="network_4g_auto">"ස්වයං 4G/3G/2G"</string>
+<string name="network_5G">"5G/4G/3G/2G ස්වයං"</string>
+<string name="network_5G_only">"5G පමණි"</string>
+<string name="network_gsm_only">"GSM පමණි"</string>
+<string name="network_mode_setting_prompt">"දැනුම්දීමේ දණ්ඩෙන් ජාලය මාරු කිරීමේ මාදිලිය ඕෆ් කිරීමෙන් ටොගල් වීමට ඉඩ ලැබේ."</string>
+<string name="network_registration_fail">"ජාල ලියාපදිංචිය අසාර්ථක විය, ස්වයංක්‍රිය තේරීම් ශ්‍රිතය විවෘත කරන්නද?"</string>
+<string name="network_registration_fail_title">"ජාල ලියාපදිංචිය අසාර්ථක විය"</string>
+<string name="network_wcdma_only">"WCDMA පමණි"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM ස්වයංක්‍රිය"</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> අංකය:"</string>
+<string name="preferred_data_roaming_all_networks">"සියලු ජාල"</string>
+<string name="preferred_data_roaming_dialogtitle">"දත්ත රෝමින්"</string>
+<string name="preferred_data_roaming_disable">"අක්‍රිය කරන්න"</string>
+<string name="preferred_data_roaming_national">"ජාතික රෝමිං පමණයි"</string>
+<string name="preferred_data_roaming_summary">"ජාතික රෝමිං පමණයි"</string>
+<string name="preferred_data_roaming_title">"දත්ත රෝමින්"</string>
+<string name="primary_sub_summary">"PRI. "</string>
+<string name="radio_off_error">"මෙම පසුතල දර්ශනය කිරීමට පෙර ගුවන් විදුලිය සක්‍රිය කරන්න."</string>
+<string name="reading_settings">"සැකසීම් කියවමින්..."</string>
+<string name="reset_networks_progress">"නැවත සකස්කරමින් පවතී..."</string>
+<string name="response_error">"ජාලයෙන් බලාපොරොත්තු නොවූ ප්‍රතිචාරයක්".</string>
+<string name="screen_split_not_support">"ජංගම දුරකථන ජාලය බෙදුම්-තිරය සමඟ ක්‍රියා නොකරනු ඇත."</string>
+<string name="secondary_card_slot">"SEC. "</string>
+<string name="secondary_sub_summary">"SEC. "</string>
+<string name="select_during_call_prohibited">"ඇමතුම අතරතුර මෙම ක්‍රියාකාරකමට ඉඩ නොදෙයි."</string>
+<string name="select_lte_prohibited">"වත්මන් තේරීම තහනම් කර තිබේ, කරුණාකර 4G ක්‍රියාත්මක කරන්න."</string>
+<string name="select_under_airplane_prohibited">"ගුවන්යානා මාදිලිය පළමුව ක්‍රියා විරහිත කරන්න."</string>
+<string name="sim_calls_not_set_up">"පිහිටුවා නැත"</string>
+<string name="sim_disable_prompt">"Sim සක්‍රියකරණ ස්වභාවය වෙනස් වනු ඇත, කරුණාකර දිගටම කරගෙන යන්නේද යන්න තහවුරු කරන්න?"</string>
+<string name="sim_disabled">"අක්‍රීය කර ඇත"</string>
+<string name="simsettings_forced_resizable">"SIM සැකසුම් බෙදුම්-තිරය සමඟ ක්‍රියා නොකරනු ඇත."</string>
+<string name="smart_dual_sim_hint">"කරුණාකර SIM අංකය ඇතුළු කරන්න."</string>
+<string name="smart_dual_sim_number_null">"SIM අංකය හිස්ය."</string>
+<string name="smart_dual_sim_summary">"ස්මාර්ට් ද්විත්ව SIM තත්ත්වය කළමනාකරණය කරන්න"</string>
+<string name="smart_dual_sim_title">"ස්මාර්ට් ද්විත්ව SIM"</string>
+<string name="smart_dual_sim_warning_message">"Smart Dual SIM සක්‍රීය කරන්නද?\nසමහර සේවා සපයන්නන් සමඟ, මෙම කාර්යය නිසි පරිදි ක්‍රියාත්මක නොවීමට හෝ ගාස්තු අයවීමට ඉඩ තිබේ."</string>
+<string name="smart_forwarding_show_dialog">"මෙය නැවත නොපෙන්වන්න"</string>
+<string name="turn_off_ims_error">"Wi-Fi සක්‍රිය කර ඇති විට %s ඕෆ් කළ නොහැක, කරුණාකර පළමුව Wi-Fi ක්‍රියා විරහිත කරන්න."</string>
+<string name="updating_settings">"සැකසීම් යාවත්කාලීන කරමින්..."</string>
+<string name="uplmn_preference_title">"UPLMN වරණය"</string>
+<string name="vt_resolution_setting">"VoLTE වීඩියෝ සම්මුතිය තෝරන්න"</string>
+</resources>

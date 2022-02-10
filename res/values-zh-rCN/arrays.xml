@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--UNISOC: add for Power saving management start @{-->
+    <string-array name="app_battery_wakeup_list">
+    <item>自动</item>
+    <item>优化</item>
+    <item>不优化</item>
+    </string-array>
+    <string-array name="app_auto_run_entries">
+    <item>自动</item>
+    <item>允许</item>
+    <item>不允许</item>
+    </string-array>
+    <string-array name="lockscreen_close_app_entries">
+    <item>自动</item>
+    <item>清理</item>
+    <item>不清理</item>
+    </string-array>
+    <string-array name="low_power_switch_entries">
+    <item>超级省电模式</item>
+    <item>省电模式</item>
+    </string-array>
+    <string-array name="low_power_switch_entries_without_ultrasaving">
+    <item>省电模式</item>
+    </string-array>
+    <string-array name="schedule_mode_switch_entries">
+    <item>超级省电模式</item>
+    <item>省电模式</item>
+    <item>智能省电模式</item>
+    </string-array>
+    <string-array name="schedule_mode_switch_entries_without_ultrasaving">
+    <item>省电模式</item>
+    <item>智能省电模式</item>
+    </string-array>
+    <!--UNISOC: add for Power saving management end @{-->
+
+    <!-- UNISOC:add for bug1104406 Support "Local system update" start-->
+    <string-array name="update_choice">
+        <item>内部升级</item>
+        <item>SD卡升级</item>
+    </string-array>
+    <!-- UNISOC:add for bug1104406 Support "Local system update" end-->
+
+    <!-- UNISOC:add for bug1072221 Support " schedule power on/off" start -->
+    <string-array name="alarm_set">
+      <item>"已将此设置为从现在起不到 1 分钟后生效。"</item>
+      <item>"已将此设置为从现在起 <xliff:g id="DAYS">%1$s</xliff:g>后再生效。"</item>
+      <item>"已将此设置为从现在起 <xliff:g id="HOURS">%2$s</xliff:g>后再生效。"</item>
+      <item>"已将此设置为从现在起 <xliff:g id="DAYS">%1$s</xliff:g><xliff:g id="HOURS">%2$s</xliff:g>后再生效。"</item>
+      <item>"已将此设置为从现在起 <xliff:g id="MINUTES">%3$s</xliff:g>后再生效。"</item>
+      <item>"已将此设置为从现在起 <xliff:g id="DAYS">%1$s</xliff:g><xliff:g id="MINUTES">%3$s</xliff:g>后再生效。"</item>
+      <item>"已将此设置为从现在起 <xliff:g id="HOURS">%2$s</xliff:g><xliff:g id="MINUTES">%3$s</xliff:g>后再生效。"</item>
+      <item>"已将该设置为从现在起 <xliff:g id="DAYS">%1$s</xliff:g><xliff:g id="HOURS">%2$s</xliff:g><xliff:g id="MINUTES">%3$s</xliff:g>后再生效。"</item>
+    </string-array>
+    <!-- UNISOC:add for bug1072221 Support " schedule power on/off" end -->
+</resources>

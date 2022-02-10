@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"Gunakan waktu yang disediakan jaringan"</item>
+<item>"Menggunakan GPS penyediaan waktu"</item>
+<item>"Tidak aktif"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 detik</item>
+<item>"6 detik"</item>
+<item>"Selalu aktif"</item>
+<item>"Selalu tutup"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"Ini diatur untuk kurang dari 1 menit dari sekarang."</item>
+<item>"Ini diatur untuk<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dari sekarang."</item>
+<item>"Ini diatur untuk <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dari sekarang."</item>
+<item>"Ini diatur untuk <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dan <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dari sekarang."</item>
+<item>"Ini diatur untuk <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang"</item>
+<item>"Ini diatur untuk <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang."</item>
+<item>"Ini diatur untuk <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang."</item>
+<item>"Ini diatur untuk <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dan <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang."</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>Otomatis</item>
+<item>"Optimalkan"</item>
+<item>"Tanpa Pengoptimalan"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>Otomatis</item>
+<item>"Aktifkan"</item>
+<item>"Nonaktifkan"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>Otomatis</item>
+<item>Tutup</item>
+<item>"Jangan tutup"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"Mode penghematan ultra"</item>
+<item>"Mode penghemat daya"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"Mode penghemat daya"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"Mode penghematan ultra"</item>
+<item>"Mode penghemat daya"</item>
+<item>"Mode Smart saving"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"Mode penghemat daya"</item>
+<item>"Mode Smart saving"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"pembaruan internal"</item>
+<item>"Pembaruan SD"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"Gunakan waktu yang disediakan jaringan"</item>
+<item>"Tidak aktif"</item>
+</string-array>
+</resources>

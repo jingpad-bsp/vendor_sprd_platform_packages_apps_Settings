@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Kalan %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Yüz tanıma özelliğini kullanır; lütfen aşağıdaki notları aklınızda tutun:\n1. Cep telefonunuzun kilidi size benzeyen kişi ya da öğe tarafından açılabilir.\n2. Yüz tanıma özelliği parmak izi, desen parola, dijital şifre ve kişinin kendisinin tanımladığı alfa sayısal koda göre daha düşük güvenliğe sahiptir.\n3. Karanlık, aydınlık ve arka plan ışıklandırmalı koşullarda yüz tanımayla kilit açma başarı oranı düşecektir.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Yüz tanımayı daha iyi kullanmak için aşağıdakilere dikkat edin:\n1. Girilen yüz görüntüsünün net olmasını sağlamak için kaydetme aşamasında karanlık, yüksek ışık ve arkadan aydınlatmadan kaçının. \n2. Kayıt başarılı olduktan sonra ekran açılırken yüz tanıma sayesinde telefon kilidi açılabilir."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Canlılık Modu"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Bu özellik açıldığında, Face ID ile kilidi açarken fotoğrafınız ya da başka bir nesne olmadığından emin olmak için gözlerinizi kırpmanız gerekecek"</string>
+<string name="not_support_in_split_mode">"Bölünmüş ekran modunda kayıt desteklenmiyor"</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="attempts_remaining_times">"(বাকী থকা সময়:<xliff:g id="d">%1$d</xliff:g>)"</string>
+<string name="battery_saver">"পাৱাৰ সংৰক্ষণ অপ্টিমাইজেচন"</string>
+<string name="calling_enable_data_title">"কল কৰাৰ সময়ত ম’বাইল নেটৱৰ্কত প্ৰৱেশ কৰাৰ অনুমতি দিয়ক"</string>
+<string name="cannot_disable_two_sim_card">"আপুনি একে সময়তে দুটা SIM অক্ষম কৰিব নোৱাৰে"</string>
+<string name="cfu_is_on">"সদায় কল ফৰৱাৰ্ড কৰাটো অন আছে"</string>
+<string name="confirm_data_dialog_message">"ডাটা একচেচ সলনি কৰিলে গোটে LTE পৰিষেবা বন্ধ হৈ যাব। আপুনি চলাই যাব বিচাৰে নেকি?"</string>
+<string name="confirm_data_dialog_title">"ডাটা নিৰ্বাচন কৰক SIM <xliff:g id="d">%1$d</xliff:g>"</string>
+<string name="data_enabled_during_calls_dialog_msg">"যেতিয়া সক্ষম কৰা হয়, তেতিয়া অনা-ডাটা SIM-এ নিজৰ ম’বাইল ডাটা সংযোগ ব্যৱহাৰ কৰি ইণ্টাৰনেটত প্ৰৱেশ কৰিব পাৰে। ইয়াৰ ফলত অতিৰিক্ত ডাটা মাচুল লাগিব পাৰে।"</string>
+<string name="dialog_network_selection_message">"আপোনাৰ ফোনে মেন্যুৱেল বাচনি মোডত আপোনাৰ বাবে অন্য অপাৰেশ্বন বাচনি নকৰিব | কেতিয়াবা আপুনি পুনৰাই মেন্যুৱেল বাচনি বা হস্তসাধিত বাচনি কৰিব লগা হয় নতুবা আপুনি যেতিয়া বাচনি কৰা অপাৰেটৰ সেৱা হেৰুৱাই পেলাই তেতিয়া স্বত্বস্ফূৰ্ত বাচনি মোডলৈ ঘূৰি যাব পাৰে?"</string>
+<string name="do_not_switch_default_data_subscription">"কলৰ সময়ত ডিফল্ট সদস্যভুক্তি সাল-সলনি নকৰিব"</string>
+<string name="edit_sim_name_disabled">"প্ৰথমে এয়াৰপ্লেন মোড অফ কৰক।"</string>
+<string name="enhanced_4g_lte_cannot_be_enabled">"বৰ্তমানৰ নেটৱৰ্ক মোডে 4G সমৰ্থন নকৰে, সক্ৰিয়কৰণৰ পিছত আপুনি কল কৰিবলৈ আৰু প্ৰাপ্ত কৰিবলৈ সক্ষম নহ\'ব, অনুগ্ৰহ কৰি 4G-লৈ পছন্দৰ নেটৱৰ্কটো সাল-সলনি কৰক আৰু পুনৰাই চেষ্টা কৰক"</string>
+<string name="exception_error">"নেটৱৰ্ক বা SIM কাডৰ আঁসোৱাহ"</string>
+<string name="fdn_check_failure">"আপোনাৰ ফোনৰ এপ্পৰ ফিক্সড ডায়েলিং নম্বৰ ছেটিংছ অন হৈছে৷ তাৰ ফলস্বৰূপে কিছুমান কল সম্পৰ্কীয় বৈশিষ্টই কাম কৰা নাই৷"</string>
+<string name="fingerprint_settings_applock">"এপ লক"</string>
+<string name="icc_pin_disabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN নিস্ক্ৰিয়!"</string>
+<string name="icc_pin_enabled">"SIM <xliff:g id="card_number">%1$d</xliff:g> PIN সক্ৰিয়!"</string>
+<string name="invalid_subscription_preference_setting">"অবৈধ ছেটিং।"</string>
+<string name="low_resolution_power_saving">"কম ৰিজ’লুশ্বনৰ পাৱাৰ চেভিং"</string>
+<string name="low_resolution_power_saving_description">"পাৱাৰ সংৰক্ষণ কৰিবলৈ প্ৰয়োজন হোৱা স্ক্ৰীণ ৰিজ’লুশ্বন কমোৱা হয়"</string>
+<string name="main_card_slot">"পি আৰ আই. "</string>
+<string name="mobile_data_always_online_dialog">"সদায় ম\'বাইল ডাটা অন থকাটো অক্ষম কৰিলে কিছুমান এপ্লিকেচনত সংযোগৰ সমস্যা সৃষ্টি কৰিব পাৰে। অনুগ্ৰহ কৰি অনলাইন ডাটা উন্নীত কৰিবলৈ মেনুৱেল সতেজকৰণ সুবিধা ব্যৱহাৰ কৰক।"</string>
+<string name="mobile_data_always_online_summary">"কিছুমান ম\'বাইল নেটৱৰ্কত বেছি বেটাৰী পাৱাৰ ব্যৱহাৰ কৰে"</string>
+<string name="mobile_data_always_online_title">"মবাইল ডাটা সৰ্বদা অনলাইন"</string>
+<string name="mobile_data_not_allowed">"নেটৱৰ্ক সন্ধানৰ সময়চোৱাত ম\'বাইল ডাটা উপলভ্য নহয়।"</string>
+<string name="mobile_select_default_voice_sim">"অনুগ্ৰহ কৰি প্ৰথমে ডিফল্ট ধ্বনি কাৰ্ড বাছনি কৰক।"</string>
+<string name="network_2G_only">"কেৱল 2G"</string>
+<string name="network_3G_auto">"3G/2G অটো"</string>
+<string name="network_3G_only">"কেৱল 3G "</string>
+<string name="network_4G_2G">"4G/2G অটো"</string>
+<string name="network_4G_3G">"4G/3G  অটো"</string>
+<string name="network_4G_only">"কেৱল 4G"</string>
+<string name="network_4g_auto">"4G/3G/2G অটো"</string>
+<string name="network_5G">"5G/4G/3G/2G স্বয়ং"</string>
+<string name="network_5G_only">"কেৱল 5G"</string>
+<string name="network_gsm_only">"কেৱল GSM"</string>
+<string name="network_mode_setting_prompt">"অধিসূচনা দণ্ডিকাৰ পৰা নেটৱৰ্ক মোড সলনি কৰাটো অফ কৰাৰ পাছত টগল কৰাৰ অনুমতি দিয়া হয়।"</string>
+<string name="network_registration_fail">"নেটৱৰ্ক পঞ্জীয়ন ব্যৰ্থ হ\'ল, স্বয়ংক্ৰিয় বাছনি ফাংচন খুলিব নে?"</string>
+<string name="network_registration_fail_title">"নেটৱৰ্ক পঞ্জীয়ন ব্যৰ্থ হৈছে"</string>
+<string name="network_wcdma_only">"কেৱল WCDMA"</string>
+<string name="network_wcdma_pref">"WCDMA/GSM অটো"</string>
+<string name="number_sim">"SIM <xliff:g id="SIM_NUMER" example="1">%d</xliff:g> নম্বৰ:"</string>
+<string name="preferred_data_roaming_all_networks">"সকলো নেটৱৰ্ক"</string>
+<string name="preferred_data_roaming_dialogtitle">"ডাটা ৰোমিং"</string>
+<string name="preferred_data_roaming_disable">"অক্ষম"</string>
+<string name="preferred_data_roaming_national">"কেবল নেচনাল ৰোমিং"</string>
+<string name="preferred_data_roaming_summary">"কেবল নেচনাল ৰোমিং"</string>
+<string name="preferred_data_roaming_title">"ডাটা ৰোমিং"</string>
+<string name="primary_sub_summary">"পি আৰ আই. "</string>
+<string name="radio_off_error">"এই ছেটিংছ চোৱাৰ পূৰ্বে ৰেডিঅ’ অন কৰক"</string>
+<string name="reading_settings">"ছেটিংচ পঢ়ি আছে..."</string>
+<string name="reset_networks_progress">"পুনঃছেট হৈ আছে..."</string>
+<string name="response_error">"নেটৱৰ্কৰ পৰা অনাকাঙ্খিত সঁহাৰি"</string>
+<string name="screen_split_not_support">"ম’বাইল নেটৱৰ্কে স্প্লিট-স্ক্ৰীণত কাম নকৰিব পাৰে।"</string>
+<string name="secondary_card_slot">"এচ ই চি "</string>
+<string name="secondary_sub_summary">"এচ ই চি "</string>
+<string name="select_during_call_prohibited">"কল চলি থকা সময়ত এই অপাৰেচনৰ অনুমতি দিয়া নহয়।"</string>
+<string name="select_lte_prohibited">"বৰ্তমানৰ চয়নক নিষিদ্ধ কৰা হৈছে, অনুগ্ৰহ কৰি 4G অন কৰক।"</string>
+<string name="select_under_airplane_prohibited">"প্ৰথমে এয়াৰপ্লেন মোড অফ কৰক।"</string>
+<string name="sim_calls_not_set_up">"ছেট আপ নহয়"</string>
+<string name="sim_disable_prompt">" চিম সক্ৰিয়কৰন অৱস্থা সলনি কৰা হ\'ব, কৰা যাওক নে অনুগ্ৰহ কৰি খাটাং কৰক?"</string>
+<string name="sim_disabled">"অদৃশ্য"</string>
+<string name="simsettings_forced_resizable">"SIM ছেটিংছে স্প্লিট-স্ক্ৰীণত কাম নকৰিব পাৰে।"</string>
+<string name="smart_dual_sim_hint">"অনুগ্ৰহ কৰি SIM নম্বৰ ইনপুট কৰক।"</string>
+<string name="smart_dual_sim_number_null">"SIM নম্বৰটো খালি আছে।"</string>
+<string name="smart_dual_sim_summary">"স্মাৰ্ট ডুৱেল SIM স্থিতি ব্যৱস্থাপনা কৰক"</string>
+<string name="smart_dual_sim_title">"স্মাৰ্ট ডুৱেল SIM"</string>
+<string name="smart_dual_sim_warning_message">"স্মাৰ্ট ডুৱেল SIM সক্ষম কৰিব নেকি?\nকিছুমান সেৱা প্ৰদানকাৰীৰ সৈতে এই ফাংচনটোৱে হয়তো ভালদৰে কাম নকৰিব পাৰে বা আপোনাৰ পৰা মাচুল আদায় কৰিব পাৰে।"</string>
+<string name="smart_forwarding_show_dialog">"অনুগ্ৰহ কৰি ইয়াক পুনৰ নেদেখুৱাব"</string>
+<string name="turn_off_ims_error">"যেতিয়া Wi-Fi কলিং সক্ষম হৈ থাকে %s তেতিয়া অফ কৰিব নোৱাৰি, অনুগ্ৰহ কৰি প্ৰথমে Wi-Fi অফ কৰক।"</string>
+<string name="updating_settings">"ছেটিংচ উন্নীত কৰি আছে..."</string>
+<string name="uplmn_preference_title">"UPLMN পচন্দ"</string>
+<string name="vt_resolution_setting">"VoLTE ভিডিঅ\' ৰিজলুশ্বন চয়ন কৰক"</string>
+</resources>

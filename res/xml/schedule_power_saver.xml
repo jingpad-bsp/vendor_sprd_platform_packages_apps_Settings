@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/schedule_mode"
+    android:key="schedule_power_saver">
+
+    <com.android.settingslib.RestrictedSwitchPreference
+        android:key="schedule_mode"
+        android:title="@string/schedule_mode" />
+
+    <Preference
+        android:key="schedule_turn_on_time"
+        android:title="@string/schedule_turn_on_time" />
+
+    <Preference
+        android:key="schedule_turn_off_time"
+        android:title="@string/schedule_turn_off_time" />
+
+    <ListPreference
+        android:key="schedule_power_mode"
+        android:title="@string/schedule_power_mode" />
+</PreferenceScreen>

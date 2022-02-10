@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Restant %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Lors de l’utilisation de la reconnaissance faciale, notez les points suivants :\n1. Il est possible que votre téléphone portable soit déverrouillé par une personne ou un élément qui vous ressemble.\n2. La reconnaissance faciale offre une sécurité moins élevée que l’empreinte digitale, le mot de passe par schéma, le chiffrement numérique et le code alphanumérique défini.\n3. Les performances de la fonction de reconnaissance faciale pour déverrouiller l’appareil diminuent dans un environnement sombre, lumineux ou à contre-jour.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Pour mieux utiliser la reconnaissance faciale, notez les points suivants :\n1. Lors de la phase de détection, évitez les endroits sombres, les éclairages intenses et les environnements rétroéclairés afin d\'assurer la clarté de l\'image du visage. \n2. Après la détection, vous pouvez déverrouiller le téléphone via la reconnaissance faciale lorsque l\'écran s\'allume."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Mode d’activité"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Lorsque cette fonction est activée, vous devez cligner des yeux lors du déverrouillage avec Face ID pour vous assurer que l’appareil détecte bien votre visage et non pas une photo ou un objet"</string>
+<string name="not_support_in_split_mode">"Inscription non prise en charge en mode d\'écran fractionné"</string>
+</resources>

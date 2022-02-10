@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="face_data_remaining">"Queda %d %%"</string>
+<string name="security_settings_faceid_enroll_introduction_message">"Utiliza reconocimiento facial; tenga en cuenta las notas que siguen:\n1. Su teléfono móvil puede ser desbloqueado por una persona o un objeto que se parece a usted.\n2. El reconocimiento facial es inferior a la huella digital, la contraseña por patrón, el cifrado digital y el código alfanumérico autodefinido.\n3. La tasa de éxito del uso de reconocimiento facial para desbloquear disminuirá en la oscuridad, con iluminación muy fuerte y en contraluz.\n"</string>
+<string name="security_settings_faceid_enroll_introduction_message_warning">"Para usar mejor el reconocimiento facial, tome nota de lo siguiente:\n1. En la fase de inscripción evite la iluminación escasa, la iluminación intensa y el contraluz, para asegurar que sea clara la imagen del rostro ingresado. \n2. Después de una inscripción correcta, se puede desbloquear el teléfono por medio del reconocimiento facial cuando se está encendiendo el teléfono."</string>
+<string name="security_settings_face_settings_require_livenessmode">"Modo viviente"</string>
+<string name="security_settings_face_settings_require_livenessmode_details">"Cuando se abre, debe parpadear para desbloquear con ID de rostro; así se verifica que es realmente usted, y no una foto u otro objeto"</string>
+<string name="not_support_in_split_mode">"No se admite la inscripción en el modo de pantalla dividida"</string>
+</resources>

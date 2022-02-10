@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="auto_time_entries">
+<item>"በአውታረ-መረብ የቀረበ ሰዓት ተጠቀም"</item>
+<item>" GPS-የተካተተ ጊዜ ተጠቀም "</item>
+<item>"ውጪ"</item>
+</string-array>
+<string-array name="touch_light_timeout_entries">
+<item>1.5 ሴኮንዶች</item>
+<item>"6 ሰከንዶች"</item>
+<item>"ሁልጊዜ ይበራል"</item>
+<item>"ሁሌም እንደተዘጋ ነው"</item>
+</string-array>
+<string-array name="alarm_set">
+<item>"ከአሁን በኋላ ከ 1 ደቂቃ ለነሰ ግዜ ተስተካክላéል፡፡"</item>
+<item>"ይህ ከአሁን ጀምሮ ለ<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ተስተካክላል፡፡"</item>
+<item>"ይህ ከአሁን ጀምሮ ለ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ተስተካክላል፡፡."</item>
+<item>"ይህ ከአሁን ጀምሮ ለ  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> እና <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ተስተካክላል፡፡"</item>
+<item>"ይህ ከአሁን ጀምሮ ለ  <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ተስተካክላል፡፡"</item>
+<item>"ይህ ከአሁን ጀምሮ ለ  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> እና<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ተስተካክላል፡፡"</item>
+<item>"ይህ ከአሁን ጀምሮ ለ  <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> እና <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>ተስተካክላል፡፡"</item>
+<item>"ይህ ከአሁን ጀምሮ ለ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, እና <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ተስተካክላል፡፡"</item>
+</string-array>
+<string-array name="app_battery_wakeup_list">
+<item>"ራስ ሰር"</item>
+<item>"አትባ"</item>
+<item>"አታትባ"</item>
+</string-array>
+<string-array name="app_auto_run_entries">
+<item>"ራስ ሰር"</item>
+<item>"አንቃ"</item>
+<item>"አሰናክል"</item>
+</string-array>
+<string-array name="lockscreen_close_app_entries">
+<item>"ራስ ሰር"</item>
+<item>ዝጋ</item>
+<item>"አትዝጋ"</item>
+</string-array>
+<string-array name="low_power_switch_entries">
+<item>"ልዕለ ቁጠባ ሁነታ"</item>
+<item>"የኃይል ቁጠባ ሁነታ"</item>
+</string-array>
+<string-array name="low_power_switch_entries_without_ultrasaving">
+<item>"የኃይል ቁጠባ ሁነታ"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries">
+<item>"ልዕለ ቁጠባ ሁነታ"</item>
+<item>"የኃይል ቁጠባ ሁነታ"</item>
+<item>"የዘመናዊ ማስቀመጥ ሁነታ"</item>
+</string-array>
+<string-array name="schedule_mode_switch_entries_without_ultrasaving">
+<item>"የኃይል ቁጠባ ሁነታ"</item>
+<item>"የዘመናዊ ማስቀመጥ ሁነታ"</item>
+</string-array>
+<string-array name="update_choice">
+<item>"ውስጣዊ ዝማኔ"</item>
+<item>"የSD ዝማኔ"</item>
+</string-array>
+<string-array name="auto_time_entries_no_gps">
+<item>"በአውታረ-መረብ የቀረበ ሰዓት ተጠቀም"</item>
+<item>"ውጪ"</item>
+</string-array>
+</resources>
